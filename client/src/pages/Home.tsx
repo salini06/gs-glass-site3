@@ -15,7 +15,7 @@ export default function Home() {
             <div className="space-y-6">
               <div>
                 <h1 className="text-primary-foreground text-5xl md:text-6xl font-bold mb-4">
-                  GS Glass
+                  GS Glass Brasil
                 </h1>
                 <p className="text-xl md:text-2xl text-primary-foreground/90 font-light">
                   Soluções Profissionais em Vidro
