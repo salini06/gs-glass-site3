@@ -1,6 +1,7 @@
 import { ChevronRight, CheckCircle, Users, Zap } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import PortfolioCarousel from '@/components/PortfolioCarousel';
 
 export default function Home() {
   return (
@@ -128,38 +129,8 @@ export default function Home() {
             </p>
           </div>
 
-          {/* Portfolio Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {[
-              {
-                image: '/images/glass-doors-divisoria.jpg',
-                title: 'Vidros Certificados',
-                desc: 'Utilização de vidros certificados e sistemas adequados para cada aplicação'
-              },
-              {
-                image: '/images/glass-mirror-installation.jpg',
-                title: 'Espelhos Premium',
-                desc: 'Medições técnicas e instalação alinhada ao projeto arquitetônico'
-              },
-              {
-                image: '/images/bathroom-box-premium.jpg',
-                title: 'Conformidade Técnica',
-                desc: 'Projetos executados conforme normas técnicas e exigências do local'
-              },
-            ].map((item, idx) => (
-              <div key={idx} className="group cursor-pointer">
-                <div className="relative h-64 rounded-lg overflow-hidden mb-4 shadow-lg">
-                  <img
-                    src={item.image}
-                    alt={item.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                  />
-                </div>
-                <h3 className="text-xl font-bold text-primary mb-2">{item.title}</h3>
-                <p className="text-foreground/70">{item.desc}</p>
-              </div>
-            ))}
-          </div>
+          {/* Portfolio Carousel */}
+          <PortfolioCarousel />
 
           <div className="mt-12 p-6 bg-white rounded-lg border border-gray-200">
             <p className="text-foreground/80">
