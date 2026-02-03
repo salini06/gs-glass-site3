@@ -16,7 +16,7 @@ export default function Header() {
       <nav className="container mx-auto px-4 py-3 md:py-4 flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center">
-          <h1 className="text-xl md:text-2xl font-bold text-primary">GS Glass</h1>
+          <h1 className="text-xl md:text-2xl font-bold text-primary">GS Glass Brasil</h1>
         </div>
 
         {/* Desktop Navigation */}

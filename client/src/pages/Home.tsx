@@ -307,10 +307,10 @@ export default function Home() {
                 <p className="text-sm">Atendimento direto e ágil para orçamentos e consultas técnicas</p>
               </a>
               <a
-                href="mailto:gsglass@gmail.com"
+                href="mailto:orcamento.gsglass@gmail.com"
                 className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all"
               >
-                <div className="text-lg font-bold mb-2">gsglass@gmail.com</div>
+                <div className="text-lg font-bold mb-2">orcamento.gsglass@gmail.com</div>
                 <p className="text-sm">Contato profissional para projetos e parcerias estratégicas</p>
               </a>
             </div>
