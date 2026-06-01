@@ -191,4 +191,64 @@
   .premium-shadow-lg {
     box-shadow: 0 20px 60px rgba(26, 77, 61, 0.12);
   }
+
+  /* Portfolio Gallery Animations */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slideInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  .animate-fade-in-up {
+    animation: fadeInUp 0.6s ease-out;
+  }
+
+  .animate-slide-in-left {
+    animation: slideInLeft 0.6s ease-out;
+  }
+
+  /* Stagger animation for gallery items */
+  .portfolio-item {
+    animation: fadeInUp 0.6s ease-out;
+  }
+
+  .portfolio-item:nth-child(1) { animation-delay: 0.1s; }
+  .portfolio-item:nth-child(2) { animation-delay: 0.2s; }
+  .portfolio-item:nth-child(3) { animation-delay: 0.3s; }
+  .portfolio-item:nth-child(4) { animation-delay: 0.4s; }
+  .portfolio-item:nth-child(5) { animation-delay: 0.5s; }
+  .portfolio-item:nth-child(6) { animation-delay: 0.6s; }
+  .portfolio-item:nth-child(7) { animation-delay: 0.7s; }
+  .portfolio-item:nth-child(8) { animation-delay: 0.8s; }
+  .portfolio-item:nth-child(9) { animation-delay: 0.9s; }
+
+  /* Smooth transitions */
+  .transition-smooth {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  /* Shadow elevation */
+  .shadow-elevation {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
+
+  .shadow-elevation-hover:hover {
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+  }
 }

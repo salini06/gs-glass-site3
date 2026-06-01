@@ -1,0 +1,220 @@
+import { useState } from 'react';
+import { ChevronRight } from 'lucide-react';
+
+interface PortfolioItem {
+  id: string;
+  title: string;
+  category: 'residencial' | 'industrial';
+  image: string;
+  description: string;
+}
+
+const portfolioItems: PortfolioItem[] = [
+  // RESIDENCIAL
+  {
+    id: 'res-01',
+    title: 'Sacada Moderna',
+    category: 'residencial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-01-sacada-jpVkintX3gkgd7u8WEMpUV.png',
+    description: 'Envidraçamento premium para sacadas com acabamento impecável'
+  },
+  {
+    id: 'res-02',
+    title: 'Box de Banheiro',
+    category: 'residencial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-02-box-banheiro-jpVkintX3gkgd7u8WEMpUV.png',
+    description: 'Boxes personalizados com vidro temperado e acabamento sofisticado'
+  },
+  {
+    id: 'res-03',
+    title: 'Esquadrias Elegantes',
+    category: 'residencial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-03-esquadrias-jpVkintX3gkgd7u8WEMpUV.png',
+    description: 'Esquadrias de alumínio com vidro de alto desempenho'
+  },
+  {
+    id: 'res-04',
+    title: 'Guarda-Corpo em Vidro',
+    category: 'residencial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-04-guarda-corpo-jpVkintX3gkgd7u8WEMpUV.png',
+    description: 'Guarda-corpos em vidro temperado com acabamento premium'
+  },
+  {
+    id: 'res-05',
+    title: 'Cobertura de Vidro',
+    category: 'residencial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-05-cobertura-vidro-jpVkintX3gkgd7u8WEMpUV.png',
+    description: 'Coberturas em vidro laminado com estrutura elegante'
+  },
+  {
+    id: 'res-06',
+    title: 'Espelhos Premium',
+    category: 'residencial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-06-espelhos-jgEJgMFsS8oT8TsafH2UXP.webp',
+    description: 'Espelhos de alto padrão com acabamento sofisticado'
+  },
+  {
+    id: 'res-07',
+    title: 'Divisórias Internas',
+    category: 'residencial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-07-divisorias-AhjCSJRW6pxxY7PBehhBEq.webp',
+    description: 'Divisórias em vidro para ambientes integrados'
+  },
+
+  // INDUSTRIAL
+  {
+    id: 'ind-01',
+    title: 'Fachada Corporativa',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-01-fachada-MQQ5Rr25zc5xkHEawUkdZj.webp',
+    description: 'Fachadas de vidro estruturado para edifícios corporativos'
+  },
+  {
+    id: 'ind-02',
+    title: 'Esquadrias Comerciais',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-02-esquadrias-corp-U9dJqxpnK7fo9o9FBSwR7W.webp',
+    description: 'Sistemas de esquadrias para ambientes comerciais'
+  },
+  {
+    id: 'ind-03',
+    title: 'Fechamento Corporativo',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-03-fechamento-corp-CwzPMC8pH696dcu8pbxYUW.webp',
+    description: 'Fechamentos em vidro para áreas comerciais'
+  },
+  {
+    id: 'ind-04',
+    title: 'Guarda-Corpo Corporativo',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-04-guarda-corpo-corp-DufzRri6sB8tEGLgYy2yQk.webp',
+    description: 'Guarda-corpos em vidro para ambientes corporativos'
+  },
+  {
+    id: 'ind-05',
+    title: 'Projetos Especiais',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-05-projetos-especiais-8wXY6D6ueVZSWZTQSqjSLG.webp',
+    description: 'Soluções customizadas para projetos especiais'
+  },
+  {
+    id: 'ind-06',
+    title: 'Pele de Vidro',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-06-pele-vidro-cYMsbt8VkP6cyLnqxkVRYF.webp',
+    description: 'Fachadas em vidro estruturado de alta performance'
+  },
+  {
+    id: 'ind-07',
+    title: 'Portas Automáticas',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-07-portas-automaticas-mcsnmcZt2yia6LAfTQuQMM.webp',
+    description: 'Sistemas de portas automáticas para entradas corporativas'
+  },
+  {
+    id: 'ind-08',
+    title: 'Divisórias Corporativas',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-08-divisorias-corp-Fe2b5pPyhzvmpbma6JAM65.webp',
+    description: 'Divisórias em vidro para espaços corporativos'
+  },
+  {
+    id: 'ind-09',
+    title: 'Coberturas Industriais',
+    category: 'industrial',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-09-coberturas-ind-BkEz8rwm28aPx7uFvwn5cw.webp',
+    description: 'Estruturas de cobertura em vidro e alumínio'
+  }
+];
+
+export default function PortfolioGallery() {
+  const [activeCategory, setActiveCategory] = useState<'residencial' | 'industrial'>('residencial');
+
+  const filteredItems = portfolioItems.filter(item => item.category === activeCategory);
+
+  return (
+    <section id="portfolio" className="py-20 bg-gradient-to-b from-white to-slate-50">
+      <div className="container mx-auto px-4">
+        {/* Header */}
+        <div className="text-center mb-16">
+          <h2 className="text-4xl md:text-5xl font-bold text-primary mb-4">
+            Qualidade Comprovada
+          </h2>
+          <p className="text-lg text-slate-600 max-w-2xl mx-auto">
+            Mais de 100 obras realizadas. Cada projeto é uma demonstração de nossa excelência técnica e compromisso com a qualidade.
+          </p>
+        </div>
+
+        {/* Category Tabs */}
+        <div className="flex justify-center gap-4 mb-12">
+          <button
+            onClick={() => setActiveCategory('residencial')}
+            className={`px-8 py-3 rounded-lg font-semibold transition-all duration-300 ${
+              activeCategory === 'residencial'
+                ? 'bg-primary text-white shadow-lg'
+                : 'bg-white text-primary border-2 border-primary hover:bg-slate-50'
+            }`}
+          >
+            Residencial
+          </button>
+          <button
+            onClick={() => setActiveCategory('industrial')}
+            className={`px-8 py-3 rounded-lg font-semibold transition-all duration-300 ${
+              activeCategory === 'industrial'
+                ? 'bg-primary text-white shadow-lg'
+                : 'bg-white text-primary border-2 border-primary hover:bg-slate-50'
+            }`}
+          >
+            Industrial & Comercial
+          </button>
+        </div>
+
+        {/* Gallery Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {filteredItems.map((item) => (
+            <div
+              key={item.id}
+              className="portfolio-item group relative overflow-hidden rounded-xl shadow-lg hover:shadow-2xl transition-all duration-500 cursor-pointer h-80"
+            >
+              {/* Image */}
+              <img
+                src={item.image}
+                alt={item.title}
+                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+              />
+
+              {/* Overlay */}
+              <div className="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end p-6">
+                <h3 className="text-white text-xl font-bold mb-2">{item.title}</h3>
+                <p className="text-white/90 text-sm mb-4">{item.description}</p>
+                <div className="flex items-center text-accent font-semibold">
+                  Ver mais
+                  <ChevronRight size={18} className="ml-2" />
+                </div>
+              </div>
+
+              {/* Border accent */}
+              <div className="absolute inset-0 border-2 border-accent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-xl pointer-events-none" />
+            </div>
+          ))}
+        </div>
+
+        {/* CTA */}
+        <div className="text-center mt-16">
+          <p className="text-slate-600 mb-6">
+            Quer conhecer mais sobre nossos projetos?
+          </p>
+          <a
+            href="https://wa.me/5511934275767"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 bg-primary text-white px-8 py-3 rounded-lg hover:bg-primary/90 transition-colors font-semibold"
+          >
+            Solicitar Orçamento
+            <ChevronRight size={20} />
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+}

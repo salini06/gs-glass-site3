@@ -1,7 +1,7 @@
 import { ChevronRight, CheckCircle, Users, Zap } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import PortfolioCarousel from '@/components/PortfolioCarousel';
+import PortfolioGallery from '@/components/PortfolioGallery';
 
 export default function Home() {
   return (
@@ -130,7 +130,7 @@ export default function Home() {
           </div>
 
           {/* Portfolio Carousel */}
-          <PortfolioCarousel />
+          <PortfolioGallery />
 
           <div className="mt-12 p-6 bg-white rounded-lg border border-gray-200">
             <p className="text-foreground/80">
