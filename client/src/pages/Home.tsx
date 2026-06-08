@@ -148,7 +148,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-3 rounded font-semibold hover:bg-opacity-90 transition-all"
             >
-              Solicitar Orçamento
+              
               <ChevronRight size={20} />
             </a>
           </div>
