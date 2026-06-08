@@ -16,14 +16,14 @@ export default function Home() {
             <div className="space-y-6">
               <div>
                 <h1 className="text-primary-foreground text-5xl md:text-6xl font-bold mb-4" style={{fontSize: '42px'}}>
-                  Vidraçaria Premium em São Paulo: Sacadas, Box, Esquadrias e Pele de Vidro
+                  Box de Vidro, Sacadas e Esquadrias Premium em São Paulo
                 </h1>
                 <p className="text-xl md:text-2xl text-primary-foreground/90 font-light">
-                  Soluções Profissionais em Vidro com 20+ Anos de Experiência
+                  Soluções Profissionais com 20+ Anos de Experiência | Orçamento Gratuito
                 </p>
               </div>
               <p className="text-lg text-primary-foreground/80 leading-relaxed">
-                A GS Glass Brasil oferece soluções completas em vidro para residências, comerciais e industriais em São Paulo e região. Especializados em box de vidro sob medida, fechamento de sacadas, esquadrias de alumínio, pele de vidro corporativa e espelhos premium.
+                A GS Glass Brasil é especialista em soluções completas de vidraçaria para residências, comerciais e industriais em São Paulo. Oferecemos box de vidro temperado sob medida, fechamento de sacadas com vidro laminado, esquadrias de alumínio premium, pele de vidro corporativa e espelhos decorativos. Mais de 100 projetos realizados com excelência técnica, segurança absoluta e acabamento de alto padrão.
               </p>
               <p className="text-base text-primary-foreground/75 leading-relaxed max-w-md">
                 Mais de 100 obras realizadas com excelência técnica, segurança absoluta e acabamento de alto padrão. Atendimento especializado em Granja Viana, Osasco, Alphaville, Barueri e região metropolitana.
@@ -35,7 +35,7 @@ export default function Home() {
                   rel="noopener noreferrer"
                   className="bg-accent text-primary px-8 py-3 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center gap-2"
                 >
-                  Solicitar Orçamento Gratuito
+                  Solicitar Orçamento Gratuito no WhatsApp
                   <ChevronRight size={20} />
                 </a>
               </div>
@@ -70,7 +70,7 @@ export default function Home() {
             <div className="space-y-6">
               <div>
                 <span className="text-accent font-semibold text-sm uppercase tracking-widest">
-                  Especialista em Vidraçaria
+                  Referência em Vidraçaria Premium
                 </span>
                 <h2 className="text-4xl md:text-5xl font-bold text-primary mt-4">
                   Por Que Escolher a GS Glass?
@@ -78,11 +78,11 @@ export default function Home() {
               </div>
 
               <p className="text-lg text-foreground/80 leading-relaxed">
-                A GS Glass é referência em soluções completas de vidro para projetos residenciais, comerciais e industriais em São Paulo e região. Com mais de 20 anos de experiência e 100+ obras realizadas, consolidamos nossa posição como parceira confiável de arquitetos, construtoras e proprietários que buscam qualidade, segurança e sofisticação.
+                A GS Glass Brasil é referência consolidada em soluções profissionais de vidraçaria para projetos residenciais, comerciais e industriais em São Paulo e região metropolitana. Com mais de 20 anos de experiência, 100+ obras realizadas e equipe especializada, somos parceiros confiáveis de arquitetos, construtoras e proprietários que buscam qualidade técnica, segurança absoluta e sofisticação em cada projeto.
               </p>
 
               <p className="text-lg text-foreground/80 leading-relaxed">
-                Nossa atuação se fundamenta em quatro pilares essenciais: qualidade superior com materiais certificados, segurança absoluta seguindo normas técnicas brasileiras (NBR 7199, NBR 7208), precisão técnica com equipe especializada, e acabamento de alto padrão em cada detalhe. Atendemos clientes que buscam não apenas funcionalidade, mas também sofisticação e durabilidade em cada projeto.
+                Nossa atuação se fundamenta em quatro pilares essenciais: qualidade superior com materiais certificados, segurança absoluta seguindo rigorosamente as normas técnicas brasileiras NBR 7199 e NBR 7208, precisão técnica com equipe especializada em vidro temperado e laminado, e acabamento de alto padrão em cada detalhe. Atendemos clientes que buscam não apenas funcionalidade, mas também sofisticação, durabilidade e segurança em cada projeto.
               </p>
 
               {/* Features */}
@@ -163,7 +163,7 @@ export default function Home() {
             <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
               <h3 className="text-2xl font-bold text-primary mb-3">Box de Banheiro Sob Medida</h3>
               <p className="text-foreground/70 mb-4">
-                Projetos personalizados com precisão milimétrica e acabamento superior. Utilizamos vidro temperado de alta qualidade, perfis de alumínio anodizado e sistemas de fechamento sofisticados. Disponemos de opções de vidro transparente, fumê, jateado e espelhado.
+                Projetos personalizados de box de vidro temperado com precisão milimétrica e acabamento de alto padrão. Utilizamos vidro temperado certificado (NBR 7199), perfis de alumínio anodizado e sistemas de fechamento sofisticados. Disponímos de opções em vidro transparente, fumê, jateado e espelhado. Ideal para banheiros residenciais e comerciais que buscam durabilidade, segurança e design moderno.
               </p>
               <ul className="text-sm text-foreground/60 space-y-2">
                 <li>✓ Vidro temperado certificado</li>
@@ -174,9 +174,9 @@ export default function Home() {
 
             {/* Espelhos Premium */}
             <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Espelhos de Alto Padrão</h3>
+              <h3 className="text-2xl font-bold text-primary mb-3">Espelhos Decorativos Premium</h3>
               <p className="text-foreground/70 mb-4">
-                Peças exclusivas que agregam sofisticação a ambientes residenciais e comerciais. Espelhos sob medida com molduras elegantes, acabamento premium e opções de iluminação integrada. Ideal para banheiros, salas de estar e espaços comerciais.
+                Espelhos decorativos sob medida que agregam sofisticação e funcionalidade a ambientes residenciais e comerciais. Oferecemos espelhos premium com molduras elegantes, acabamento de alto padrão e opções de iluminação integrada com LED. Perfeitos para banheiros luxuosos, salas de estar, closets e espaços comerciais que buscam design diferenciado e durabilidade.
               </p>
               <ul className="text-sm text-foreground/60 space-y-2">
                 <li>✓ Designs exclusivos</li>
@@ -200,9 +200,9 @@ export default function Home() {
 
             {/* Vidros Temperados */}
             <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Vidros Temperados</h3>
+              <h3 className="text-2xl font-bold text-primary mb-3">Vidros Temperados Certificados</h3>
               <p className="text-foreground/70 mb-4">
-                Máxima segurança e resistência com certificação técnica. Vidros temperados para sacadas, fachadas, guarda-corpos e aplicações estruturais. Seguem normas técnicas brasileiras NBR 7199 e internacionais.
+                Vidros temperados com máxima segurança, resistência e certificação técnica completa. Utilizados em sacadas, fachadas, guarda-corpos, divisórias e aplicações estruturais. Todos os produtos seguem rigorosamente as normas técnicas brasileiras NBR 7199 e certificações internacionais. Oferecem resistência a impactos, segurança em caso de quebra e durabilidade garantida.
               </p>
               <ul className="text-sm text-foreground/60 space-y-2">
                 <li>✓ Certificação NBR 7199</li>
@@ -213,9 +213,9 @@ export default function Home() {
 
             {/* Vidros Laminados */}
             <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Vidros Laminados</h3>
+              <h3 className="text-2xl font-bold text-primary mb-3">Vidros Laminados com Isolamento</h3>
               <p className="text-foreground/70 mb-4">
-                Proteção avançada e controle acústico para projetos exigentes. Vidros laminados para fachadas, coberturas e aplicações que requerem isolamento acústico. Certificação NBR 7208 e desempenho superior.
+                Vidros laminados com proteção avançada e controle acústico para projetos exigentes. Utilizados em fachadas, coberturas e aplicações que requerem isolamento acústico superior. Certificação NBR 7208, proteção UV e desempenho técnico comprovado.
               </p>
               <ul className="text-sm text-foreground/60 space-y-2">
                 <li>✓ Isolamento acústico</li>
@@ -305,22 +305,22 @@ export default function Home() {
               {
                 number: '01',
                 title: 'Consultoria Inicial',
-                description: 'Análise técnica detalhada do seu projeto. Entendemos suas necessidades e apresentamos as melhores soluções.'
+                description: 'Consultoria técnica gratuita e análise detalhada do seu projeto de vidraçaria. Nossos especialistas entendem suas necessidades, avaliam o espaço e apresentam as melhores soluções em vidro temperado, laminado ou personalizado. Sem compromisso, com orientação profissional.'
               },
               {
                 number: '02',
                 title: 'Projeto Personalizado',
-                description: 'Desenvolvimento sob medida conforme suas especificações. Apresentamos proposta com orçamento e cronograma.'
+                description: 'Desenvolvimento de projeto personalizado sob medida conforme suas especificações técnicas e preferências de design. Apresentamos proposta detalhada com orçamento transparente, cronograma de execução e garantia de qualidade. Consultoria completa até a aprovação final.'
               },
               {
                 number: '03',
                 title: 'Execução Impecável',
-                description: 'Instalação profissional com precisão técnica absoluta. Acompanhamento rigoroso de qualidade em cada etapa.'
+                description: 'Instalação profissional com precisão técnica absoluta e equipe especializada. Acompanhamento rigoroso de qualidade em cada etapa da execução. Utilizamos equipamentos modernos, técnicas avançadas e materiais certificados para garantir acabamento impecável e segurança total.'
               },
               {
                 number: '04',
                 title: 'Garantia Total',
-                description: 'Suporte continuado após a instalação. Garantia de qualidade e atendimento técnico permanente.'
+                description: 'Garantia de qualidade completa após a instalação com suporte técnico permanente. Oferecemos atendimento pós-venda especializado, manutenção orientada e suporte para qualquer dúvida ou necessidade. Sua satisfação é nossa prioridade.'
               }
             ].map((step, index) => (
               <div key={index} className="text-center">
@@ -338,13 +338,13 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
-              Conheça Nosso Blog
+              Blog: Guias e Dicas
             </span>
             <h2 className="text-4xl md:text-5xl font-bold text-primary mt-4">
-              Artigos e Dicas Sobre Vidraçaria
+              Guias Completos Sobre Vidraçaria e Soluções em Vidro
             </h2>
             <p className="text-xl text-foreground/70 mt-6 max-w-3xl mx-auto">
-              Confira nosso blog com conteúdo técnico e prático sobre tipos de vidro, manutenção, instalação e muito mais. Ajudamos você a tomar as melhores decisões para seu projeto.
+              Confira nosso blog com conteúdo técnico, educativo e prático sobre tipos de vidro (temperado, laminado, jateado), manutenção profissional, instalação correta, comparações de soluções e muito mais. Artigos especializados para ajudá-lo a tomar as melhores decisões para seu projeto residencial ou comercial.
             </p>
           </div>
 
