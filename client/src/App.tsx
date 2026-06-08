@@ -11,7 +11,7 @@ import BlogPost from "./pages/BlogPost";
 function Router() {
   return (
     <Switch>
-      <Route path={"/ "} component={Home} />
+      <Route path={"/"} component={Home} />
       <Route path={"/blog"} component={Blog} />
       <Route path={"/blog/:id"} component={BlogPost} />
       <Route path={"/404"} component={NotFound} />
