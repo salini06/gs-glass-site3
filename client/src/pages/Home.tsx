@@ -60,7 +60,7 @@ export default function Home() {
             {/* Image */}
             <div className="relative h-96 md:h-full rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <img
-                src="/images/bathroom-box-premium.jpg"
+                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/bathroom-box-premium-new-mqqqBYj7VorjysL4rBSPov.webp"
                 alt="Box de banheiro premium"
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
