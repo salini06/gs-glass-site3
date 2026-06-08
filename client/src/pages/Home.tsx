@@ -44,8 +44,8 @@ export default function Home() {
             {/* Image */}
             <div className="relative h-96 md:h-full rounded-lg overflow-hidden shadow-2xl hover:shadow-none transition-shadow duration-300">
               <img
-                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-glass-facade-premium-CcYdfpZfGSQgnEM7iNSibk.webp"
-                alt="Fachada de vidro premium"
+                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-interior-luxury-new-YPMWqustXamHDmqZcCDf3W.webp"
+                alt="Interior de luxo com vidraçaria premium"
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
             </div>
