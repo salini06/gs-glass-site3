@@ -342,6 +342,84 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Blog Section */}
+      <section className="py-20 md:py-32 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16">
+            <span className="text-accent font-semibold text-sm uppercase tracking-widest">
+              Conheça Nosso Blog
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold text-primary mt-4">
+              Artigos e Dicas Sobre Vidraçaria
+            </h2>
+            <p className="text-xl text-foreground/70 mt-6 max-w-3xl mx-auto">
+              Confira nosso blog com conteúdo técnico e prático sobre tipos de vidro, manutenção, instalação e muito mais. Ajudamos você a tomar as melhores decisões para seu projeto.
+            </p>
+          </div>
+
+          {/* Featured Articles */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+            {[
+              {
+                title: 'Guia Completo: Como Escolher o Melhor Box de Vidro',
+                category: 'Box de Vidro',
+                readTime: '8 min',
+                excerpt: 'Descubra os tipos de vidro, tamanhos, acabamentos e dicas de manutenção para escolher o box perfeito.',
+                link: '/blog/guia-box-vidro'
+              },
+              {
+                title: 'Box de Vidro Temperado vs. Laminado: Qual é Melhor?',
+                category: 'Vidro Temperado',
+                readTime: '10 min',
+                excerpt: 'Comparação completa entre vidro temperado e laminado: diferenças, vantagens e desvantagens.',
+                link: '/blog/vidro-temperado-vs-laminado'
+              },
+              {
+                title: 'Fechamento de Sacada em Osasco: Ganhe Espaço e Conforto',
+                category: 'Sacada',
+                readTime: '9 min',
+                excerpt: 'Tudo sobre fechamento de sacadas com vidro. Opções, preços, instalação e benefícios.',
+                link: '/blog/fechamento-sacada-osasco'
+              }
+            ].map((article, index) => (
+              <a
+                key={index}
+                href={article.link}
+                className="group bg-gradient-to-br from-gray-50 to-white border border-gray-200 rounded-lg p-8 hover:shadow-xl transition-all hover:-translate-y-2"
+              >
+                <div className="flex items-center justify-between mb-4">
+                  <span className="text-accent font-semibold text-xs uppercase bg-accent/10 px-3 py-1 rounded-full">
+                    {article.category}
+                  </span>
+                  <span className="text-foreground/60 text-xs">{article.readTime}</span>
+                </div>
+                <h3 className="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors line-clamp-2">
+                  {article.title}
+                </h3>
+                <p className="text-foreground/70 text-sm mb-6 line-clamp-2">
+                  {article.excerpt}
+                </p>
+                <div className="flex items-center gap-2 text-accent font-semibold text-sm group-hover:gap-3 transition-all">
+                  Ler Artigo
+                  <ChevronRight size={16} className="group-hover:translate-x-1 transition-transform" />
+                </div>
+              </a>
+            ))}
+          </div>
+
+          {/* Blog CTA */}
+          <div className="text-center">
+            <a
+              href="/blog"
+              className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-4 rounded font-semibold hover:shadow-lg transition-all"
+            >
+              Explorar Todos os Artigos
+              <ChevronRight size={20} />
+            </a>
+          </div>
+        </div>
+      </section>
+
       {/* CTA Final - SEO Otimizado */}
       <section className="py-20 md:py-32 bg-gradient-to-br from-primary via-primary to-primary/95">
         <div className="container mx-auto px-4 text-center">
