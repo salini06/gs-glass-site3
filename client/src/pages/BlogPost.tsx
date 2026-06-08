@@ -288,9 +288,9 @@ export default function BlogPost() {
             </div>
 
             {/* Sidebar */}
-            <div className="lg:col-span-1 space-y-8">
-              {/* Share */}
-              <div className="bg-gray-50 p-6 rounded-lg sticky top-32">
+            <div className="lg:col-span-1">
+              {/* Share - Fixed */}
+              <div className="bg-gray-50 p-6 rounded-lg fixed right-4 top-32 w-80 md:w-64 z-40 shadow-lg">
                 <h3 className="font-bold text-primary mb-4 flex items-center gap-2">
                   <Share2 size={20} />
                   Compartilhar
@@ -308,8 +308,8 @@ export default function BlogPost() {
                 </div>
               </div>
 
-              {/* CTA */}
-              <div className="bg-gradient-to-br from-primary to-primary/95 text-primary-foreground p-8 rounded-lg">
+              {/* CTA - Fixed */}
+              <div className="bg-gradient-to-br from-primary to-primary/95 text-primary-foreground p-8 rounded-lg fixed right-4 top-80 w-80 md:w-64 z-40 shadow-lg">
                 <h3 className="text-2xl font-bold mb-4">Precisa de Ajuda?</h3>
                 <p className="mb-6 text-primary-foreground/80">
                   Converse com nossos especialistas sobre sua necessidade.
@@ -325,7 +325,7 @@ export default function BlogPost() {
               </div>
 
               {/* Table of Contents */}
-              <div className="bg-gray-50 p-6 rounded-lg">
+              <div className="bg-gray-50 p-6 rounded-lg hidden lg:block mt-96">
                 <h3 className="font-bold text-primary mb-4">Índice</h3>
                 <ul className="space-y-2 text-sm">
                   <li><a href="#" className="text-accent hover:underline">1. Tipos de Vidro para Box</a></li>
@@ -337,7 +337,7 @@ export default function BlogPost() {
               </div>
 
               {/* Newsletter */}
-              <div className="bg-accent/10 border border-accent p-6 rounded-lg">
+              <div className="bg-accent/10 border border-accent p-6 rounded-lg hidden lg:block">
                 <h3 className="font-bold text-primary mb-3">Newsletter</h3>
                 <p className="text-sm text-foreground/70 mb-4">
                   Receba dicas exclusivas sobre vidraçaria.
@@ -360,6 +360,18 @@ export default function BlogPost() {
           </div>
         </div>
       </section>
+
+      {/* Mobile Fixed CTA */}
+      <div className="fixed bottom-0 left-0 right-0 lg:hidden bg-gradient-to-r from-primary to-primary/95 text-primary-foreground p-4 shadow-lg z-40">
+        <a
+          href="https://wa.me/5511934275767"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="block bg-white text-primary px-6 py-3 rounded font-semibold text-center hover:bg-opacity-90 transition-all"
+        >
+          Solicitar Consultoria
+        </a>
+      </div>
 
       <Footer />
     </div>
