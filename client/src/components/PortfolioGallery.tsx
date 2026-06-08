@@ -15,49 +15,49 @@ const portfolioItems: PortfolioItem[] = [
     id: 'res-01',
     title: 'Sacada Moderna',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-01-sacada-jpVkintX3gkgd7u8WEMpUV.png',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-01-sacada-premium-WExjzxmjvv82ippWZ7fuWX.webp',
     description: 'Envidraçamento premium para sacadas com acabamento impecável'
   },
   {
     id: 'res-02',
     title: 'Box de Banheiro',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-02-box-banheiro-jpVkintX3gkgd7u8WEMpUV.png',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-02-box-banheiro-premium-6wBVxq6iUEhz6BM3btdvqQ.webp',
     description: 'Boxes personalizados com vidro temperado e acabamento sofisticado'
   },
   {
     id: 'res-03',
     title: 'Esquadrias Elegantes',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-03-esquadrias-jpVkintX3gkgd7u8WEMpUV.png',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-03-esquadrias-premium-9w3Y4DPbvW3XankzrYaB8e.webp',
     description: 'Esquadrias de alumínio com vidro de alto desempenho'
   },
   {
     id: 'res-04',
     title: 'Guarda-Corpo em Vidro',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-04-guarda-corpo-jpVkintX3gkgd7u8WEMpUV.png',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-04-guarda-corpo-premium-LmGQ2jfViTFLV2KPyWF2CD.webp',
     description: 'Guarda-corpos em vidro temperado com acabamento premium'
   },
   {
     id: 'res-05',
     title: 'Cobertura de Vidro',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-05-cobertura-vidro-jpVkintX3gkgd7u8WEMpUV.png',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-05-cobertura-vidro-premium-3VRgbVDFMLzvcXfng3CHqp.webp',
     description: 'Coberturas em vidro laminado com estrutura elegante'
   },
   {
     id: 'res-06',
     title: 'Espelhos Premium',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-06-espelhos-jgEJgMFsS8oT8TsafH2UXP.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-06-espelhos-premium-QD5mXs7UR53dECAAtHdcGD.webp',
     description: 'Espelhos de alto padrão com acabamento sofisticado'
   },
   {
     id: 'res-07',
     title: 'Divisórias Internas',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-07-divisorias-AhjCSJRW6pxxY7PBehhBEq.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-07-divisorias-premium-5vpV6wZwUgg5jt8ocGaDr2.webp',
     description: 'Divisórias em vidro para ambientes integrados'
   },
 
