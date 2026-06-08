@@ -12,7 +12,7 @@ const allBlogPosts = [
     date: '2026-06-08',
     author: 'GS Glass',
     category: 'Box de Vidro',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/bathroom-box-premium-new-mqqqBYj7VorjysL4rBSPov.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-box-vidro-profissional-eDcKJTrRtDnqSb7H8qeyYr.webp',
     readTime: '8 min'
   },
   {
@@ -22,7 +22,7 @@ const allBlogPosts = [
     date: '2026-06-07',
     author: 'GS Glass',
     category: 'Vidro Temperado',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-03-esquadrias-premium.jpg',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-esquadrias-aluminio-L7UypcbbStsLkmQDmwtmhT.webp',
     readTime: '10 min'
   },
   {
@@ -32,7 +32,7 @@ const allBlogPosts = [
     date: '2026-06-06',
     author: 'GS Glass',
     category: 'Sacada',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-01-sacada-premium.jpg',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-pele-vidro-ZDLyVN5s8GiSutRoGEou75.webp',
     readTime: '9 min'
   },
   {
@@ -42,7 +42,7 @@ const allBlogPosts = [
     date: '2026-06-05',
     author: 'GS Glass',
     category: 'Manutenção',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-02-box-banheiro-premium.jpg',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-espelhos-premium-U87csnwp4PWPDZz59Y6jmu.webp',
     readTime: '6 min'
   },
   {
@@ -52,7 +52,7 @@ const allBlogPosts = [
     date: '2026-06-04',
     author: 'GS Glass',
     category: 'Preços',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-04-guarda-corpo-premium.jpg',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-divisorias-vidro-hya3kFtNTHo9hqoEiMGbWS.webp',
     readTime: '7 min'
   }
 ];
@@ -229,22 +229,6 @@ export default function Blog() {
 
             {/* Sidebar */}
             <div className="lg:col-span-1 space-y-8">
-              {/* CTA */}
-              <div className="bg-gradient-to-br from-primary to-primary/95 text-primary-foreground p-8 rounded-lg sticky top-32">
-                <h3 className="text-2xl font-bold mb-4">Precisa de Ajuda?</h3>
-                <p className="mb-6 text-primary-foreground/80">
-                  Não encontrou o que procurava? Entre em contato com nossos especialistas.
-                </p>
-                <a
-                  href="https://wa.me/5511934275767"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block bg-white text-primary px-6 py-3 rounded font-semibold text-center hover:bg-opacity-90 transition-all"
-                >
-                  Solicitar Consultoria
-                </a>
-              </div>
-
               {/* Categories Filter */}
               <div className="bg-gray-50 p-8 rounded-lg">
                 <h3 className="text-xl font-bold text-primary mb-6 flex items-center gap-2">
