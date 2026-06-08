@@ -299,44 +299,9 @@ export default function BlogPost() {
             </div>
 
             {/* Sidebar */}
-            <div className="lg:col-span-1">
-              {/* Share - Fixed */}
-              <div className={`bg-gray-50 p-6 rounded-lg fixed right-4 w-80 md:w-64 z-40 shadow-lg transition-all duration-300 ${scrollY > 400 ? 'translate-x-96 opacity-0 pointer-events-none' : 'translate-x-0 opacity-100'}`} style={{ top: '8rem' }}>
-                <h3 className="font-bold text-primary mb-4 flex items-center gap-2">
-                  <Share2 size={20} />
-                  Compartilhar
-                </h3>
-                <div className="space-y-3">
-                  <a href="#" className="block text-accent hover:underline font-semibold">
-                    → Facebook
-                  </a>
-                  <a href="#" className="block text-accent hover:underline font-semibold">
-                    → LinkedIn
-                  </a>
-                  <a href="#" className="block text-accent hover:underline font-semibold">
-                    → WhatsApp
-                  </a>
-                </div>
-              </div>
-
-              {/* CTA - Fixed */}
-              <div className={`bg-gradient-to-br from-primary to-primary/95 text-primary-foreground p-8 rounded-lg fixed right-4 w-80 md:w-64 z-40 shadow-lg transition-all duration-300 ${scrollY > 400 ? 'translate-x-96 opacity-0 pointer-events-none' : 'translate-x-0 opacity-100'}`} style={{ top: '20rem' }}>
-                <h3 className="text-2xl font-bold mb-4">Precisa de Ajuda?</h3>
-                <p className="mb-6 text-primary-foreground/80">
-                  Converse com nossos especialistas sobre sua necessidade.
-                </p>
-                <a
-                  href="https://wa.me/5511934275767"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block bg-white text-primary px-6 py-3 rounded font-semibold text-center hover:bg-opacity-90 transition-all"
-                >
-                  Solicitar Consultoria
-                </a>
-              </div>
-
+            <div className="lg:col-span-1 space-y-8">
               {/* Table of Contents */}
-              <div className="bg-gray-50 p-6 rounded-lg hidden lg:block mt-96">
+              <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="font-bold text-primary mb-4">Índice</h3>
                 <ul className="space-y-2 text-sm">
                   <li><a href="#" className="text-accent hover:underline">1. Tipos de Vidro para Box</a></li>
@@ -348,7 +313,7 @@ export default function BlogPost() {
               </div>
 
               {/* Newsletter */}
-              <div className="bg-accent/10 border border-accent p-6 rounded-lg hidden lg:block">
+              <div className="bg-accent/10 border border-accent p-6 rounded-lg">
                 <h3 className="font-bold text-primary mb-3">Newsletter</h3>
                 <p className="text-sm text-foreground/70 mb-4">
                   Receba dicas exclusivas sobre vidraçaria.
@@ -361,7 +326,7 @@ export default function BlogPost() {
                   />
                   <button
                     type="submit"
-                    className="w-full bg-accent text-white px-3 py-2 rounded font-semibold hover:bg-opacity-90 transition-all text-sm"
+                    className="w-full bg-accent text-primary px-3 py-2 rounded font-semibold hover:bg-opacity-90 transition-all text-sm"
                   >
                     Inscrever
                   </button>
@@ -371,18 +336,6 @@ export default function BlogPost() {
           </div>
         </div>
       </section>
-
-      {/* Mobile Fixed CTA */}
-      <div className="fixed bottom-0 left-0 right-0 lg:hidden bg-gradient-to-r from-primary to-primary/95 text-primary-foreground p-4 shadow-lg z-40">
-        <a
-          href="https://wa.me/5511934275767"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="block bg-white text-primary px-6 py-3 rounded font-semibold text-center hover:bg-opacity-90 transition-all"
-        >
-          Solicitar Consultoria
-        </a>
-      </div>
 
       <Footer />
     </div>
