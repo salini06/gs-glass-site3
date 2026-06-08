@@ -371,20 +371,20 @@ export default function Home() {
           </div>
 
           <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all">
+            <a href="https://wa.me/5511934275767" target="_blank" rel="noopener noreferrer" className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all cursor-pointer">
               <div className="text-lg font-bold mb-2">📱 WhatsApp</div>
-              <a href="https://wa.me/5511934275767" className="text-primary hover:underline">
+              <div className="text-primary hover:underline font-semibold">
                 11 93427-5767
-              </a>
+              </div>
               <p className="text-sm mt-2">Atendimento direto e ágil para orçamentos e consultas técnicas</p>
-            </div>
-            <div className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all">
+            </a>
+            <a href="mailto:orcamento.gsglass@gmail.com" className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all cursor-pointer">
               <div className="text-lg font-bold mb-2">📧 E-mail</div>
-              <a href="mailto:orcamento.gsglass@gmail.com" className="text-primary hover:underline">
+              <div className="text-primary hover:underline font-semibold">
                 orcamento.gsglass@gmail.com
-              </a>
+              </div>
               <p className="text-sm mt-2">Contato profissional para projetos e parcerias estratégicas</p>
-            </div>
+            </a>
           </div>
         </div>
       </section>

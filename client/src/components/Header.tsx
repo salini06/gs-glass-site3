@@ -5,6 +5,7 @@ export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   const navItems = [
+    { label: 'Home', href: '/' },
     { label: 'Sobre', href: '#sobre' },
     { label: 'Portfólio', href: '#portfolio' },
     { label: 'Soluções', href: '#solucoes' },
