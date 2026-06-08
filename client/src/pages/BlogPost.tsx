@@ -2,6 +2,7 @@ import { ChevronLeft, Calendar, User, Share2, ArrowRight } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { useRoute, Link } from 'wouter';
+import { useState, useEffect } from 'react';
 
 const blogArticles: Record<string, any> = {
   'guia-box-vidro': {
@@ -182,6 +183,16 @@ export default function BlogPost() {
     ? allPosts.filter(p => article.relatedPosts.includes(p.id))
     : [];
 
+  const [scrollY, setScrollY] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrollY(window.scrollY);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
   return (
     <div className="min-h-screen bg-background">
       <Header />
@@ -290,7 +301,7 @@ export default function BlogPost() {
             {/* Sidebar */}
             <div className="lg:col-span-1">
               {/* Share - Fixed */}
-              <div className="bg-gray-50 p-6 rounded-lg fixed right-4 top-32 w-80 md:w-64 z-40 shadow-lg">
+              <div className={`bg-gray-50 p-6 rounded-lg fixed right-4 w-80 md:w-64 z-40 shadow-lg transition-all duration-300 ${scrollY > 400 ? 'translate-x-96 opacity-0 pointer-events-none' : 'translate-x-0 opacity-100'}`} style={{ top: '8rem' }}>
                 <h3 className="font-bold text-primary mb-4 flex items-center gap-2">
                   <Share2 size={20} />
                   Compartilhar
@@ -309,7 +320,7 @@ export default function BlogPost() {
               </div>
 
               {/* CTA - Fixed */}
-              <div className="bg-gradient-to-br from-primary to-primary/95 text-primary-foreground p-8 rounded-lg fixed right-4 top-80 w-80 md:w-64 z-40 shadow-lg">
+              <div className={`bg-gradient-to-br from-primary to-primary/95 text-primary-foreground p-8 rounded-lg fixed right-4 w-80 md:w-64 z-40 shadow-lg transition-all duration-300 ${scrollY > 400 ? 'translate-x-96 opacity-0 pointer-events-none' : 'translate-x-0 opacity-100'}`} style={{ top: '20rem' }}>
                 <h3 className="text-2xl font-bold mb-4">Precisa de Ajuda?</h3>
                 <p className="mb-6 text-primary-foreground/80">
                   Converse com nossos especialistas sobre sua necessidade.
