@@ -1,9 +1,10 @@
-import { ChevronRight, Calendar, User } from 'lucide-react';
+import { ChevronRight, Calendar, User, Search, Filter } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Link } from 'wouter';
+import { useState, useMemo } from 'react';
 
-const blogPosts = [
+const allBlogPosts = [
   {
     id: 'guia-box-vidro',
     title: 'Guia Completo: Como Escolher o Melhor Box de Vidro para Seu Banheiro',
@@ -56,7 +57,40 @@ const blogPosts = [
   }
 ];
 
+const categories = ['Todos', 'Box de Vidro', 'Sacada', 'Esquadrias', 'Espelhos', 'Vidro Temperado', 'Manutenção', 'Preços'];
+
 export default function Blog() {
+  const [selectedCategory, setSelectedCategory] = useState('Todos');
+  const [searchTerm, setSearchTerm] = useState('');
+  const [currentPage, setCurrentPage] = useState(1);
+  const postsPerPage = 3;
+
+  // Filtrar posts
+  const filteredPosts = useMemo(() => {
+    return allBlogPosts.filter(post => {
+      const matchesCategory = selectedCategory === 'Todos' || post.category === selectedCategory;
+      const matchesSearch = post.title.toLowerCase().includes(searchTerm.toLowerCase()) || 
+                           post.excerpt.toLowerCase().includes(searchTerm.toLowerCase());
+      return matchesCategory && matchesSearch;
+    });
+  }, [selectedCategory, searchTerm]);
+
+  // Paginação
+  const totalPages = Math.ceil(filteredPosts.length / postsPerPage);
+  const startIndex = (currentPage - 1) * postsPerPage;
+  const paginatedPosts = filteredPosts.slice(startIndex, startIndex + postsPerPage);
+
+  // Reset página ao mudar filtros
+  const handleCategoryChange = (category: string) => {
+    setSelectedCategory(category);
+    setCurrentPage(1);
+  };
+
+  const handleSearch = (term: string) => {
+    setSearchTerm(term);
+    setCurrentPage(1);
+  };
+
   return (
     <div className="min-h-screen bg-background">
       <Header />
@@ -84,57 +118,119 @@ export default function Blog() {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
             {/* Posts */}
             <div className="lg:col-span-2">
-              <div className="space-y-12">
-                {blogPosts.map((post) => (
-                  <article key={post.id} className="border-b border-gray-200 pb-12 hover:shadow-lg transition-shadow rounded-lg p-6">
-                    <div className="flex flex-col md:flex-row gap-6">
-                      {/* Image */}
-                      <div className="md:w-1/3 flex-shrink-0">
-                        <img
-                          src={post.image}
-                          alt={post.title}
-                          className="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform duration-300"
-                        />
-                      </div>
+              {/* Search Bar */}
+              <div className="mb-12 relative">
+                <Search className="absolute left-4 top-3.5 text-foreground/40" size={20} />
+                <input
+                  type="text"
+                  placeholder="Buscar artigos..."
+                  value={searchTerm}
+                  onChange={(e) => handleSearch(e.target.value)}
+                  className="w-full pl-12 pr-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:border-accent"
+                />
+              </div>
 
-                      {/* Content */}
-                      <div className="md:w-2/3">
-                        <div className="flex gap-4 mb-3 text-sm text-foreground/60">
-                          <span className="flex items-center gap-1">
-                            <Calendar size={16} />
-                            {new Date(post.date).toLocaleDateString('pt-BR')}
-                          </span>
-                          <span>{post.readTime}</span>
-                          <span className="text-accent font-semibold">{post.category}</span>
+              {/* Posts List */}
+              {paginatedPosts.length > 0 ? (
+                <div className="space-y-12">
+                  {paginatedPosts.map((post) => (
+                    <article key={post.id} className="border-b border-gray-200 pb-12 hover:shadow-lg transition-shadow rounded-lg p-6 bg-gray-50">
+                      <div className="flex flex-col md:flex-row gap-6">
+                        {/* Image */}
+                        <div className="md:w-1/3 flex-shrink-0">
+                          <Link href={`/blog/${post.id}`}>
+                            <a>
+                              <img
+                                src={post.image}
+                                alt={post.title}
+                                className="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform duration-300"
+                              />
+                            </a>
+                          </Link>
                         </div>
 
-                        <h2 className="text-2xl font-bold text-primary mb-3 hover:text-accent transition-colors">
+                        {/* Content */}
+                        <div className="md:w-2/3">
+                          {/* Meta */}
+                          <div className="flex flex-wrap gap-4 mb-3 text-sm text-foreground/60">
+                            <span className="flex items-center gap-1">
+                              <Calendar size={16} />
+                              {new Date(post.date).toLocaleDateString('pt-BR')}
+                            </span>
+                            <span>{post.readTime}</span>
+                            <span className="text-accent font-semibold bg-accent/10 px-2 py-1 rounded">
+                              {post.category}
+                            </span>
+                          </div>
+
+                          {/* Title */}
+                          <h2 className="text-2xl font-bold text-primary mb-3 hover:text-accent transition-colors">
+                            <Link href={`/blog/${post.id}`}>
+                              <a>{post.title}</a>
+                            </Link>
+                          </h2>
+
+                          {/* Excerpt */}
+                          <p className="text-foreground/70 mb-4 leading-relaxed">
+                            {post.excerpt}
+                          </p>
+
+                          {/* CTA */}
                           <Link href={`/blog/${post.id}`}>
-                            <a>{post.title}</a>
+                            <a className="inline-flex items-center gap-2 text-accent font-semibold hover:gap-3 transition-all">
+                              Ler Artigo Completo
+                              <ChevronRight size={18} />
+                            </a>
                           </Link>
-                        </h2>
-
-                        <p className="text-foreground/70 mb-4 leading-relaxed">
-                          {post.excerpt}
-                        </p>
-
-                        <Link href={`/blog/${post.id}`}>
-                          <a className="inline-flex items-center gap-2 text-accent font-semibold hover:gap-3 transition-all">
-                            Ler Artigo Completo
-                            <ChevronRight size={18} />
-                          </a>
-                        </Link>
+                        </div>
                       </div>
-                    </div>
-                  </article>
-                ))}
-              </div>
+                    </article>
+                  ))}
+                </div>
+              ) : (
+                <div className="text-center py-12">
+                  <p className="text-foreground/60 text-lg">Nenhum artigo encontrado para sua busca.</p>
+                </div>
+              )}
+
+              {/* Paginação */}
+              {totalPages > 1 && (
+                <div className="flex justify-center gap-2 mt-12">
+                  <button
+                    onClick={() => setCurrentPage(Math.max(1, currentPage - 1))}
+                    disabled={currentPage === 1}
+                    className="px-4 py-2 border border-gray-300 rounded hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed"
+                  >
+                    Anterior
+                  </button>
+                  {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
+                    <button
+                      key={page}
+                      onClick={() => setCurrentPage(page)}
+                      className={`px-4 py-2 rounded ${
+                        currentPage === page
+                          ? 'bg-primary text-primary-foreground'
+                          : 'border border-gray-300 hover:bg-gray-100'
+                      }`}
+                    >
+                      {page}
+                    </button>
+                  ))}
+                  <button
+                    onClick={() => setCurrentPage(Math.min(totalPages, currentPage + 1))}
+                    disabled={currentPage === totalPages}
+                    className="px-4 py-2 border border-gray-300 rounded hover:bg-gray-100 disabled:opacity-50 disabled:cursor-not-allowed"
+                  >
+                    Próximo
+                  </button>
+                </div>
+              )}
             </div>
 
             {/* Sidebar */}
-            <div className="lg:col-span-1">
+            <div className="lg:col-span-1 space-y-8">
               {/* CTA */}
-              <div className="bg-gradient-to-br from-primary to-primary/95 text-primary-foreground p-8 rounded-lg mb-8">
+              <div className="bg-gradient-to-br from-primary to-primary/95 text-primary-foreground p-8 rounded-lg sticky top-32">
                 <h3 className="text-2xl font-bold mb-4">Precisa de Ajuda?</h3>
                 <p className="mb-6 text-primary-foreground/80">
                   Não encontrou o que procurava? Entre em contato com nossos especialistas.
@@ -149,20 +245,70 @@ export default function Blog() {
                 </a>
               </div>
 
-              {/* Categories */}
+              {/* Categories Filter */}
               <div className="bg-gray-50 p-8 rounded-lg">
-                <h3 className="text-xl font-bold text-primary mb-6">Categorias</h3>
+                <h3 className="text-xl font-bold text-primary mb-6 flex items-center gap-2">
+                  <Filter size={20} />
+                  Categorias
+                </h3>
                 <div className="space-y-3">
-                  {['Box de Vidro', 'Sacada', 'Esquadrias', 'Espelhos', 'Vidro Temperado', 'Manutenção'].map((category) => (
-                    <a
+                  {categories.map((category) => (
+                    <button
                       key={category}
-                      href="#"
-                      className="block text-foreground/70 hover:text-accent transition-colors"
+                      onClick={() => handleCategoryChange(category)}
+                      className={`block w-full text-left px-4 py-2 rounded transition-all ${
+                        selectedCategory === category
+                          ? 'bg-accent text-white font-semibold'
+                          : 'text-foreground/70 hover:text-accent hover:bg-gray-100'
+                      }`}
                     >
                       {category}
-                    </a>
+                      <span className="float-right text-sm">
+                        {category === 'Todos' 
+                          ? allBlogPosts.length 
+                          : allBlogPosts.filter(p => p.category === category).length}
+                      </span>
+                    </button>
                   ))}
                 </div>
+              </div>
+
+              {/* Popular Posts */}
+              <div className="bg-gray-50 p-8 rounded-lg">
+                <h3 className="text-xl font-bold text-primary mb-6">Artigos Populares</h3>
+                <div className="space-y-4">
+                  {allBlogPosts.slice(0, 3).map((post) => (
+                    <Link key={post.id} href={`/blog/${post.id}`}>
+                      <a className="block group">
+                        <p className="text-sm font-semibold text-foreground group-hover:text-accent transition-colors line-clamp-2">
+                          {post.title}
+                        </p>
+                        <p className="text-xs text-foreground/60 mt-1">{post.readTime}</p>
+                      </a>
+                    </Link>
+                  ))}
+                </div>
+              </div>
+
+              {/* Newsletter */}
+              <div className="bg-accent/10 border border-accent p-8 rounded-lg">
+                <h3 className="text-lg font-bold text-primary mb-4">Newsletter</h3>
+                <p className="text-sm text-foreground/70 mb-4">
+                  Receba dicas e artigos exclusivos sobre vidraçaria direto no seu e-mail.
+                </p>
+                <form className="space-y-3">
+                  <input
+                    type="email"
+                    placeholder="Seu e-mail"
+                    className="w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-accent text-sm"
+                  />
+                  <button
+                    type="submit"
+                    className="w-full bg-accent text-white px-4 py-2 rounded font-semibold hover:bg-opacity-90 transition-all text-sm"
+                  >
+                    Inscrever-se
+                  </button>
+                </form>
               </div>
             </div>
           </div>

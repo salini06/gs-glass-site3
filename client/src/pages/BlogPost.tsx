@@ -1,4 +1,4 @@
-import { ChevronLeft, Calendar, User, Share2 } from 'lucide-react';
+import { ChevronLeft, Calendar, User, Share2, ArrowRight } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { useRoute, Link } from 'wouter';
@@ -12,6 +12,7 @@ const blogArticles: Record<string, any> = {
     category: 'Box de Vidro',
     image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/bathroom-box-premium-new-mqqqBYj7VorjysL4rBSPov.webp',
     readTime: '8 min',
+    relatedPosts: ['vidro-temperado-vs-laminado', 'manutencao-box-vidro'],
     content: `
       <h1>Guia Completo: Como Escolher o Melhor Box de Vidro para Seu Banheiro</h1>
       
@@ -147,6 +148,14 @@ const blogArticles: Record<string, any> = {
   }
 };
 
+const allPosts = [
+  { id: 'guia-box-vidro', title: 'Guia Completo: Como Escolher o Melhor Box de Vidro' },
+  { id: 'vidro-temperado-vs-laminado', title: 'Box de Vidro Temperado vs. Laminado' },
+  { id: 'fechamento-sacada-osasco', title: 'Fechamento de Sacada em Osasco' },
+  { id: 'manutencao-box-vidro', title: 'Manutenção de Box de Vidro' },
+  { id: 'preço-box-vidro-2026', title: 'Quanto Custa um Box de Vidro?' }
+];
+
 export default function BlogPost() {
   const [match, params] = useRoute('/blog/:id');
   
@@ -169,6 +178,10 @@ export default function BlogPost() {
     );
   }
 
+  const relatedArticles = article.relatedPosts 
+    ? allPosts.filter(p => article.relatedPosts.includes(p.id))
+    : [];
+
   return (
     <div className="min-h-screen bg-background">
       <Header />
@@ -176,6 +189,20 @@ export default function BlogPost() {
       {/* Hero Section */}
       <section className="pt-32 pb-12 md:pt-48 md:pb-20 bg-gradient-to-br from-primary via-primary to-primary/95">
         <div className="container mx-auto px-4">
+          {/* Breadcrumb */}
+          <div className="flex items-center gap-2 text-primary-foreground/70 mb-8 text-sm">
+            <Link href="/">
+              <a className="hover:text-primary-foreground transition-colors">Home</a>
+            </Link>
+            <span>/</span>
+            <Link href="/blog">
+              <a className="hover:text-primary-foreground transition-colors">Blog</a>
+            </Link>
+            <span>/</span>
+            <span className="text-primary-foreground font-semibold">{article.category}</span>
+          </div>
+
+          {/* Back Button */}
           <Link href="/blog">
             <a className="flex items-center gap-2 text-primary-foreground/80 hover:text-primary-foreground mb-6 transition-colors">
               <ChevronLeft size={20} />
@@ -196,7 +223,9 @@ export default function BlogPost() {
               <User size={18} />
               {article.author}
             </span>
-            <span className="text-accent font-semibold">{article.category}</span>
+            <span className="text-accent font-semibold bg-accent/20 px-3 py-1 rounded">
+              {article.category}
+            </span>
             <span>{article.readTime}</span>
           </div>
         </div>
@@ -214,24 +243,52 @@ export default function BlogPost() {
                 className="w-full h-96 object-cover rounded-lg mb-12 shadow-lg"
               />
               
-              <div 
-                className="prose prose-lg max-w-none"
+              <article 
+                className="prose prose-lg max-w-none prose-headings:text-primary prose-a:text-accent prose-strong:text-primary"
                 dangerouslySetInnerHTML={{ __html: article.content }}
               />
+
+              {/* Related Articles */}
+              {relatedArticles.length > 0 && (
+                <div className="mt-16 pt-12 border-t border-gray-200">
+                  <h3 className="text-2xl font-bold text-primary mb-8">Artigos Relacionados</h3>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    {relatedArticles.map((post) => (
+                      <Link key={post.id} href={`/blog/${post.id}`}>
+                        <a className="group bg-gray-50 p-6 rounded-lg hover:shadow-lg transition-all">
+                          <h4 className="font-semibold text-primary group-hover:text-accent transition-colors mb-3 line-clamp-2">
+                            {post.title}
+                          </h4>
+                          <div className="flex items-center gap-2 text-accent font-semibold">
+                            Ler artigo
+                            <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
+                          </div>
+                        </a>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
 
             {/* Sidebar */}
-            <div className="lg:col-span-1">
+            <div className="lg:col-span-1 space-y-8">
               {/* Share */}
-              <div className="bg-gray-50 p-6 rounded-lg mb-8">
+              <div className="bg-gray-50 p-6 rounded-lg sticky top-32">
                 <h3 className="font-bold text-primary mb-4 flex items-center gap-2">
                   <Share2 size={20} />
                   Compartilhar
                 </h3>
-                <div className="space-y-2">
-                  <a href="#" className="block text-accent hover:underline">Facebook</a>
-                  <a href="#" className="block text-accent hover:underline">LinkedIn</a>
-                  <a href="#" className="block text-accent hover:underline">WhatsApp</a>
+                <div className="space-y-3">
+                  <a href="#" className="block text-accent hover:underline font-semibold">
+                    → Facebook
+                  </a>
+                  <a href="#" className="block text-accent hover:underline font-semibold">
+                    → LinkedIn
+                  </a>
+                  <a href="#" className="block text-accent hover:underline font-semibold">
+                    → WhatsApp
+                  </a>
                 </div>
               </div>
 
@@ -249,6 +306,39 @@ export default function BlogPost() {
                 >
                   Solicitar Consultoria
                 </a>
+              </div>
+
+              {/* Table of Contents */}
+              <div className="bg-gray-50 p-6 rounded-lg">
+                <h3 className="font-bold text-primary mb-4">Índice</h3>
+                <ul className="space-y-2 text-sm">
+                  <li><a href="#" className="text-accent hover:underline">1. Tipos de Vidro para Box</a></li>
+                  <li><a href="#" className="text-accent hover:underline">2. Acabamentos e Designs</a></li>
+                  <li><a href="#" className="text-accent hover:underline">3. Tamanhos e Medidas</a></li>
+                  <li><a href="#" className="text-accent hover:underline">4. Sistemas de Fechamento</a></li>
+                  <li><a href="#" className="text-accent hover:underline">5. Manutenção e Limpeza</a></li>
+                </ul>
+              </div>
+
+              {/* Newsletter */}
+              <div className="bg-accent/10 border border-accent p-6 rounded-lg">
+                <h3 className="font-bold text-primary mb-3">Newsletter</h3>
+                <p className="text-sm text-foreground/70 mb-4">
+                  Receba dicas exclusivas sobre vidraçaria.
+                </p>
+                <form className="space-y-2">
+                  <input
+                    type="email"
+                    placeholder="Seu e-mail"
+                    className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:border-accent text-sm"
+                  />
+                  <button
+                    type="submit"
+                    className="w-full bg-accent text-white px-3 py-2 rounded font-semibold hover:bg-opacity-90 transition-all text-sm"
+                  >
+                    Inscrever
+                  </button>
+                </form>
               </div>
             </div>
           </div>
