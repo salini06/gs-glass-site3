@@ -66,63 +66,63 @@ const portfolioItems: PortfolioItem[] = [
     id: 'ind-01',
     title: 'Fachada Corporativa',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-01-fachada-MQQ5Rr25zc5xkHEawUkdZj.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-01-fachada-premium-ZUmVZx7gKRUerTTqnmTyVB.png',
     description: 'Fachadas de vidro estruturado para edifícios corporativos'
   },
   {
     id: 'ind-02',
     title: 'Esquadrias Comerciais',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-02-esquadrias-corp-U9dJqxpnK7fo9o9FBSwR7W.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-02-esquadrias-premium-A2gmhtof2k2huPPcmcLmpK.png',
     description: 'Sistemas de esquadrias para ambientes comerciais'
   },
   {
     id: 'ind-03',
     title: 'Fechamento Corporativo',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-03-fechamento-corp-CwzPMC8pH696dcu8pbxYUW.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-03-fechamento-premium-VEc2gTnSLqMr9eM9qaP6Ui.png',
     description: 'Fechamentos em vidro para áreas comerciais'
   },
   {
     id: 'ind-04',
     title: 'Guarda-Corpo Corporativo',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-04-guarda-corpo-corp-DufzRri6sB8tEGLgYy2yQk.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-04-guarda-corpo-premium-Ehc9FVNBRc6sKhbJM3tHPY.png',
     description: 'Guarda-corpos em vidro para ambientes corporativos'
   },
   {
     id: 'ind-05',
     title: 'Projetos Especiais',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-05-projetos-especiais-8wXY6D6ueVZSWZTQSqjSLG.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-05-projetos-especiais-premium-ZsTUk4EuEy287gstcpo9Xv.png',
     description: 'Soluções customizadas para projetos especiais'
   },
   {
     id: 'ind-06',
     title: 'Pele de Vidro',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-06-pele-vidro-cYMsbt8VkP6cyLnqxkVRYF.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-06-pele-vidro-premium-ZUmVZx7gKRUerTTqnmTyVB.png',
     description: 'Fachadas em vidro estruturado de alta performance'
   },
   {
     id: 'ind-07',
     title: 'Portas Automáticas',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-07-portas-automaticas-mcsnmcZt2yia6LAfTQuQMM.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-07-portas-automaticas-premium-A2gmhtof2k2huPPcmcLmpK.png',
     description: 'Sistemas de portas automáticas para entradas corporativas'
   },
   {
     id: 'ind-08',
     title: 'Divisórias Corporativas',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-08-divisorias-corp-Fe2b5pPyhzvmpbma6JAM65.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-08-divisorias-premium-VEc2gTnSLqMr9eM9qaP6Ui.png',
     description: 'Divisórias em vidro para espaços corporativos'
   },
   {
     id: 'ind-09',
     title: 'Coberturas Industriais',
     category: 'industrial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-09-coberturas-ind-BkEz8rwm28aPx7uFvwn5cw.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/industrial-09-coberturas-premium-Ehc9FVNBRc6sKhbJM3tHPY.png',
     description: 'Estruturas de cobertura em vidro e alumínio'
   }
 ];
@@ -186,11 +186,7 @@ export default function PortfolioGallery() {
               {/* Overlay */}
               <div className="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end p-6">
                 <h3 className="text-white text-xl font-bold mb-2">{item.title}</h3>
-                <p className="text-white/90 text-sm mb-4">{item.description}</p>
-                <div className="flex items-center text-accent font-semibold">
-                  Ver mais
-                  <ChevronRight size={18} className="ml-2" />
-                </div>
+                <p className="text-white/90 text-sm">{item.description}</p>
               </div>
 
               {/* Border accent */}
