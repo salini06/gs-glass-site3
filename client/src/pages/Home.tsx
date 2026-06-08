@@ -441,7 +441,7 @@ export default function Home() {
               <ChevronRight size={20} />
             </a>
             <a
-              href="mailto:orcamento.gsglass@gmail.com?subject=Solicita%C3%A7%C3%A3o%20de%20Or%C3%A7amento%20-%20GS%20Glass&body=Ol%C3%A1%2C%0A%0AGostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20meu%20projeto%20de%20vidra%C3%A7aria.%0A%0AAtenciosamente"
+              href="mailto:guilhermesalini@gsglassbrasil.com.br?subject=Solicita%C3%A7%C3%A3o%20de%20Or%C3%A7amento%20-%20GS%20Glass&body=Ol%C3%A1%2C%0A%0AGostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20meu%20projeto%20de%20vidra%C3%A7aria.%0A%0AAtenciosamente"
               className="bg-white text-primary px-8 py-4 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center gap-2"
             >
               Enviar E-mail Profissional
@@ -457,10 +457,10 @@ export default function Home() {
               </div>
               <p className="text-sm mt-2">Atendimento direto e ágil para orçamentos e consultas técnicas</p>
             </a>
-            <a href="mailto:orcamento.gsglass@gmail.com" className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all cursor-pointer">
+            <a href="mailto:guilhermesalini@gsglassbrasil.com.br" className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all cursor-pointer">
               <div className="text-lg font-bold mb-2">📧 E-mail</div>
               <div className="text-primary hover:underline font-semibold">
-                orcamento.gsglass@gmail.com
+                guilhermesalini@gsglassbrasil.com.br
               </div>
               <p className="text-sm mt-2">Contato profissional para projetos e parcerias estratégicas</p>
             </a>

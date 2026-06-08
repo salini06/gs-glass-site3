@@ -25,11 +25,11 @@ export default function Footer() {
                 <span>11 93427-5767</span>
               </a>
               <a
-                href="mailto:orcamento.gsglass@gmail.com"
+                href="mailto:guilhermesalini@gsglassbrasil.com.br"
                 className="flex items-center gap-2 hover:text-accent transition-colors"
               >
                 <Mail size={18} />
-                <span>orcamento.gsglass@gmail.com</span>
+                <span>guilhermesalini@gsglassbrasil.com.br</span>
               </a>
             </div>
           </div>
