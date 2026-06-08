@@ -133,8 +133,8 @@ export default function Blog() {
               {/* Posts List */}
               {paginatedPosts.length > 0 ? (
                 <div className="space-y-12">
-                  {paginatedPosts.map((post) => (
-                    <article key={post.id} className="border-b border-gray-200 pb-12 hover:shadow-lg transition-shadow rounded-lg p-6 bg-gray-50">
+              {paginatedPosts.map((post) => (
+                <article key={post.id} className="border-b border-gray-200 pb-12 mb-8 hover:shadow-xl transition-all rounded-lg p-8 bg-gradient-to-br from-gray-50 to-white border border-gray-100">
                       <div className="flex flex-col md:flex-row gap-6">
                         {/* Image */}
                         <div className="md:w-1/3 flex-shrink-0">
@@ -150,36 +150,36 @@ export default function Blog() {
                         </div>
 
                         {/* Content */}
-                        <div className="md:w-2/3">
+                        <div className="md:w-2/3 space-y-4">
                           {/* Meta */}
-                          <div className="flex flex-wrap gap-4 mb-3 text-sm text-foreground/60">
+                          <div className="flex flex-wrap gap-4 text-sm text-foreground/60">
                             <span className="flex items-center gap-1">
                               <Calendar size={16} />
                               {new Date(post.date).toLocaleDateString('pt-BR')}
                             </span>
-                            <span>{post.readTime}</span>
-                            <span className="text-accent font-semibold bg-accent/10 px-2 py-1 rounded">
+                            <span className="flex items-center gap-1">{post.readTime}</span>
+                            <span className="text-accent font-semibold bg-accent/15 px-3 py-1 rounded-full text-xs">
                               {post.category}
                             </span>
                           </div>
 
                           {/* Title */}
-                          <h2 className="text-2xl font-bold text-primary mb-3 hover:text-accent transition-colors">
+                          <h2 className="text-2xl md:text-3xl font-bold text-primary hover:text-accent transition-colors line-clamp-2">
                             <Link href={`/blog/${post.id}`}>
                               <a>{post.title}</a>
                             </Link>
                           </h2>
 
                           {/* Excerpt */}
-                          <p className="text-foreground/70 mb-4 leading-relaxed">
+                          <p className="text-foreground/70 leading-relaxed line-clamp-3">
                             {post.excerpt}
                           </p>
 
                           {/* CTA */}
                           <Link href={`/blog/${post.id}`}>
-                            <a className="inline-flex items-center gap-2 text-accent font-semibold hover:gap-3 transition-all">
+                            <a className="inline-flex items-center gap-2 text-accent font-semibold hover:gap-3 transition-all group">
                               Ler Artigo Completo
-                              <ChevronRight size={18} />
+                              <ChevronRight size={18} className="group-hover:translate-x-1 transition-transform" />
                             </a>
                           </Link>
                         </div>

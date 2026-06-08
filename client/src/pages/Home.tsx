@@ -363,10 +363,11 @@ export default function Home() {
               <ChevronRight size={20} />
             </a>
             <a
-              href="mailto:orcamento.gsglass@gmail.com"
-              className="bg-white text-primary px-8 py-4 rounded font-semibold hover:bg-opacity-90 transition-all"
+              href="mailto:orcamento.gsglass@gmail.com?subject=Solicita%C3%A7%C3%A3o%20de%20Or%C3%A7amento%20-%20GS%20Glass&body=Ol%C3%A1%2C%0A%0AGostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20meu%20projeto%20de%20vidra%C3%A7aria.%0A%0AAtenciosamente"
+              className="bg-white text-primary px-8 py-4 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center gap-2"
             >
               Enviar E-mail Profissional
+              <ChevronRight size={20} />
             </a>
           </div>
 
@@ -385,6 +386,38 @@ export default function Home() {
               </div>
               <p className="text-sm mt-2">Contato profissional para projetos e parcerias estratégicas</p>
             </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Blog CTA Section */}
+      <section className="py-20 md:py-32 bg-gradient-to-r from-primary/95 to-primary">
+        <div className="container mx-auto px-4">
+          <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-6">
+              Dúvidas Sobre Vidraçaria?
+            </h2>
+            <p className="text-xl text-primary-foreground/90 mb-8 leading-relaxed">
+              Confira nosso blog com artigos completos sobre tipos de vidro, manutenção, instalação, preços e muito mais. Conteúdo técnico e prático para ajudar você a tomar a melhor decisão.
+            </p>
+            <div className="flex flex-col md:flex-row gap-4 justify-center">
+              <a
+                href="/blog"
+                className="bg-white text-primary px-8 py-4 rounded font-semibold hover:shadow-lg transition-all flex items-center justify-center gap-2"
+              >
+                Acessar Blog
+                <ChevronRight size={20} />
+              </a>
+              <a
+                href="https://wa.me/5511934275767"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-accent text-primary px-8 py-4 rounded font-semibold hover:shadow-lg transition-all flex items-center justify-center gap-2"
+              >
+                Falar com Especialista
+                <ChevronRight size={20} />
+              </a>
+            </div>
           </div>
         </div>
       </section>

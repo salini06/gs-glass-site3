@@ -244,9 +244,25 @@ export default function BlogPost() {
               />
               
               <article 
-                className="prose prose-lg max-w-none prose-headings:text-primary prose-a:text-accent prose-strong:text-primary"
+                className="prose prose-lg max-w-none prose-headings:text-primary prose-a:text-accent prose-strong:text-primary prose-p:leading-relaxed prose-p:text-foreground/80 prose-headings:mt-8 prose-headings:mb-4 prose-ul:my-6 prose-li:my-2 prose-blockquote:border-l-4 prose-blockquote:border-accent prose-blockquote:pl-6 prose-blockquote:italic prose-blockquote:text-foreground/70"
                 dangerouslySetInnerHTML={{ __html: article.content }}
               />
+
+              {/* CTA Box */}
+              <div className="my-16 p-8 md:p-12 bg-gradient-to-r from-accent/10 to-accent/5 border-l-4 border-accent rounded-lg">
+                <h3 className="text-2xl md:text-3xl font-bold text-primary mb-4">Quer um Box de Vidro Personalizado?</h3>
+                <p className="text-lg text-foreground/80 mb-6">
+                  A GS Glass oferece boxes sob medida com qualidade premium. Solicite seu orçamento gratuito agora mesmo!
+                </p>
+                <a
+                  href="https://wa.me/5511934275767"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-accent text-primary px-8 py-3 rounded font-semibold hover:shadow-lg transition-all"
+                >
+                  Solicitar Orçamento via WhatsApp
+                </a>
+              </div>
 
               {/* Related Articles */}
               {relatedArticles.length > 0 && (
