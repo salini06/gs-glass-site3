@@ -142,15 +142,6 @@ export default function Home() {
             <p className="text-foreground/70 mb-6">
               As imagens apresentadas representam apenas uma amostra dos trabalhos desenvolvidos pela GS Glass. Mediante solicitação, disponibilizamos outras referências, bem como registros adicionais em fotos e vídeos, para validação da nossa experiência e capacidade técnica.
             </p>
-            <a
-              href="https://wa.me/5511934275767"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-3 rounded font-semibold hover:bg-opacity-90 transition-all"
-            >
-              
-              <ChevronRight size={20} />
-            </a>
           </div>
         </div>
       </section>
