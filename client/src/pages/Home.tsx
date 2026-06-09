@@ -8,111 +8,49 @@ export default function Home() {
     <div className="min-h-screen bg-background">
       <Header />
 
-      {/* Hero Section - Com Imagem de Fundo e Animações */}
-      <section className="relative min-h-screen flex items-center justify-center overflow-hidden" style={{
-        backgroundImage: 'url(https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-glass-installation-work-gRqmbv2nyxWBfXLzFTUd8S.webp)',
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-        backgroundAttachment: 'fixed'
-      }}>
-        {/* Overlay escuro com gradiente */}
-        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/70"></div>
-        
-        {/* Conteúdo com animações */}
-        <div className="relative z-10 container mx-auto px-4 text-center">
-          <div className="max-w-3xl mx-auto space-y-8 animate-fadeIn">
-            {/* Título principal com animação */}
-            <div className="space-y-4">
-              <h1 className="text-white text-5xl md:text-7xl font-bold leading-tight" style={{
-                animation: 'slideUp 0.8s ease-out'
-              }}>
-                Box de Vidro, Sacadas e Esquadrias Premium em São Paulo
-              </h1>
-              <p className="text-xl md:text-2xl text-gray-200 font-light" style={{
-                animation: 'slideUp 0.8s ease-out 0.2s both'
-              }}>
-                Soluções Profissionais com 20+ Anos de Experiência
+      {/* Hero Section - SEO Otimizado */}
+      <section className="pt-32 pb-20 md:pt-48 md:pb-32 bg-gradient-to-br from-primary via-primary to-primary/95">
+        <div className="container mx-auto px-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            {/* Content */}
+            <div className="space-y-6">
+              <div>
+                <h1 className="text-primary-foreground text-5xl md:text-6xl font-bold mb-4" style={{fontSize: '42px'}}>
+                  Box de Vidro, Sacadas e Esquadrias Premium em São Paulo
+                </h1>
+                <p className="text-xl md:text-2xl text-primary-foreground/90 font-light">
+                  Soluções Profissionais com 20+ Anos de Experiência | Orçamento Gratuito
+                </p>
+              </div>
+              <p className="text-lg text-primary-foreground/80 leading-relaxed">
+                A GS Glass Brasil é especialista em soluções completas de vidraçaria para residências, comerciais e industriais em São Paulo. Oferecemos box de vidro temperado sob medida, fechamento de sacadas com vidro laminado, esquadrias de alumínio premium, pele de vidro corporativa e espelhos decorativos. Mais de 100 projetos realizados com excelência técnica, segurança absoluta e acabamento de alto padrão.
               </p>
+              <p className="text-base text-primary-foreground/75 leading-relaxed max-w-md">
+                Mais de 100 obras realizadas com excelência técnica, segurança absoluta e acabamento de alto padrão. Atendimento especializado em Granja Viana, Osasco, Alphaville, Barueri e região metropolitana.
+              </p>
+              <div className="flex gap-4 pt-4">
+                <a
+                  href="https://wa.me/5511934275767"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-accent text-primary px-8 py-3 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center gap-2"
+                >
+                  Solicitar Orçamento Gratuito no WhatsApp
+                  <ChevronRight size={20} />
+                </a>
+              </div>
             </div>
 
-            {/* Descrição com animação */}
-            <p className="text-lg text-gray-300 leading-relaxed max-w-2xl mx-auto" style={{
-              animation: 'slideUp 0.8s ease-out 0.4s both'
-            }}>
-              A GS Glass Brasil é especialista em soluções completas de vidraçaria para residências, comerciais e industriais em São Paulo. Mais de 100 projetos realizados com excelência técnica, segurança absoluta e acabamento de alto padrão.
-            </p>
-
-            {/* CTAs com animação */}
-            <div className="flex flex-col sm:flex-row gap-4 justify-center pt-6" style={{
-              animation: 'slideUp 0.8s ease-out 0.6s both'
-            }}>
-              <a
-                href="https://wa.me/5511934275767"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-accent text-primary px-8 py-4 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center justify-center gap-2 hover:scale-105 transform"
-              >
-                Solicitar Orçamento Gratuito
-                <ChevronRight size={20} />
-              </a>
-              <a
-                href="#portfolio"
-                className="border-2 border-accent text-accent px-8 py-4 rounded font-semibold hover:bg-accent hover:text-primary transition-all flex items-center justify-center gap-2 hover:scale-105 transform"
-              >
-                Ver Portfólio
-                <ChevronRight size={20} />
-              </a>
+            {/* Image */}
+            <div className="relative h-96 md:h-full rounded-lg overflow-hidden shadow-2xl hover:shadow-none transition-shadow duration-300">
+              <img
+                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-interior-luxury-new-YPMWqustXamHDmqZcCDf3W.webp"
+                alt="Penthouse de luxo com vidraçaria premium em São Paulo - GS Glass"
+                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+              />
             </div>
           </div>
         </div>
-
-        {/* Indicador de scroll com animação */}
-        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-10" style={{
-          animation: 'bounce 2s infinite'
-        }}>
-          <div className="text-white text-center">
-            <p className="text-sm mb-2">Deslize para explorar</p>
-            <svg className="w-6 h-6 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
-            </svg>
-          </div>
-        </div>
-
-        {/* Estilos de animação */}
-        <style>{`
-          @keyframes slideUp {
-            from {
-              opacity: 0;
-              transform: translateY(30px);
-            }
-            to {
-              opacity: 1;
-              transform: translateY(0);
-            }
-          }
-
-          @keyframes fadeIn {
-            from {
-              opacity: 0;
-            }
-            to {
-              opacity: 1;
-            }
-          }
-
-          @keyframes bounce {
-            0%, 100% {
-              transform: translateY(0);
-            }
-            50% {
-              transform: translateY(-10px);
-            }
-          }
-
-          .animate-fadeIn {
-            animation: fadeIn 0.6s ease-out;
-          }
-        `}</style>
       </section>
 
       {/* Sobre Nós - SEO Otimizado */}
@@ -408,6 +346,147 @@ export default function Home() {
             <p className="text-xl text-foreground/70 mt-6 max-w-3xl mx-auto">
               Confira nosso blog com conteúdo técnico, educativo e prático sobre tipos de vidro (temperado, laminado, jateado), manutenção profissional, instalação correta, comparações de soluções e muito mais. Artigos especializados para ajudá-lo a tomar as melhores decisões para seu projeto residencial ou comercial.
             </p>
+          </div>
+
+          {/* Featured Articles */}
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+            {[
+              {
+                title: 'Guia Completo: Como Escolher o Melhor Box de Vidro',
+                category: 'Box de Vidro',
+                readTime: '8 min',
+                excerpt: 'Descubra os tipos de vidro, tamanhos, acabamentos e dicas de manutenção para escolher o box perfeito.',
+                link: '/blog/guia-box-vidro'
+              },
+              {
+                title: 'Box de Vidro Temperado vs. Laminado: Qual é Melhor?',
+                category: 'Vidro Temperado',
+                readTime: '10 min',
+                excerpt: 'Comparação completa entre vidro temperado e laminado: diferenças, vantagens e desvantagens.',
+                link: '/blog/vidro-temperado-vs-laminado'
+              },
+              {
+                title: 'Fechamento de Sacada em Osasco: Ganhe Espaço e Conforto',
+                category: 'Sacada',
+                readTime: '9 min',
+                excerpt: 'Tudo sobre fechamento de sacadas com vidro. Opções, preços, instalação e benefícios.',
+                link: '/blog/fechamento-sacada-osasco'
+              }
+            ].map((article, index) => (
+              <a
+                key={index}
+                href={article.link}
+                className="group bg-gradient-to-br from-gray-50 to-white border border-gray-200 rounded-lg p-8 hover:shadow-xl transition-all hover:-translate-y-2"
+              >
+                <div className="flex items-center justify-between mb-4">
+                  <span className="text-accent font-semibold text-xs uppercase bg-accent/10 px-3 py-1 rounded-full">
+                    {article.category}
+                  </span>
+                  <span className="text-foreground/60 text-xs">{article.readTime}</span>
+                </div>
+                <h3 className="text-xl font-bold text-primary mb-3 group-hover:text-accent transition-colors line-clamp-2">
+                  {article.title}
+                </h3>
+                <p className="text-foreground/70 text-sm mb-6 line-clamp-2">
+                  {article.excerpt}
+                </p>
+                <div className="flex items-center gap-2 text-accent font-semibold text-sm group-hover:gap-3 transition-all">
+                  Ler Artigo
+                  <ChevronRight size={16} className="group-hover:translate-x-1 transition-transform" />
+                </div>
+              </a>
+            ))}
+          </div>
+
+          {/* Blog CTA */}
+          <div className="text-center">
+            <a
+              href="/blog"
+              className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-4 rounded font-semibold hover:shadow-lg transition-all"
+            >
+              Explorar Todos os Artigos
+              <ChevronRight size={20} />
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* CTA Final - SEO Otimizado */}
+      <section className="py-20 md:py-32 bg-gradient-to-br from-primary via-primary to-primary/95">
+        <div className="container mx-auto px-4 text-center">
+          <h2 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-6">
+            Vamos Construir Juntos
+          </h2>
+          <p className="text-xl text-primary-foreground/80 mb-8 max-w-2xl mx-auto">
+            Entre em contato e descubra como a GS Glass pode transformar seu projeto com soluções premium em vidro. Atendimento especializado em São Paulo, Granja Viana, Osasco, Alphaville e região.
+          </p>
+
+          <div className="flex flex-col md:flex-row gap-6 justify-center items-center">
+            <a
+              href="https://wa.me/5511934275767"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white text-primary px-8 py-4 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center gap-2"
+            >
+              Solicitar Orçamento via WhatsApp
+              <ChevronRight size={20} />
+            </a>
+            <a
+              href="mailto:guilhermesalini@gsglassbrasil.com.br?subject=Solicita%C3%A7%C3%A3o%20de%20Or%C3%A7amento%20-%20GS%20Glass&body=Ol%C3%A1%2C%0A%0AGostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20meu%20projeto%20de%20vidra%C3%A7aria.%0A%0AAtenciosamente"
+              className="bg-white text-primary px-8 py-4 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center gap-2"
+            >
+              Enviar E-mail Profissional
+              <ChevronRight size={20} />
+            </a>
+          </div>
+
+          <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
+            <a href="https://wa.me/5511934275767" target="_blank" rel="noopener noreferrer" className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all cursor-pointer">
+              <div className="text-lg font-bold mb-2">📱 WhatsApp</div>
+              <div className="text-primary hover:underline font-semibold">
+                11 93427-5767
+              </div>
+              <p className="text-sm mt-2">Atendimento direto e ágil para orçamentos e consultas técnicas</p>
+            </a>
+            <a href="mailto:guilhermesalini@gsglassbrasil.com.br" className="bg-white text-primary p-8 rounded-lg hover:shadow-lg transition-all cursor-pointer">
+              <div className="text-lg font-bold mb-2">📧 E-mail</div>
+              <div className="text-primary hover:underline font-semibold">
+                guilhermesalini@gsglassbrasil.com.br
+              </div>
+              <p className="text-sm mt-2">Contato profissional para projetos e parcerias estratégicas</p>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Blog CTA Section */}
+      <section className="py-20 md:py-32 bg-gradient-to-r from-primary/95 to-primary">
+        <div className="container mx-auto px-4">
+          <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-6">
+              Dúvidas Sobre Vidraçaria?
+            </h2>
+            <p className="text-xl text-primary-foreground/90 mb-8 leading-relaxed">
+              Confira nosso blog com artigos completos sobre tipos de vidro, manutenção, instalação, preços e muito mais. Conteúdo técnico e prático para ajudar você a tomar a melhor decisão.
+            </p>
+            <div className="flex flex-col md:flex-row gap-4 justify-center">
+              <a
+                href="/blog"
+                className="bg-white text-primary px-8 py-4 rounded font-semibold hover:shadow-lg transition-all flex items-center justify-center gap-2"
+              >
+                Acessar Blog
+                <ChevronRight size={20} />
+              </a>
+              <a
+                href="https://wa.me/5511934275767"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-accent text-primary px-8 py-4 rounded font-semibold hover:shadow-lg transition-all flex items-center justify-center gap-2"
+              >
+                Falar com Especialista
+                <ChevronRight size={20} />
+              </a>
+            </div>
           </div>
         </div>
       </section>
