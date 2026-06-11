@@ -55,9 +55,7 @@ export default function Home() {
             <p className="text-xl md:text-2xl text-white/90 font-light mb-6">
               Soluções Profissionais com 20+ Anos de Experiência | Orçamento Gratuito
             </p>
-            <p className="text-lg text-white/80 leading-relaxed mb-8 max-w-xl">
-              A GS Glass Brasil é especialista em soluções completas de vidraçaria para residências, comerciais e industriais em São Paulo. Mais de 100 projetos realizados com excelência técnica, segurança absoluta e acabamento de alto padrão.
-            </p>
+
             <div className="flex gap-4 pt-4">
               <a
                 href="https://wa.me/5511934275767"
