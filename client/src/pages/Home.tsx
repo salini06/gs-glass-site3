@@ -88,7 +88,7 @@ export default function Home() {
       </section>
 
       {/* Sobre Nós - SEO Otimizado */}
-      <section id="sobre" className="py-20 md:py-32 bg-white" style={{paddingBottom: '65px'}}>
+      <section id="sobre" className="py-20 md:py-32 bg-white animate-in fade-in slide-in-from-bottom-8 duration-1000" style={{paddingBottom: '65px'}}>
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             {/* Image */}
@@ -156,7 +156,7 @@ export default function Home() {
       </section>
 
       {/* Portfólio - SEO Otimizado */}
-      <section id="portfolio" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white" style={{paddingBottom: '14px', paddingTop: '59px'}}>
+      <section id="portfolio" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white animate-in fade-in slide-in-from-bottom-8 duration-1000" style={{paddingBottom: '14px', paddingTop: '59px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
@@ -183,7 +183,7 @@ export default function Home() {
 
 
       {/* Diferenciais - SEO Otimizado */}
-      <section id="diferenciais" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white" style={{paddingTop: '62px', paddingBottom: '80px'}}>
+      <section id="diferenciais" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white animate-in fade-in slide-in-from-bottom-8 duration-1000" style={{paddingTop: '62px', paddingBottom: '80px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-primary">
@@ -271,7 +271,7 @@ export default function Home() {
       </section>
 
       {/* Processo de Trabalho - SEO Otimizado */}
-      <section className="py-20 md:py-32 bg-white" style={{paddingTop: '8px', paddingBottom: '24px'}}>
+      <section className="py-20 md:py-32 bg-white animate-in fade-in slide-in-from-bottom-8 duration-1000" style={{paddingTop: '8px', paddingBottom: '24px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
@@ -316,7 +316,7 @@ export default function Home() {
       </section>
 
       {/* Blog Section */}
-      <section className="py-20 md:py-32 bg-white" style={{paddingTop: '54px'}}>
+      <section className="py-20 md:py-32 bg-white animate-in fade-in slide-in-from-bottom-8 duration-1000" style={{paddingTop: '54px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
