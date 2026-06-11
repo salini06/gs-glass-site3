@@ -183,7 +183,7 @@ export default function Home() {
       </section>
 
       {/* Soluções - SEO Otimizado */}
-      <section id="solucoes" className="py-20 md:py-32 bg-white">
+      <section id="solucoes" className="py-20 md:py-32 bg-white" style={{paddingTop: '62px'}} style={{paddingBottom: '62px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
@@ -277,7 +277,7 @@ export default function Home() {
       </section>
 
       {/* Diferenciais - SEO Otimizado */}
-      <section id="diferenciais" className="py-20 md:py-32 bg-white">
+      <section id="diferenciais" className="py-20 md:py-32 bg-white" style={{paddingTop: '10px'}} style={{paddingBottom: '61px'}}>
         <div className="container mx-auto px-4">
           <div className="mb-12">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest mb-4 block">
@@ -287,7 +287,7 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
             {/* Left Side - Box Verde */}
-            <div className="bg-primary text-primary-foreground p-8 rounded-lg">
+            <div className="bg-primary text-primary-foreground p-8 rounded-lg" style={{paddingBottom: '38px'}}>
               <h3 className="text-accent font-semibold text-sm uppercase tracking-widest mb-4">
                 Experiência do Cliente
               </h3>
@@ -365,7 +365,7 @@ export default function Home() {
       </section>
 
       {/* Processo de Trabalho - SEO Otimizado */}
-      <section className="py-20 md:py-32 bg-white">
+      <section className="py-20 md:py-32 bg-white" style={{paddingTop: '8px'}} style={{paddingBottom: '24px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
@@ -410,7 +410,7 @@ export default function Home() {
       </section>
 
       {/* Blog Section */}
-      <section className="py-20 md:py-32 bg-white">
+      <section className="py-20 md:py-32 bg-white" style={{paddingTop: '54px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
