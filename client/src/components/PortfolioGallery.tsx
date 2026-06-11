@@ -133,7 +133,7 @@ export default function PortfolioGallery() {
   const filteredItems = portfolioItems.filter(item => item.category === activeCategory);
 
   return (
-    <section id="portfolio" className="py-20 bg-gradient-to-b from-white to-slate-50">
+    <section id="portfolio" className="py-20 bg-gradient-to-b from-white to-slate-50" style={{paddingTop: '50px'}}>
       <div className="container mx-auto px-4">
         {/* Header */}
         <div className="text-center mb-16">

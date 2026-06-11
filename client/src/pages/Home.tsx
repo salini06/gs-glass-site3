@@ -90,7 +90,7 @@ export default function Home() {
       </section>
 
       {/* Sobre Nós - SEO Otimizado */}
-      <section id="sobre" className="py-20 md:py-32 bg-white">
+      <section id="sobre" className="py-20 md:py-32 bg-white" style={{paddingBottom: '65px'}}>
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             {/* Image */}
@@ -158,7 +158,7 @@ export default function Home() {
       </section>
 
       {/* Portfólio - SEO Otimizado */}
-      <section id="portfolio" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white" style={{paddingBottom: '14px'}}>
+      <section id="portfolio" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white" style={{paddingBottom: '14px', paddingTop: '59px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
