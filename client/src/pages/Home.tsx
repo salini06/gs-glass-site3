@@ -187,13 +187,10 @@ export default function Home() {
       {/* Diferenciais - SEO Otimizado */}
       <section id="diferenciais" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white" style={{paddingTop: '62px', paddingBottom: '80px'}}>
         <div className="container mx-auto px-4">
-          <div className="text-center mb-16">
+          <div className="mb-12">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest mb-4 block">
               Diferenciais GS Glass
             </span>
-            <h2 className="text-4xl md:text-5xl font-bold text-primary mt-4">
-              Mais controlo, segurança e transparência
-            </h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
