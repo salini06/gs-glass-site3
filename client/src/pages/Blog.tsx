@@ -139,13 +139,11 @@ export default function Blog() {
                         {/* Image */}
                         <div className="md:w-1/3 flex-shrink-0">
                           <Link href={`/blog/${post.id}`}>
-                            <a>
-                              <img
-                                src={post.image}
-                                alt={post.title}
-                                className="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform duration-300"
-                              />
-                            </a>
+                            <img
+                              src={post.image}
+                              alt={post.title}
+                              className="w-full h-48 object-cover rounded-lg hover:scale-105 transition-transform duration-300 cursor-pointer"
+                            />
                           </Link>
                         </div>
 
@@ -166,7 +164,7 @@ export default function Blog() {
                           {/* Title */}
                           <h2 className="text-2xl md:text-3xl font-bold text-primary hover:text-accent transition-colors line-clamp-2">
                             <Link href={`/blog/${post.id}`}>
-                              <a>{post.title}</a>
+                              <span className="cursor-pointer">{post.title}</span>
                             </Link>
                           </h2>
 
@@ -177,10 +175,10 @@ export default function Blog() {
 
                           {/* CTA */}
                           <Link href={`/blog/${post.id}`}>
-                            <a className="inline-flex items-center gap-2 text-accent font-semibold hover:gap-3 transition-all group">
+                            <span className="inline-flex items-center gap-2 text-accent font-semibold hover:gap-3 transition-all group cursor-pointer">
                               Ler Artigo Completo
                               <ChevronRight size={18} className="group-hover:translate-x-1 transition-transform" />
-                            </a>
+                            </span>
                           </Link>
                         </div>
                       </div>
