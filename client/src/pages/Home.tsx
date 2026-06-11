@@ -122,7 +122,7 @@ export default function Home() {
       </section>
 
       {/* Portfólio - SEO Otimizado */}
-      <section id="portfolio" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white">
+      <section id="portfolio" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white" style={{paddingBottom: '14px'}}>
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest">
