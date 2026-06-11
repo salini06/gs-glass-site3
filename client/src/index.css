@@ -252,3 +252,67 @@
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
   }
 }
+
+  /* Scroll Animations */
+  @keyframes slideInFromLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-40px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes slideInFromRight {
+    from {
+      opacity: 0;
+      transform: translateX(40px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes slideInFromBottom {
+    from {
+      opacity: 0;
+      transform: translateY(40px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .animate-scroll-in {
+    animation: slideInFromBottom 0.8s ease-out forwards;
+    opacity: 0;
+  }
+
+  .animate-scroll-in-left {
+    animation: slideInFromLeft 0.8s ease-out forwards;
+    opacity: 0;
+  }
+
+  .animate-scroll-in-right {
+    animation: slideInFromRight 0.8s ease-out forwards;
+    opacity: 0;
+  }
+
+  .animate-fade-in-scroll {
+    animation: fadeIn 0.8s ease-out forwards;
+    opacity: 0;
+  }
+}

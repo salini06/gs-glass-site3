@@ -2,54 +2,92 @@ import { ChevronRight, CheckCircle } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import PortfolioGallery from '@/components/PortfolioGallery';
+import { useState, useEffect } from 'react';
+
 
 export default function Home() {
+  const [currentSlide, setCurrentSlide] = useState(0);
+  const heroImages = [
+    'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-1-glass-installation-HtGxW5gcYtk9UQ7RCAkPM8.webp',
+    'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-2-glass-facade-oLQoK9DTfDRxtEhQnNa65X.webp',
+    'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-3-bathroom-glass-KaJutZ92ChvbHTjrCoTWA9.webp',
+    'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-4-glass-doors-3Bv3DLNtfhYuTRUoSeHXXE.webp',
+    'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-5-glass-office-HhH6UrBEVeGAgTKm2ZmyFG.webp'
+  ];
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentSlide((prev) => (prev + 1) % heroImages.length);
+    }, 5000);
+    return () => clearInterval(interval);
+  }, [heroImages.length]);
+
   return (
     <div className="min-h-screen bg-background">
       <Header />
 
-      {/* Hero Section - SEO Otimizado */}
-      <section className="pt-32 pb-20 md:pt-48 md:pb-32 bg-gradient-to-br from-primary via-primary to-primary/95">
-        <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-            {/* Content */}
-            <div className="space-y-6">
-              <div>
-                <h1 className="text-primary-foreground text-5xl md:text-6xl font-bold mb-4" style={{fontSize: '42px'}}>
-                  Box de Vidro, Sacadas e Esquadrias Premium em São Paulo
-                </h1>
-                <p className="text-xl md:text-2xl text-primary-foreground/90 font-light">
-                  Soluções Profissionais com 20+ Anos de Experiência | Orçamento Gratuito
-                </p>
-              </div>
-              <p className="text-lg text-primary-foreground/80 leading-relaxed">
-                A GS Glass Brasil é especialista em soluções completas de vidraçaria para residências, comerciais e industriais em São Paulo. Oferecemos box de vidro temperado sob medida, fechamento de sacadas com vidro laminado, esquadrias de alumínio premium, pele de vidro corporativa e espelhos decorativos. Mais de 100 projetos realizados com excelência técnica, segurança absoluta e acabamento de alto padrão.
-              </p>
-              <p className="text-base text-primary-foreground/75 leading-relaxed max-w-md">
-                Mais de 100 obras realizadas com excelência técnica, segurança absoluta e acabamento de alto padrão. Atendimento especializado em Granja Viana, Osasco, Alphaville, Barueri e região metropolitana.
-              </p>
-              <div className="flex gap-4 pt-4">
-                <a
-                  href="https://wa.me/5511934275767"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-accent text-primary px-8 py-3 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center gap-2"
-                >
-                  Solicitar Orçamento Gratuito no WhatsApp
-                  <ChevronRight size={20} />
-                </a>
-              </div>
-            </div>
-
-            {/* Image */}
-            <div className="relative h-96 md:h-full rounded-lg overflow-hidden shadow-2xl hover:shadow-none transition-shadow duration-300">
+      {/* Hero Section with Carousel - SEO Otimizado */}
+      <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
+        {/* Carousel Background */}
+        <div className="absolute inset-0 w-full h-full">
+          {heroImages.map((image, index) => (
+            <div
+              key={index}
+              className={`absolute inset-0 transition-opacity duration-1000 ${
+                index === currentSlide ? 'opacity-100' : 'opacity-0'
+              }`}
+            >
               <img
-                src="https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-interior-luxury-new-YPMWqustXamHDmqZcCDf3W.webp"
-                alt="Penthouse de luxo com vidraçaria premium em São Paulo - GS Glass"
-                className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+                src={image}
+                alt={`Serviço de vidraçaria ${index + 1}`}
+                className="w-full h-full object-cover"
               />
+              {/* Dark Overlay */}
+              <div className="absolute inset-0 bg-black/40"></div>
+            </div>
+          ))}
+        </div>
+
+        {/* Content */}
+        <div className="relative z-10 container mx-auto px-4 py-32">
+          <div className="max-w-2xl animate-in fade-in slide-in-from-bottom-8 duration-1000">
+            <h1 className="text-white text-5xl md:text-6xl font-bold mb-4 leading-tight">
+              Box de Vidro, Sacadas e Esquadrias Premium em São Paulo
+            </h1>
+            <p className="text-xl md:text-2xl text-white/90 font-light mb-6">
+              Soluções Profissionais com 20+ Anos de Experiência | Orçamento Gratuito
+            </p>
+            <p className="text-lg text-white/80 leading-relaxed mb-8 max-w-xl">
+              A GS Glass Brasil é especialista em soluções completas de vidraçaria para residências, comerciais e industriais em São Paulo. Mais de 100 projetos realizados com excelência técnica, segurança absoluta e acabamento de alto padrão.
+            </p>
+            <div className="flex gap-4 pt-4">
+              <a
+                href="https://wa.me/5511934275767"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-accent text-primary px-8 py-3 rounded font-semibold hover:bg-opacity-90 transition-all flex items-center gap-2"
+              >
+                Solicitar Orçamento Gratuito no WhatsApp
+                <ChevronRight size={20} />
+              </a>
             </div>
           </div>
+        </div>
+
+        {/* Carousel Indicators */}
+        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-20 flex gap-2">
+          {heroImages.map((_, index) => (
+            <button
+              key={index}
+              onClick={() => setCurrentSlide(index)}
+              className={`h-2 rounded-full transition-all ${
+                index === currentSlide
+                  ? 'bg-white w-8'
+                  : 'bg-white/50 w-2 hover:bg-white/75'
+              }`}
+              aria-label={`Slide ${index + 1}`}
+            />
+          ))}
         </div>
       </section>
 
