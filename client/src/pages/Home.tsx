@@ -90,28 +90,28 @@ export default function Home() {
                 <div className="flex gap-3 items-start">
                   <CheckCircle className="text-accent flex-shrink-0 mt-1" size={20} />
                   <div>
-                    <h3 className="font-semibold text-foreground">20+ Anos de Experiência</h3>
+                    <h3 className="font-semibold text-primary">20+ Anos de Experiência</h3>
                     <p className="text-foreground/70">Consolidada no setor vidreiro com expertise comprovada</p>
                   </div>
                 </div>
                 <div className="flex gap-3 items-start">
                   <CheckCircle className="text-accent flex-shrink-0 mt-1" size={20} />
                   <div>
-                    <h3 className="font-semibold text-foreground">Equipe Especializada</h3>
+                    <h3 className="font-semibold text-primary">Equipe Especializada</h3>
                     <p className="text-foreground/70">Profissionais qualificados com atuação comprovada em projetos complexos</p>
                   </div>
                 </div>
                 <div className="flex gap-3 items-start">
                   <CheckCircle className="text-accent flex-shrink-0 mt-1" size={20} />
                   <div>
-                    <h3 className="font-semibold text-foreground">Sistemas Avançados</h3>
+                    <h3 className="font-semibold text-primary">Sistemas Avançados</h3>
                     <p className="text-foreground/70">Domínio em vidro temperado, laminado e soluções especiais</p>
                   </div>
                 </div>
                 <div className="flex gap-3 items-start">
                   <CheckCircle className="text-accent flex-shrink-0 mt-1" size={20} />
                   <div>
-                    <h3 className="font-semibold text-foreground">100+ Obras Realizadas</h3>
+                    <h3 className="font-semibold text-primary">100+ Obras Realizadas</h3>
                     <p className="text-foreground/70">Projetos em residências, comerciais e industriais de alto padrão</p>
                   </div>
                 </div>
