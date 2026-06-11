@@ -12,13 +12,6 @@ interface PortfolioItem {
 const portfolioItems: PortfolioItem[] = [
   // RESIDENCIAL
   {
-    id: 'res-01',
-    title: 'Sacada Moderna',
-    category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-01-sacada-premium-WExjzxmjvv82ippWZ7fuWX.webp',
-    description: 'Envidraçamento premium para sacadas com acabamento impecável'
-  },
-  {
     id: 'res-02',
     title: 'Box de Banheiro',
     category: 'residencial',
