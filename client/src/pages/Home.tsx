@@ -182,102 +182,10 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Soluções - SEO Otimizado */}
-      <section id="solucoes" className="py-20 md:py-32 bg-white" style={{paddingTop: '62px', paddingBottom: '62px'}}>
-        <div className="container mx-auto px-4">
-          <div className="text-center mb-16">
-            <span className="text-accent font-semibold text-sm uppercase tracking-widest">
-              Soluções Completas
-            </span>
-            <h2 className="text-4xl md:text-5xl font-bold text-primary mt-4">
-              Soluções Profissionais em Vidro
-            </h2>
-          </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* Box de Banheiro */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Box de Banheiro Sob Medida</h3>
-              <p className="text-foreground/70 mb-4">
-                Projetos personalizados de box de vidro temperado com precisão milimétrica e acabamento de alto padrão. Utilizamos vidro temperado certificado (NBR 7199), perfis de alumínio anodizado e sistemas de fechamento sofisticados. Disponímos de opções em vidro transparente, fumê, jateado e espelhado. Ideal para banheiros residenciais e comerciais que buscam durabilidade, segurança e design moderno.
-              </p>
-              <ul className="text-sm text-foreground/60 space-y-2">
-                <li>✓ Vidro temperado certificado</li>
-                <li>✓ Acabamento impecável</li>
-                <li>✓ Medidas personalizadas</li>
-              </ul>
-            </div>
-
-            {/* Espelhos Premium */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Espelhos Decorativos Premium</h3>
-              <p className="text-foreground/70 mb-4">
-                Espelhos decorativos sob medida que agregam sofisticação e funcionalidade a ambientes residenciais e comerciais. Oferecemos espelhos premium com molduras elegantes, acabamento de alto padrão e opções de iluminação integrada com LED. Perfeitos para banheiros luxuosos, salas de estar, closets e espaços comerciais que buscam design diferenciado e durabilidade.
-              </p>
-              <ul className="text-sm text-foreground/60 space-y-2">
-                <li>✓ Designs exclusivos</li>
-                <li>✓ Molduras elegantes</li>
-                <li>✓ Iluminação opcional</li>
-              </ul>
-            </div>
-
-            {/* Portas e Divisórias */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Portas e Divisórias</h3>
-              <p className="text-foreground/70 mb-4">
-                Sistemas completos em vidro para integração arquitetônica elegante. Portas de vidro, divisórias internas e soluções de integração de ambientes. Perfeito para residências modernas e espaços comerciais que buscam sofisticação.
-              </p>
-              <ul className="text-sm text-foreground/60 space-y-2">
-                <li>✓ Integração de ambientes</li>
-                <li>✓ Design moderno</li>
-                <li>✓ Sistemas de fechamento suave</li>
-              </ul>
-            </div>
-
-            {/* Vidros Temperados */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Vidros Temperados Certificados</h3>
-              <p className="text-foreground/70 mb-4">
-                Vidros temperados com máxima segurança, resistência e certificação técnica completa. Utilizados em sacadas, fachadas, guarda-corpos, divisórias e aplicações estruturais. Todos os produtos seguem rigorosamente as normas técnicas brasileiras NBR 7199 e certificações internacionais. Oferecem resistência a impactos, segurança em caso de quebra e durabilidade garantida.
-              </p>
-              <ul className="text-sm text-foreground/60 space-y-2">
-                <li>✓ Certificação NBR 7199</li>
-                <li>✓ Alta resistência</li>
-                <li>✓ Segurança garantida</li>
-              </ul>
-            </div>
-
-            {/* Vidros Laminados */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Vidros Laminados com Isolamento</h3>
-              <p className="text-foreground/70 mb-4">
-                Vidros laminados com proteção avançada e controle acústico para projetos exigentes. Utilizados em fachadas, coberturas e aplicações que requerem isolamento acústico superior. Certificação NBR 7208, proteção UV e desempenho técnico comprovado.
-              </p>
-              <ul className="text-sm text-foreground/60 space-y-2">
-                <li>✓ Isolamento acústico</li>
-                <li>✓ Proteção UV</li>
-                <li>✓ Certificação NBR 7208</li>
-              </ul>
-            </div>
-
-            {/* Projetos Personalizados */}
-            <div className="bg-gradient-to-br from-gray-50 to-gray-100 p-8 rounded-lg hover:shadow-lg transition-shadow">
-              <h3 className="text-2xl font-bold text-primary mb-3">Projetos Personalizados</h3>
-              <p className="text-foreground/70 mb-4">
-                Soluções exclusivas desenvolvidas conforme especificações técnicas do cliente. Desde projetos residenciais até fachadas corporativas complexas. Consultoria técnica completa desde o projeto até a instalação final.
-              </p>
-              <ul className="text-sm text-foreground/60 space-y-2">
-                <li>✓ Consultoria técnica</li>
-                <li>✓ Projetos customizados</li>
-                <li>✓ Execução profissional</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Diferenciais - SEO Otimizado */}
-      <section id="diferenciais" className="py-20 md:py-32 bg-white" style={{paddingTop: '10px', paddingBottom: '61px'}}>
+      <section id="diferenciais" className="py-20 md:py-32 bg-gradient-to-b from-gray-50 to-white" style={{paddingTop: '62px', paddingBottom: '80px'}}>
         <div className="container mx-auto px-4">
           <div className="mb-12">
             <span className="text-accent font-semibold text-sm uppercase tracking-widest mb-4 block">
@@ -287,7 +195,7 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
             {/* Left Side - Box Verde */}
-            <div className="bg-primary text-primary-foreground p-8 rounded-lg" style={{paddingBottom: '38px'}}>
+            <div className="bg-primary text-primary-foreground p-8 rounded-lg" style={{paddingBottom: '38px', minHeight: '600px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between'}}>
               <h3 className="text-accent font-semibold text-sm uppercase tracking-widest mb-4">
                 Experiência do Cliente
               </h3>
