@@ -8,8 +8,6 @@ import { useState, useEffect } from 'react';
 export default function Home() {
   const [currentSlide, setCurrentSlide] = useState(0);
   const heroImages = [
-    'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-1-glass-installation-HtGxW5gcYtk9UQ7RCAkPM8.webp',
-    'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-2-glass-facade-oLQoK9DTfDRxtEhQnNa65X.webp',
     'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-3-bathroom-glass-KaJutZ92ChvbHTjrCoTWA9.webp',
     'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-4-glass-doors-3Bv3DLNtfhYuTRUoSeHXXE.webp',
     'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/hero-carousel-5-glass-office-HhH6UrBEVeGAgTKm2ZmyFG.webp'
@@ -18,7 +16,7 @@ export default function Home() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentSlide((prev) => (prev + 1) % heroImages.length);
-    }, 5000);
+    }, 7000);
     return () => clearInterval(interval);
   }, [heroImages.length]);
 
