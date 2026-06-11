@@ -277,49 +277,89 @@ export default function Home() {
       </section>
 
       {/* Diferenciais - SEO Otimizado */}
-      <section className="py-20 md:py-32 bg-gradient-to-br from-primary to-primary/95">
+      <section id="diferenciais" className="py-20 md:py-32 bg-white">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-6">
-              O Padrão GS Glass
-            </h2>
-            <p className="text-lg text-primary-foreground/80 max-w-2xl mx-auto">
-              Compromisso com a Excelência em Cada Projeto
-            </p>
+          <div className="mb-12">
+            <span className="text-accent font-semibold text-sm uppercase tracking-widest mb-4 block">
+              Diferenciais GS Glass
+            </span>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {[
-              {
-                title: 'Atendimento Técnico Especializado',
-                description: 'Consultoria completa desde o projeto até a instalação final. Profissionais qualificados para orientar sobre as melhores soluções.'
-              },
-              {
-                title: 'Materiais Certificados',
-                description: 'Produtos homologados que atendem às normas técnicas mais rigorosas. NBR 7199, NBR 7208 e certificações internacionais.'
-              },
-              {
-                title: 'Parceiros Homologados',
-                description: 'Rede de fornecedores qualificados garantindo excelência em cada etapa. Qualidade garantida em toda a cadeia produtiva.'
-              },
-              {
-                title: 'Instalação Profissional',
-                description: 'Equipe técnica experiente assegurando perfeição no acabamento. Precisão milimétrica em cada instalação.'
-              },
-              {
-                title: 'Cumprimento de Prazos',
-                description: 'Compromisso rigoroso com cronogramas e entregas pontuais. Planejamento eficiente para sua tranquilidade.'
-              },
-              {
-                title: 'Alto Padrão de Acabamento',
-                description: 'Atenção meticulosa aos detalhes em cada projeto executado. Excelência visual e funcional garantidas.'
-              }
-            ].map((item, index) => (
-              <div key={index} className="bg-white/10 backdrop-blur-sm p-8 rounded-lg border border-white/20 hover:bg-white/20 transition-colors">
-                <h3 className="text-xl font-bold text-primary-foreground mb-3">{item.title}</h3>
-                <p className="text-primary-foreground/80">{item.description}</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
+            {/* Left Side - Box Verde */}
+            <div className="bg-primary text-primary-foreground p-8 rounded-lg">
+              <h3 className="text-accent font-semibold text-sm uppercase tracking-widest mb-4">
+                Experiência do Cliente
+              </h3>
+              <h2 className="text-4xl md:text-5xl font-bold mb-8 leading-tight">
+                Mais controlo, segurança e transparência
+              </h2>
+              <p className="text-primary-foreground/90 mb-8 leading-relaxed">
+                Acompanhamento claro, personalização livre e garantias pensadas para dar tranquilidade antes, durante e depois da obra.
+              </p>
+              <div className="border-t border-primary-foreground/20 pt-6">
+                <p className="text-sm text-primary-foreground/80 leading-relaxed">
+                  Processo organizado para reduzir dúvidas, evitar surpresas e manter o projeto alinhado do orçamento à entrega final.
+                </p>
               </div>
-            ))}
+            </div>
+
+            {/* Right Side - Grid 2x3 */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {/* Item 01 */}
+              <div className="border border-gray-200 p-6 rounded-lg">
+                <span className="text-accent font-bold text-2xl mb-2 block">01</span>
+                <h3 className="text-xl font-bold text-primary mb-2">WhatsApp automático</h3>
+                <p className="text-foreground/70 text-sm">
+                  Robô de atualização informa a evolução de cada etapa do projeto.
+                </p>
+              </div>
+
+              {/* Item 02 */}
+              <div className="border border-gray-200 p-6 rounded-lg">
+                <span className="text-accent font-bold text-2xl mb-2 block">02</span>
+                <h3 className="text-xl font-bold text-primary mb-2">Transparência total</h3>
+                <p className="text-foreground/70 text-sm">
+                  Valores, prazos e materiais definidos com clareza antes da execução.
+                </p>
+              </div>
+
+              {/* Item 03 */}
+              <div className="border border-gray-200 p-6 rounded-lg">
+                <span className="text-accent font-bold text-2xl mb-2 block">03</span>
+                <h3 className="text-xl font-bold text-primary mb-2">Personalização livre</h3>
+                <p className="text-foreground/70 text-sm">
+                  Medidas, acabamentos, sistemas e estética ajustados ao projeto.
+                </p>
+              </div>
+
+              {/* Item 04 */}
+              <div className="border border-gray-200 p-6 rounded-lg">
+                <span className="text-accent font-bold text-2xl mb-2 block">04</span>
+                <h3 className="text-xl font-bold text-primary mb-2">Garantia de 5 anos</h3>
+                <p className="text-foreground/70 text-sm">
+                  Cobertura contra quebra do vidro, conforme condições contratadas.
+                </p>
+              </div>
+
+              {/* Item 05 */}
+              <div className="border border-gray-200 p-6 rounded-lg">
+                <span className="text-accent font-bold text-2xl mb-2 block">05</span>
+                <h3 className="text-xl font-bold text-primary mb-2">Plano pós-garantia</h3>
+                <p className="text-foreground/70 text-sm">
+                  Opção de acompanhamento após o prazo inicial de garantia de 1 ano.
+                </p>
+              </div>
+
+              {/* Item 06 */}
+              <div className="border border-gray-200 p-6 rounded-lg">
+                <span className="text-accent font-bold text-2xl mb-2 block">06</span>
+                <h3 className="text-xl font-bold text-primary mb-2">Atendimento ampliado</h3>
+                <p className="text-foreground/70 text-sm">
+                  Suporte em qualquer horário e gestão técnica documentada do projeto.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </section>
