@@ -533,541 +533,1861 @@ const blogArticles: Record<string, any> = {
     readTime: '20 min',
     relatedPosts: ['vidro-laminado-vs-temperado-completo'],
     content: `
-      <h1>Guia Completo: Os 6 Tipos de Box de Vidro - Como Funcionam, Materiais e Qual Escolher para Seu Banheiro</h1>
+      <h1>Como Escolher o Melhor Box para o Seu Banheiro: Tipos, Modelos e Cores de Alumínio</h1>
 
       <h2>Introdução</h2>
 
-      <p>Escolher o tipo de box de vidro ideal para seu banheiro é uma decisão importante. Cada tipo funciona de forma diferente, utiliza materiais específicos e é ideal para situações diferentes. Neste guia completo, vamos explicar os 6 tipos de box disponíveis, como funcionam, quais materiais utilizam e por que cada um é ideal para um modelo de banheiro específico.</p>
+      <p>Escolher o box de vidro ideal para seu banheiro é uma decisão importante que vai afetar sua experiência diária nos próximos 10-20 anos. Não é apenas sobre estética — é sobre funcionalidade, durabilidade, conforto e segurança.</p>
 
-      ---
+      <p>Neste guia, vamos ajudá-lo a entender qual box é melhor para <strong>sua situação específica</strong>, considerando o tipo de box (transpasse, sem transpasse, canto, corredíço, dobraça, até teto), o modelo de vidro, a cor do alumínio e a disponibilidade em pronta entrega.</p>
 
-      <h2>1. BOX SEM TRANSPASSE (PADRÃO) - O Clássico Funcional</h2>
 
-      <h3>Como Funciona</h3>
 
-      <p>O box sem transpasse é o modelo mais comum e tradicional. O vidro temperado é instalado <strong>sem ultrapassar a borda da banheira</strong>, criando um fechamento simples e direto. A vedação é feita com silicone na base, onde o vidro encontra a banheira.</p>
+      <h2>1. Box Temperado Simples com Perfil Prata: Para Quem Busca Funcionalidade e Transparência</h2>
 
-      <strong>Funcionamento técnico:</strong>
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
       <ul>
-      <li>Vidro temperado 8mm é fixado com dobradiças na parede</li>
-      <li>A base do vidro fica no mesmo nível da borda da banheira</li>
-      <li>Silicone premium selaciona a junção vidro-banheira</li>
-      <li>Abertura pivotante para entrada e saída</li>
-
+      <li>✅ Prefere transparência total (banheiro parece maior)</li>
+      <li>✅ Quer algo funcional e seguro</li>
+      <li>✅ Limpa o banheiro regularmente</li>
+      <li>✅ Quer pronta entrega (3-5 dias)</li>
+      <li>✅ Valoriza simplicidade e praticidade</li>
       </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box temperado simples é a <strong>melhor escolha para quem quer qualidade e funcionalidade pura</strong>. É seguro, durável e funciona perfeitamente para a maioria dos banheiros.</p>
+
       <h3>Materiais Utilizados</h3>
 
       <ul>
       <li><strong>Vidro:</strong> Temperado 8mm (4-5x mais resistente que vidro comum)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido ou cromado (suporta peso do vidro)</li>
-      <li><strong>Vedação:</strong> Silicone de qualidade premium (resiste a mofo e umidade)</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado prata (acabamento clássico)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
-
-      </ul>
-      <h3>Por Que Serve Para Seu Banheiro</h3>
-
-      <strong>Ideal para:</strong>
-      <ul>
-      <li>Banheiros pequenos a médios (até 2m²)</li>
-      <li>Banheiras padrão com altura regular</li>
-      <li>Orçamento limitado</li>
-      <li>Quem quer simplicidade e funcionalidade</li>
-      <li>Instalação rápida (pronta entrega em 3-5 dias)</li>
-
-      </ul>
-      <strong>Não é ideal para:</strong>
-      <ul>
-      <li>Banheiros com vazamento frequente</li>
-      <li>Banheiras muito altas</li>
-      <li>Quem quer máxima privacidade</li>
-
-      </ul>
-      <h3>Vantagens</h3>
-
-      <ul>
-      <li>✅ *Mais barato** - Melhor custo-benefício do mercado</li>
-      <li>✅ *Fácil de limpar** - Sem cantos complexos</li>
-      <li>✅ *Pronta entrega** - Disponível em estoque</li>
-      <li>✅ *Instalação simples** - Qualquer profissional consegue instalar</li>
-      <li>✅ *Transparência total** - Amplia visualmente o banheiro</li>
-      <li>✅ *Durável** - 15-20 anos de uso</li>
-
-      </ul>
-      <h3>Desvantagens</h3>
-
-      <ul>
-      <li>❌ *Vazamento possível** - Água pode vazar na base se o silicone envelhecer</li>
-      <li>❌ *Manutenção de silicone** - Precisa trocar silicone a cada 5-7 anos</li>
-      <li>❌ *Sem privacidade visual** - Vidro transparente</li>
-      <li>❌ *Sem isolamento acústico** - Barulho do chuveiro ecoa</li>
-
-      </ul>
-      <h3>Comentários e Recomendações</h3>
-
-      <p>Este é o box mais popular no Brasil. É perfeito para quem quer qualidade sem gastar muito. A chave para durabilidade é manter o silicone em bom estado. Se você limpa regularmente e troca o silicone quando necessário, este box dura 15-20 anos sem problemas.</p>
-
-      <strong>Exemplo de cliente ideal:</strong> Maria, 35 anos, apartamento 70m² em São Paulo. Banheiro pequeno, orçamento limitado, quer algo funcional. Escolheu box sem transpasse com perfil prata. "Ficou perfeito, fácil de limpar e o banheiro parece maior."
-
-      ---
-
-      <h2>2. BOX COM TRANSPASSE - A Solução Premium Contra Vazamentos</h2>
-
-      <h3>Como Funciona</h3>
-
-      <p>O box com transpasse é uma evolução do modelo anterior. O vidro <strong>ultrapassa a borda da banheira em 5-10cm</strong>, criando um sistema de vedação muito mais eficiente. A água que escapa do vidro principal é capturada pelo transpasse e volta para a banheira.</p>
-
-      <strong>Funcionamento técnico:</strong>
-      <ul>
-      <li>Vidro temperado 8mm é instalado com dobradiças</li>
-      <li>Uma segunda aba de vidro (transpasse) ultrapassa a borda da banheira</li>
-      <li>Sistema de vedação dupla (silicone na base + silicone no transpasse)</li>
-      <li>Qualquer água que escapa é redirecionada para a banheira</li>
-
-      </ul>
-      <h3>Materiais Utilizados</h3>
-
-      <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm + aba de transpasse (vidro adicional)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido premium (suporta peso maior)</li>
-      <li><strong>Vedação:</strong> Silicone de qualidade superior (dupla vedação)</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
-
-      </ul>
-      <h3>Por Que Serve Para Seu Banheiro</h3>
-
-      <strong>Ideal para:</strong>
-      <ul>
-      <li>Banheiros com histórico de vazamento</li>
-      <li>Banheiras padrão com altura variável</li>
-      <li>Quem quer máxima proteção contra água</li>
-      <li>Banheiros em apartamentos (protege o vizinho de baixo)</li>
-      <li>Quem quer design mais sofisticado</li>
-      <li>Investimento de longo prazo</li>
-
-      </ul>
-      <strong>Não é ideal para:</strong>
-      <ul>
-      <li>Orçamento muito limitado</li>
-      <li>Espaços muito pequenos (transpasse ocupa espaço)</li>
-
-      </ul>
-      <h3>Vantagens</h3>
-
-      <ul>
-      <li>✅ *Evita vazamentos** - Transpasse redireciona água para banheira</li>
-      <li>✅ *Proteção do imóvel** - Protege parede e apartamento de baixo</li>
-      <li>✅ *Mais sofisticado** - Design mais elegante e profissional</li>
-      <li>✅ *Melhor acabamento** - Vedação dupla garante durabilidade</li>
-      <li>✅ *Pronta entrega** - Disponível em estoque</li>
-      <li>✅ *Durável** - 15-20 anos com manutenção adequada</li>
-
-      </ul>
-      <h3>Desvantagens</h3>
-
-      <ul>
-      <li>❌ *Mais caro** - 20-30% mais que sem transpasse</li>
-      <li>❌ *Instalação mais complexa** - Requer profissional experiente</li>
-      <li>❌ *Manutenção de silicone** - Duas linhas de silicone para manter</li>
-      <li>❌ *Sem privacidade visual** - Vidro transparente</li>
-
-      </ul>
-      <h3>Comentários e Recomendações</h3>
-
-      <p>Este é o box recomendado para a maioria das pessoas. Custa um pouco mais, mas economiza muito em problemas futuros. Se você mora em apartamento ou tem histórico de vazamento, este é o modelo ideal. A vedação dupla garante que nenhuma gota de água escape.</p>
-
-      <strong>Exemplo de cliente ideal:</strong> João, 42 anos, apartamento em prédio antigo. Banheiro com histórico de vazamento. Escolheu box com transpasse + perfil preto. "Resolveu completamente o problema. Nenhuma gota vaza mais."
-
-      ---
-
-      <h2>3. BOX DE CANTO - Aproveita o Espaço Inteligentemente</h2>
-
-      <h3>Como Funciona</h3>
-
-      <p>O box de canto é instalado no <strong>canto do banheiro</strong>, ocupando dois lados (parede + parede). Funciona como dois vidros que se encontram em um ângulo de 90 graus, criando uma solução compacta e moderna.</p>
-
-      <strong>Funcionamento técnico:</strong>
-      <ul>
-      <li>Dois vidros temperados 8mm se encontram em ângulo de 90°</li>
-      <li>Vedação especial no canto (perfil de alumínio em L)</li>
-      <li>Dobradiças permitem abertura em um dos lados</li>
-      <li>Banheira de canto é essencial para este modelo</li>
-
-      </ul>
-      <h3>Materiais Utilizados</h3>
-
-      <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (dois painéis em ângulo)</li>
-      <li><strong>Perfil de canto:</strong> Alumínio anodizado em L (reforçado)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido (suporta peso duplo)</li>
-      <li><strong>Vedação:</strong> Silicone premium duplo (canto + base)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
-
-      </ul>
-      <h3>Por Que Serve Para Seu Banheiro</h3>
-
-      <strong>Ideal para:</strong>
-      <ul>
-      <li>Banheiros pequenos (até 2m²)</li>
-      <li>Banheiras de canto</li>
-      <li>Quem quer aproveitar espaço</li>
-      <li>Design moderno e minimalista</li>
-      <li>Facilita circulação no banheiro</li>
-      <li>Pronta entrega em estoque</li>
-
-      </ul>
-      <strong>Não é ideal para:</strong>
-      <ul>
-      <li>Banheiras retangulares padrão</li>
-      <li>Banheiros muito pequenos (menos de 1,5m²)</li>
-      <li>Quem quer máxima privacidade</li>
-
-      </ul>
-      <h3>Vantagens</h3>
-
-      <ul>
-      <li>✅ *Aproveita espaço** - Usa o canto que normalmente é vazio</li>
-      <li>✅ *Design moderno** - Muito procurado em projetos contemporâneos</li>
-      <li>✅ *Facilita circulação** - Deixa o banheiro mais aberto</li>
-      <li>✅ *Pronta entrega** - Disponível em estoque</li>
-      <li>✅ *Amplia visualmente** - Vidro em canto faz banheiro parecer maior</li>
-      <li>✅ *Instalação rápida** - 1-2 dias</li>
-
-      </ul>
-      <h3>Desvantagens</h3>
-
-      <ul>
-      <li>❌ *Requer banheira de canto** - Não funciona com banheira retangular</li>
-      <li>❌ *Instalação mais complexa** - Requer profissional especializado</li>
-      <li>❌ *Vedação em canto** - Ponto crítico que precisa manutenção</li>
-      <li>❌ *Sem privacidade visual** - Vidro transparente</li>
-      <li>❌ *Custo um pouco maior** - Mais caro que sem transpasse</li>
-
-      </ul>
-      <h3>Comentários e Recomendações</h3>
-
-      <p>Este é o box ideal para banheiros pequenos. Se você tem espaço limitado e uma banheira de canto, este é o modelo perfeito. Economiza espaço, fica lindo e moderno. A chave é escolher um profissional que saiba instalar corretamente o perfil de canto.</p>
-
-      <strong>Exemplo de cliente ideal:</strong> Ana, 28 anos, apartamento pequeno em São Paulo. Banheiro 1,5m x 1,5m com banheira de canto. Escolheu box de canto com perfil preto. "Transformou meu banheiro. Ficou muito maior e moderno."
-
-      ---
-
-      <h2>4. BOX CORREDIÇO (DESLIZANTE) - Máxima Economia de Espaço</h2>
-
-      <h3>Como Funciona</h3>
-
-      <p>O box corrediço funciona como uma <strong>porta de correr</strong>. Dois vidros temperados deslizam um sobre o outro horizontalmente. Um vidro fica fixo e o outro desliza sobre trilhos de alumínio. Ideal para espaços muito pequenos onde não há espaço para abrir portas.</p>
-
-      <strong>Funcionamento técnico:</strong>
-      <ul>
-      <li>Dois vidros temperados 8mm (um fixo, um móvel)</li>
-      <li>Trilhos de alumínio superior e inferior</li>
-      <li>Rodas de nylon especiais para deslizamento suave</li>
-      <li>Vedação com silicone nos trilhos</li>
-      <li>Abertura horizontal (não precisa de espaço para abrir)</li>
-
-      </ul>
-      <h3>Materiais Utilizados</h3>
-
-      <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (dois painéis)</li>
-      <li><strong>Trilhos:</strong> Alumínio anodizado (superior + inferior)</li>
-      <li><strong>Rodas:</strong> Nylon de alta resistência com rolamentos</li>
-      <li><strong>Vedação:</strong> Silicone premium nos trilhos</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
-
-      </ul>
-      <h3>Por Que Serve Para Seu Banheiro</h3>
-
-      <strong>Ideal para:</strong>
-      <ul>
-      <li>Banheiros muito pequenos (menos de 1,5m²)</li>
-      <li>Espaço limitado para abrir portas</li>
-      <li>Apartamentos compactos</li>
-      <li>Quem quer design moderno</li>
-      <li>Facilita limpeza (sem dobradiças)</li>
-      <li>Pronta entrega em estoque</li>
-
-      </ul>
-      <strong>Não é ideal para:</strong>
-      <ul>
-      <li>Banheiros com espaço adequado (melhor usar dobradiça)</li>
-      <li>Quem não quer manutenção de trilhos</li>
-      <li>Banheiros com muita umidade (trilhos podem entupir)</li>
-
-      </ul>
-      <h3>Vantagens</h3>
-
-      <ul>
-      <li>✅ *Economiza espaço** - Não precisa de espaço para abrir</li>
-      <li>✅ *Design moderno** - Muito procurado em projetos minimalistas</li>
-      <li>✅ *Fácil de limpar** - Sem dobradiças complexas</li>
-      <li>✅ *Pronta entrega** - Disponível em estoque</li>
-      <li>✅ *Abertura suave** - Rodas de qualidade garantem deslizamento perfeito</li>
-      <li>✅ *Muito procurado** - Diferencial real no mercado</li>
-
-      </ul>
-      <h3>Desvantagens</h3>
-
-      <ul>
-      <li>❌ *Mais caro** - 40-50% mais que sem transpasse</li>
-      <li>❌ *Manutenção de trilhos** - Precisa limpar trilhos regularmente</li>
-      <li>❌ *Pode acumular sujeira** - Trilhos inferior pode acumular água</li>
-      <li>❌ *Sem privacidade visual** - Vidro transparente</li>
-      <li>❌ *Requer profissional especializado** - Instalação mais complexa</li>
-
-      </ul>
-      <h3>Comentários e Recomendações</h3>
-
-      <p>Este é o box ideal para apartamentos muito pequenos. Economiza espaço real e fica muito moderno. A chave é manter os trilhos limpos. Se você limpar os trilhos uma vez por mês, não terá problemas. Muito procurado em projetos de arquitetura contemporânea.</p>
-
-      <strong>Exemplo de cliente ideal:</strong> Lucas, 32 anos, apartamento pequeno em São Paulo (45m²). Banheiro 1,2m x 1,8m. Escolheu box corrediço com perfil preto. "Perfeito para meu espaço. Ficou moderno e economiza muito espaço."
-
-      ---
-
-      <h2>5. BOX COM DOBRADIÇA (PIVOTANTE) - O Clássico Elegante</h2>
-
-      <h3>Como Funciona</h3>
-
-      <p>O box com dobradiça é o modelo clássico e elegante. Um vidro temperado é fixado com dobradiças na parede, funcionando como uma <strong>porta que abre e fecha</strong>. As dobradiças permitem abertura de até 180°, facilitando muito a limpeza e o acesso.</p>
-
-      <strong>Funcionamento técnico:</strong>
-      <ul>
-      <li>Vidro temperado 8mm é fixado com dobradiças na parede</li>
-      <li>Dobradiças de aço inox suportam todo o peso do vidro</li>
-      <li>Abertura pivotante (até 180°)</li>
-      <li>Vedação com silicone na base</li>
-      <li>Fechamento suave com amortecedor opcional</li>
-
-      </ul>
-      <h3>Materiais Utilizados</h3>
-
-      <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (espessura padrão)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido ou cromado (2-3 dobradiças)</li>
+      <li><strong>Perfil:</strong> Alumínio anodizado prata</li>
+      <li><strong>Dobraças:</strong> Aço inox de alta qualidade</li>
       <li><strong>Vedação:</strong> Silicone de qualidade premium</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
-      <li><strong>Amortecedor:</strong> Opcional (fecha suavemente)</li>
-
       </ul>
-      <h3>Por Que Serve Para Seu Banheiro</h3>
 
-      <strong>Ideal para:</strong>
-      <ul>
-      <li>Banheiros médios a grandes (acima de 2m²)</li>
-      <li>Espaço adequado para abrir portas</li>
-      <li>Quem quer design clássico e elegante</li>
-      <li>Fácil limpeza (abre totalmente)</li>
-      <li>Pronta entrega em estoque</li>
-      <li>Quem quer durabilidade máxima</li>
-
-      </ul>
-      <strong>Não é ideal para:</strong>
-      <ul>
-      <li>Banheiros muito pequenos (menos de 1,5m²)</li>
-      <li>Espaço limitado para abrir portas</li>
-      <li>Quem quer máxima privacidade</li>
-
-      </ul>
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ *Fácil de limpar** - Abre 180°, acesso total</li>
-      <li>✅ *Design clássico** - Elegante e sofisticado</li>
-      <li>✅ *Durável** - Dobradiças de qualidade duram 20+ anos</li>
-      <li>✅ *Pronta entrega** - Disponível em estoque</li>
-      <li>✅ *Abertura suave** - Amortecedor opcional</li>
-      <li>✅ *Manutenção simples** - Apenas lubrificar dobradiças anualmente</li>
-
+      <li>✅ Melhor custo-benefício do mercado</li>
+      <li>✅ Seguro (vidro temperado quebra em cubos pequenos, não corta)</li>
+      <li>✅ Fácil de limpar e manter</li>
+      <li>✅ Transparência total (amplia visualmente o banheiro)</li>
+      <li>✅ Pronta entrega (não precisa esperar)</li>
+      <li>✅ Durável (15-20 anos de uso)</li>
+      <li>✅ Perfeito para banheiros pequenos (amplia espaço visualmente)</li>
       </ul>
+
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ *Precisa de espaço** - Requer espaço para abrir a porta</li>
-      <li>❌ *Sem privacidade visual** - Vidro transparente</li>
-      <li>❌ *Manutenção de dobradiças** - Precisa lubrificar anualmente</li>
-      <li>❌ *Sem isolamento acústico** - Barulho do chuveiro ecoa</li>
-
+      <li>❌ Marca água e sujeira facilmente (requer limpeza regular)</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem privacidade visual</li>
+      <li>❌ Design mais simples (sem sofisticação)</li>
       </ul>
-      <h3>Comentários e Recomendações</h3>
 
-      <p>Este é o box mais popular mundialmente. É clássico, elegante, durável e fácil de limpar. Se você tem espaço adequado no banheiro, este é o modelo recomendado. As dobradiças de qualidade duram 20+ anos sem problemas. Muito procurado em banheiros de luxo e hotéis.</p>
+      <h3>Exemplo de Cliente Ideal</h3>
 
-      <strong>Exemplo de cliente ideal:</strong> Pedro, 50 anos, casa em condomínio fechado. Banheiro 3m x 2,5m. Escolheu box com dobradiça + perfil dourado. "Ficou elegante e sofisticado. Muito fácil de limpar. Recomendo para todos."
-
-      ---
-
-      <h2>6. BOX ATÉ O TETO - Máxima Privacidade e Sofisticação</h2>
-
-      <h3>Como Funciona</h3>
-
-      <p>O box até o teto é a <strong>solução premium</strong> para máxima privacidade. O vidro temperado vai do piso até o teto, criando um fechamento total do chuveiro. Funciona como uma cabine de chuveiro fechada, oferecendo privacidade máxima e evitando completamente vazamentos.</p>
-
-      <strong>Funcionamento técnico:</strong>
+      <p><strong>Maria, 35 anos, apartamento 70m² em São Paulo:</strong></p>
       <ul>
-      <li>Vidro temperado 8mm vai do piso até o teto (altura 2,40-2,80m)</li>
-      <li>Dobradiças reforçadas suportam vidro de altura total</li>
-      <li>Vedação dupla (base + topo)</li>
-      <li>Perfil de alumínio reforçado em toda altura</li>
-      <li>Abertura pivotante ou corrediça</li>
-
+      <li>Banheiro: Pequeno (1,5m x 2m)</li>
+      <li>Prioridade: Funcionalidade e praticidade</li>
+      <li>Decisão: Box Temperado Prata</li>
       </ul>
+
+      <p><em>"Não queria algo muito sofisticado, mas queria qualidade. O box temperado prata foi perfeito. Ficou lindo, seguro e o banheiro parece muito maior com o vidro transparente."</em></p>
+
+      <h2>2. Box Temperado com Perfil Preto: Para Quem Quer Design Moderno e Sofisticado</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer design moderno e sofisticado</li>
+      <li>✅ Seu banheiro tem decoração contemporânea</li>
+      <li>✅ Quer que o box seja um destaque visual</li>
+      <li>✅ Não se importa com marcas de água (preto disfarça)</li>
+      <li>✅ Quer pronta entrega</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O perfil preto é a <strong>tendência de design 2024-2026</strong>. Ele transforma um box simples em um elemento de design sofisticado que eleva o visual de qualquer banheiro moderno.</p>
+
       <h3>Materiais Utilizados</h3>
 
       <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (painéis de altura total)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido reforçado (suporta peso maior)</li>
-      <li><strong>Vedação:</strong> Silicone premium duplo (base + topo)</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado reforçado (prata, preto, dourado ou aço inox)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
-      <li><strong>Estrutura:</strong> Reforço de alumínio na altura total</li>
-
+      <li><strong>Vidro:</strong> Temperado 8mm (transparente, 4-5x mais resistente)</li>
+      <li><strong>Perfil:</strong> Alumínio anodizado preto (acabamento sofisticado)</li>
+      <li><strong>Dobraças:</strong> Aço inox preto (coordena com o perfil)</li>
+      <li><strong>Vedação:</strong> Silicone premium preto (mantém coesão visual)</li>
       </ul>
-      <h3>Por Que Serve Para Seu Banheiro</h3>
 
-      <strong>Ideal para:</strong>
-      <ul>
-      <li>Banheiros grandes com pé-direito alto (acima de 2,40m)</li>
-      <li>Quem quer máxima privacidade</li>
-      <li>Banheiros de luxo e premium</li>
-      <li>Quem quer evitar vazamentos completamente</li>
-      <li>Projetos de arquitetura sofisticados</li>
-      <li>Investimento de longo prazo</li>
-
-      </ul>
-      <strong>Não é ideal para:</strong>
-      <ul>
-      <li>Banheiros com pé-direito baixo (menos de 2,40m)</li>
-      <li>Orçamento limitado</li>
-      <li>Banheiros pequenos</li>
-      <li>Quem quer simplicidade</li>
-
-      </ul>
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ *Máxima privacidade** - Fechamento total</li>
-      <li>✅ *Zero vazamentos** - Vedação dupla garante proteção total</li>
-      <li>✅ *Design sofisticado** - Muito procurado em projetos premium</li>
-      <li>✅ *Aumenta valor do imóvel** - Diferencial real</li>
-      <li>✅ *Durável** - 20+ anos com manutenção adequada</li>
-      <li>✅ *Isolamento acústico** - Reduz ruído do chuveiro</li>
-
+      <li>✅ Design muito moderno e sofisticado</li>
+      <li>✅ Combina com qualquer estilo de banheiro contemporâneo</li>
+      <li>✅ Disfarça marcas de água melhor que prata</li>
+      <li>✅ Adiciona valor visual e estético ao imóvel</li>
+      <li>✅ Pronta entrega</li>
+      <li>✅ Elemento de destaque no banheiro</li>
+      <li>✅ Perfeito para banheiros com revestimento cinza, branco ou preto</li>
       </ul>
+
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ *Muito caro** - 80-120% mais que sem transpasse</li>
-      <li>❌ *Instalação complexa** - Requer profissional especializado</li>
-      <li>❌ *Requer pé-direito alto** - Mínimo 2,40m</li>
-      <li>❌ *Manutenção especial** - Vedação dupla requer cuidado</li>
-      <li>❌ *Estrutura reforçada** - Mais peso na parede</li>
-
+      <li>❌ Requer limpeza regular (mais visível que prata)</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem privacidade visual</li>
+      <li>❌ Requer banheiro com decoração adequada para destacar</li>
       </ul>
-      <h3>Comentários e Recomendações</h3>
 
-      <p>Este é o box de luxo. Ideal para quem quer o melhor. Oferece privacidade máxima, zero vazamentos e design sofisticado. Muito procurado em casarões, casas de luxo e projetos de arquitetura premium. Se você tem espaço e orçamento, este é o modelo recomendado.</p>
+      <h3>Exemplo de Cliente Ideal</h3>
 
-      <strong>Exemplo de cliente ideal:</strong> Fernanda, 45 anos, casa de luxo em Alphaville. Banheiro 4m x 3m com pé-direito de 2,80m. Escolheu box até o teto + perfil dourado + película jateada. "Transformou meu banheiro em um spa. Ficou absolutamente perfeito."
+      <p><strong>João, 42 anos, apartamento de luxo em Granja Viana:</strong></p>
+      <ul>
+      <li>Banheiro: Moderno com revestimento cinza e mármore</li>
+      <li>Prioridade: Design sofisticado e elegancia</li>
+      <li>Decisão: Box Temperado Preto</li>
+      </ul>
 
-      ---
+      <p><em>"Queria algo que combinasse com a decoração moderna do meu apartamento. O perfil preto foi perfeito. Ficou elegante, sofisticado e virou o destaque do banheiro."</em></p>
 
-      <h2>COMPARAÇÃO ENTRE OS 6 TIPOS DE BOX</h2>
+      <h2>3. Box Temperado com Perfil Dourado: Para Quem Quer Luxo e Exclusividade</h2>
 
-      <tr><td>Tipo</td> Preço <td>Espaço</td> Privacidade <td>Vazamento</td> Manutenção <td>Ideal Para</td></tr>
-      |------|-------|--------|-------------|-----------|-----------|-----------|
-      <tr><td><strong>Sem Transpasse</strong></td> Base <td>Médio</td> Nenhuma <td>Possível</td> Baixa <td>Orçamento limitado</td></tr>
-      <tr><td><strong>Com Transpasse</strong></td> +20-30% <td>Médio</td> Nenhuma <td>Improvável</td> Média <td>Proteção contra água</td></tr>
-      <tr><td><strong>Canto</strong></td> +15-25% <td>Pequeno</td> Nenhuma <td>Improvável</td> Média <td>Banheiro pequeno</td></tr>
-      <tr><td><strong>Corrediço</strong></td> +40-50% <td>Muito pequeno</td> Nenhuma <td>Improvável</td> Alta <td>Espaço muito limitado</td></tr>
-      <tr><td><strong>Dobradiça</strong></td> +10-15% <td>Médio</td> Nenhuma <td>Improvável</td> Baixa <td>Uso geral (recomendado)</td></tr>
-      <tr><td><strong>Até o Teto</strong></td> +80-120% <td>Grande</td> Máxima <td>Zero</td> Alta <td>Luxo/Premium</td></tr>
+      <h3>Quando Escolher Este Box</h3>
 
-      ---
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer um box luxuoso e exclusivo</li>
+      <li>✅ Seu banheiro é de alto padrão</li>
+      <li>✅ Quer que o box seja um destaque visual premium</li>
+      <li>✅ Valoriza design sofisticado e diferenciado</li>
+      <li>✅ Busca exclusividade e elegancia</li>
+      </ul>
 
-      <h2>COMO ESCOLHER O MELHOR BOX PARA SEU BANHEIRO</h2>
+      <h3>Por Que Recomendamos</h3>
 
-      <h3>Passo 1: Avalie o Tamanho do Seu Banheiro</h3>
+      <p>O perfil dourado é a <strong>escolha de quem quer um banheiro verdadeiramente luxuoso</strong>. Ele adiciona sofisticação e exclusividade que poucos conseguem oferecer.</p>
 
-      <strong>Banheiro muito pequeno (menos de 1,5m²)?</strong>
-      <p>→ Escolha: <strong>Box Corrediço</strong> (economiza espaço máximo)</p>
+      <h3>Materiais Utilizados</h3>
 
-      <strong>Banheiro pequeno (1,5m a 2m²)?</strong>
-      <p>→ Escolha: <strong>Box de Canto</strong> ou <strong>Box Corrediço</strong> (aproveita espaço)</p>
+      <ul>
+      <li><strong>Vidro:</strong> Temperado 8mm (transparente, 4-5x mais resistente)</li>
+      <li><strong>Perfil:</strong> Alumínio anodizado dourado (acabamento premium)</li>
+      <li><strong>Dobraças:</strong> Aço inox dourado polido (acabamento luxuoso)</li>
+      <li><strong>Vedação:</strong> Silicone premium dourado (coordena perfeitamente)</li>
+      </ul>
 
-      <strong>Banheiro médio (2m a 3m²)?</strong>
-      <p>→ Escolha: <strong>Box Sem Transpasse</strong> ou <strong>Box Com Transpasse</strong> (clássico)</p>
+      <h3>Vantagens</h3>
 
-      <strong>Banheiro grande (acima de 3m²)?</strong>
-      <p>→ Escolha: <strong>Box Com Dobradiça</strong> ou <strong>Box Até o Teto</strong> (elegante)</p>
+      <ul>
+      <li>✅ Design luxuoso e exclusivo</li>
+      <li>✅ Adiciona sofisticação ao banheiro</li>
+      <li>✅ Combina com decoração clássica e moderna</li>
+      <li>✅ Aumenta valor percebido do imóvel</li>
+      <li>✅ Muito procurado (diferencial real)</li>
+      <li>✅ Elemento de destaque premium</li>
+      <li>✅ Perfeito para banheiros com acabamentos em ouro ou latão</li>
+      </ul>
 
-      <h3>Passo 2: Considere Seu Orçamento</h3>
+      <h3>Desvantagens</h3>
 
-      <strong>Orçamento limitado?</strong>
-      <p>→ Escolha: <strong>Box Sem Transpasse</strong> (melhor custo-benefício)</p>
+      <ul>
+      <li>❌ Requer manutenção especial (limpeza cuidadosa)</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem privacidade visual</li>
+      <li>❌ Requer banheiro com decoração adequada para não parecer deslocado</li>
+      </ul>
 
-      <strong>Orçamento médio?</strong>
-      <p>→ Escolha: <strong>Box Com Transpasse</strong> ou <strong>Box Com Dobradiça</strong> (recomendado)</p>
+      <h3>Exemplo de Cliente Ideal</h3>
 
-      <strong>Orçamento premium?</strong>
-      <p>→ Escolha: <strong>Box Até o Teto</strong> (luxo máximo)</p>
+      <p><strong>Fernanda, 38 anos, casa em condomínio fechado:</strong></p>
+      <ul>
+      <li>Banheiro: Clássico com espelho dourado e acabamentos em latão</li>
+      <li>Prioridade: Sofisticação e exclusividade</li>
+      <li>Decisão: Box Temperado Dourado</li>
+      </ul>
+
+      <p><em>"Queria algo que combinasse com a decoração clássica e elegante da minha casa. O perfil dourado foi perfeito. Ficou como um box de hotel cinco estrelas."</em></p>
+
+      <h2>4. Box Laminado: Para Quem Quer Isolamento Acústico e Térmico Máximo</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Mora em apartamento em rua barulhenta</li>
+      <li>✅ Quer isolamento acústico (reduz ruído do chuveiro)</li>
+      <li>✅ Quer isolamento térmico (mantém água quente por mais tempo)</li>
+      <li>✅ Valoriza conforto e funcionalidade</li>
+      <li>✅ Quer máxima segurança</li>
+      <li>✅ Busca durabilidade superior</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box laminado é a <strong>escolha de quem quer máximo conforto e funcionalidade</strong>. Oferece isolamento acústico e térmico que nenhum outro box consegue.</p>
+
+      <h3>Materiais Utilizados</h3>
+
+      <ul>
+      <li><strong>Vidro:</strong> Laminado 6mm + 6mm (duas camadas de vidro temperado com película de PVB)</li>
+      <li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
+      <li><strong>Dobraças:</strong> Aço inox reforçado (suporta peso maior)</li>
+      <li><strong>Vedação:</strong> Silicone premium com isolamento térmico</li>
+      </ul>
+
+      <h3>Vantagens</h3>
+
+      <ul>
+      <li>✅ Isolamento acústico (reduz ruído em 40-50%)</li>
+      <li>✅ Isolamento térmico (mantém água quente por mais tempo)</li>
+      <li>✅ Proteção UV (protege pele durante o banho)</li>
+      <li>✅ Máxima segurança (mantém integridade quando quebra)</li>
+      <li>✅ Mais durável (15-20 anos de uso)</li>
+      <li>✅ Conforto máximo durante o banho</li>
+      <li>✅ Reduz condensação (menos embaçamento)</li>
+      </ul>
+
+      <h3>Desvantagens</h3>
+
+      <ul>
+      <li>❌ Mais pesado (requer instalação cuidadosa)</li>
+      <li>❌ Menos transparência (levemente opaco)</li>
+      <li>❌ Requer prazo maior para fabricação</li>
+      <li>❌ Requer manutenção especial</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Carlos, 45 anos, apartamento em Av. Paulista:</strong></p>
+      <ul>
+      <li>Banheiro: Moderno, em prédio muito barulhento</li>
+      <li>Prioridade: Isolamento acústico e conforto</li>
+      <li>Decisão: Box Laminado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu apartamento é em uma avenida muito barulhenta. O box laminado foi excelente — reduz bastante o ruído do chuveiro e ainda mantém a água quente por mais tempo. Faz uma diferença enorme no conforto."</em></p>
+
+      <h2>5. Box Jateado: Para Quem Quer Privacidade Visual com Elegancia</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer privacidade visual total</li>
+      <li>✅ Tem banheiro compartilhado</li>
+      <li>✅ Prefere design sofisticado</li>
+      <li>✅ Quer que o banheiro pareça maior (vidro jateado amplia)</li>
+      <li>✅ Limpa o banheiro regularmente</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box jateado é a <strong>escolha de quem quer privacidade sem abrir mão de sofisticação</strong>. Oferece privacidade visual completa com design elegante e moderno.</p>
+
+      <h3>Materiais Utilizados</h3>
+
+      <ul>
+      <li><strong>Vidro:</strong> Temperado 8mm com jateamento (processo de arenação)</li>
+      <li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
+      <li><strong>Dobraças:</strong> Aço inox de qualidade</li>
+      <li><strong>Vedação:</strong> Silicone premium</li>
+      </ul>
+
+      <h3>Vantagens</h3>
+
+      <ul>
+      <li>✅ Privacidade visual completa</li>
+      <li>✅ Disfarça marcas de água e sujeira</li>
+      <li>✅ Design sofisticado e elegante</li>
+      <li>✅ Mantém luminosidade (vidro translucido)</li>
+      <li>✅ Pronta entrega</li>
+      <li>✅ Perfeito para banheiros compartilhados</li>
+      <li>✅ Amplia visualmente o banheiro</li>
+      </ul>
+
+      <h3>Desvantagens</h3>
+
+      <ul>
+      <li>❌ Mais difícil de limpar (sujeira fica presa no jateamento)</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem isolamento térmico</li>
+      <li>❌ Requer limpeza com produtos específicos</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Ana, 28 anos, apartamento com banheiro compartilhado:</strong></p>
+      <ul>
+      <li>Banheiro: Pequeno, compartilhado com roommate</li>
+      <li>Prioridade: Privacidade visual</li>
+      <li>Decisão: Box Jateado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu banheiro é compartilhado e queria privacidade. O box jateado foi perfeito — oferece privacidade total mas mantém a luminosidade. Ficou elegante também."</em></p>
+
+      <h2>6. Box Fumê: Para Quem Quer Sofisticação Máxima com Privacidade</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer design muito sofisticado</li>
+      <li>✅ Quer privacidade visual</li>
+      <li>✅ Seu banheiro é de alto padrão</li>
+      <li>✅ Valoriza exclusividade</li>
+      <li>✅ Busca um elemento de destaque premium</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box fumê é a <strong>escolha de quem quer máxima sofisticação e privacidade</strong>. Oferece privacidade visual com design muito elegante e exclusivo.</p>
+
+      <h3>Materiais Utilizados</h3>
+
+      <ul>
+      <li><strong>Vidro:</strong> Temperado 8mm com tonalidade fumê (vidro cinza escuro)</li>
+      <li><strong>Perfil:</strong> Alumínio anodizado (preto ou dourado para contraste)</li>
+      <li><strong>Dobraças:</strong> Aço inox premium</li>
+      <li><strong>Vedação:</strong> Silicone premium</li>
+      </ul>
+
+      <h3>Vantagens</h3>
+
+      <ul>
+      <li>✅ Privacidade visual completa</li>
+      <li>✅ Design muito sofisticado e exclusivo</li>
+      <li>✅ Disfarça sujeira perfeitamente</li>
+      <li>✅ Adiciona valor ao imóvel</li>
+      <li>✅ Muito procurado (diferencial real)</li>
+      <li>✅ Elemento de destaque premium</li>
+      <li>✅ Perfeito para banheiros de luxo</li>
+      </ul>
+
+      <h3>Desvantagens</h3>
+
+      <ul>
+      <li>❌ Reduz luminosidade (vidro mais escuro)</li>
+      <li>❌ Requer prazo maior para fabricação</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Requer banheiro com decoração adequada</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Patricia, 50 anos, casa de luxo em Alphaville:</strong></p>
+      <ul>
+      <li>Banheiro: Luxuoso com revestimento cinza e mármore</li>
+      <li>Prioridade: Sofisticação e privacidade</li>
+      <li>Decisão: Box Fumê com Perfil Dourado</li>
+      </ul>
+
+      <p><em>"Queria algo muito sofisticado e elegante. O box fumê com perfil dourado foi perfeito — ficou como se fosse de um hotel cinco estrelas."</em></p>
+
+      <h2>7. Box Espelhado: Para Quem Quer Funcionalidade Dupla e Economia de Espaço</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Tem banheiro pequeno</li>
+      <li>✅ Quer funcionalidade dupla (box + espelho)</li>
+      <li>✅ Quer design inovador</li>
+      <li>✅ Valoriza economia de espaço</li>
+      <li>✅ Busca solução criativa</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box espelhado é a <strong>escolha de quem quer inovação e economia de espaço</strong>. Oferece funcionalidade dupla em um único elemento, economizando espaço valioso.</p>
+
+      <h3>Materiais Utilizados</h3>
+
+      <ul>
+      <li><strong>Vidro:</strong> Temperado 8mm com espelhamento em uma face</li>
+      <li><strong>Perfil:</strong> Alumínio anodizado (preto ou dourado)</li>
+      <li><strong>Dobraças:</strong> Aço inox reforçado</li>
+      <li><strong>Vedação:</strong> Silicone premium</li>
+      <li><strong>Espelho:</strong> Espelho de qualidade premium com proteção UV</li>
+      </ul>
+
+      <h3>Vantagens</h3>
+
+      <ul>
+      <li>✅ Funcionalidade dupla (box + espelho)</li>
+      <li>✅ Design inovador e diferenciado</li>
+      <li>✅ Economiza espaço (não precisa de espelho separado)</li>
+      <li>✅ Adiciona sofisticação</li>
+      <li>✅ Muito procurado (diferencial real)</li>
+      <li>✅ Perfeito para banheiros pequenos</li>
+      <li>✅ Amplia visualmente o espaço</li>
+      </ul>
+
+      <h3>Desvantagens</h3>
+
+      <ul>
+      <li>❌ Requer prazo maior para fabricação</li>
+      <li>❌ Requer manutenção especial (limpeza do espelho)</li>
+      <li>❌ Menos comum (menos profissionais sabem instalar)</li>
+      <li>❌ Sem isolamento acústico</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Lucas, 32 anos, apartamento pequeno em São Paulo:</strong></p>
+      <ul>
+      <li>Banheiro: Muito pequeno (1,2m x 1,8m)</li>
+      <li>Prioridade: Economia de espaço</li>
+      <li>Decisão: Box Espelhado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu banheiro é muito pequeno. O box espelhado foi a solução perfeita — economiza espaço e ainda funciona como espelho. Ficou inovador e elegante."</em></p>
+
+      <h2>8. Tabela Comparativa: Qual Box Escolher?</h2>
+
+      <table>
+      <tr>
+      <th>Necessidade</th>
+      <th>Box Recomendado</th>
+      <th>Principais Benefícios</th>
+      <th>Ideal Para</th>
+      </tr>
+      <tr>
+      <td><strong>Transparência máxima</strong></td>
+      <td>Temperado Prata</td>
+      <td>Amplia visualmente, fácil limpeza</td>
+      <td>Banheiros pequenos, simples</td>
+      </tr>
+      <tr>
+      <td><strong>Design moderno</strong></td>
+      <td>Temperado Preto</td>
+      <td>Sofisticado, destaque visual</td>
+      <td>Banheiros contemporâneos</td>
+      </tr>
+      <tr>
+      <td><strong>Luxo e exclusividade</strong></td>
+      <td>Temperado Dourado</td>
+      <td>Premium, elegante, diferencial</td>
+      <td>Banheiros de alto padrão</td>
+      </tr>
+      <tr>
+      <td><strong>Isolamento acústico</strong></td>
+      <td>Laminado</td>
+      <td>Reduz ruído, mantém calor</td>
+      <td>Apartamentos barulhentos</td>
+      </tr>
+      <tr>
+      <td><strong>Privacidade visual</strong></td>
+      <td>Jateado</td>
+      <td>Elegante, disfarça sujeira</td>
+      <td>Banheiros compartilhados</td>
+      </tr>
+      <tr>
+      <td><strong>Sofisticação máxima</strong></td>
+      <td>Fumê</td>
+      <td>Exclusivo, premium, elegante</td>
+      <td>Banheiros de luxo</td>
+      </tr>
+      <tr>
+      <td><strong>Economia de espaço</strong></td>
+      <td>Espelhado</td>
+      <td>Funcionalidade dupla, inovador</td>
+      <td>Banheiros pequenos</td>
+      </tr>
+      </table>
+
+      <h2>9. Passo a Passo: Como Escolher Seu Box</h2>
+
+      <h3>Passo 1: Considere o Tamanho do Seu Banheiro</h3>
+
+      <p><strong>Banheiro pequeno (até 2m²)?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong> ou <strong>Espelhado</strong> (amplia visualmente)</p>
+
+      <p><strong>Banheiro médio (2-4m²)?</strong><br>
+      → Escolha: <strong>Box Temperado Preto</strong> ou <strong>Jateado</strong> (design sofisticado)</p>
+
+      <p><strong>Banheiro grande (acima de 4m²)?</strong><br>
+      → Escolha: <strong>Box Laminado</strong> ou <strong>Fumê</strong> (máximo conforto e sofisticação)</p>
+
+      <h3>Passo 2: Considere Seu Estilo de Banheiro</h3>
+
+      <p><strong>Banheiro moderno/contemporâneo?</strong><br>
+      → Escolha: <strong>Box Temperado Preto</strong> ou <strong>Laminado</strong></p>
+
+      <p><strong>Banheiro clássico/elegante?</strong><br>
+      → Escolha: <strong>Box Temperado Dourado</strong> ou <strong>Fumê</strong></p>
+
+      <p><strong>Banheiro minimalista/simples?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong> ou <strong>Jateado</strong></p>
+
+      <p><strong>Banheiro sofisticado/luxuoso?</strong><br>
+      → Escolha: <strong>Box Fumê</strong> ou <strong>Espelhado</strong></p>
 
       <h3>Passo 3: Pense em Funcionalidade</h3>
 
-      <strong>Quer máxima privacidade?</strong>
-      <p>→ Escolha: <strong>Box Até o Teto</strong> (fechamento total)</p>
+      <p><strong>Quer isolamento acústico?</strong><br>
+      → Escolha: <strong>Box Laminado</strong></p>
 
-      <strong>Quer evitar vazamentos?</strong>
-      <p>→ Escolha: <strong>Box Com Transpasse</strong> ou <strong>Box Até o Teto</strong></p>
+      <p><strong>Quer privacidade visual?</strong><br>
+      → Escolha: <strong>Box Jateado</strong> ou <strong>Fumê</strong></p>
 
-      <strong>Quer fácil limpeza?</strong>
-      <p>→ Escolha: <strong>Box Com Dobradiça</strong> (abre 180°)</p>
+      <p><strong>Quer economia de espaço?</strong><br>
+      → Escolha: <strong>Box Espelhado</strong></p>
 
-      <strong>Quer economizar espaço?</strong>
-      <p>→ Escolha: <strong>Box Corrediço</strong> ou <strong>Box de Canto</strong></p>
+      <p><strong>Quer apenas funcionalidade?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong></p>
 
-      <h3>Passo 4: Verifique Disponibilidade</h3>
+      <h3>Passo 4: Considere a Manutenção</h3>
 
-      <strong>Precisa rápido (3-5 dias)?</strong>
-      <p>→ Escolha: <strong>Modelo em Estoque</strong> (qualquer um com perfil prata)</p>
+      <p><strong>Quer algo fácil de limpar?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong> ou <strong>Preto</strong></p>
 
-      <strong>Pode esperar (10-15 dias)?</strong>
-      <p>→ Escolha: <strong>Modelo Customizado</strong> (cores especiais, tamanhos)</p>
+      <p><strong>Quer algo que disfarça sujeira?</strong><br>
+      → Escolha: <strong>Box Preto</strong>, <strong>Jateado</strong>, <strong>Fumê</strong></p>
 
-      ---
+      <p><strong>Quer máxima durabilidade?</strong><br>
+      → Escolha: <strong>Box Laminado</strong></p>
 
-      <h2>CONCLUSÃO</h2>
+      <h2>10. Conclusão: Qual Box Escolher?</h2>
 
-      <p>Cada tipo de box tem sua função específica. A escolha correta depende do tamanho do seu banheiro, seu orçamento e suas prioridades. </p>
+      <p><strong>Não existe "melhor box"</strong> — existe o <strong>melhor box para você</strong>.</p>
 
-      <strong>Nossa recomendação:</strong> Para a maioria das pessoas, o <strong>Box Com Transpasse</strong> é o melhor custo-benefício. Oferece proteção contra vazamentos, é durável, fácil de manter e tem preço justo.
+      <p>A escolha correta depende de:</p>
+      <ul>
+      <li>✅ Tamanho do seu banheiro</li>
+      <li>✅ Seu estilo de banheiro</li>
+      <li>✅ Suas prioridades (design, funcionalidade, durabilidade)</li>
+      <li>✅ Suas necessidades (privacidade, isolamento, espaço)</li>
+      </ul>
 
-      <strong>Na GS Glass Brasil</strong>, oferecemos todos os 6 tipos de box com qualidade garantida, materiais premium e pronta entrega para modelos padrão.
-
-      ---
+      <p><strong>Na GS Glass, oferecemos todos os 7 modelos</strong> com qualidade garantida e pronta entrega. Nossa equipe está pronta para ajudá-lo a escolher o melhor box para sua situação específica.</p>
 
       <h2>📞 Solicite Sua Consultoria Técnica Gratuita Agora!</h2>
 
       <p>Não sabe qual box escolher? Nossa equipe de especialistas pode ajudar!</p>
 
-      <strong>🔗 WhatsApp:</strong> [Clique aqui para conversar](https://wa.me/5511934275767)
+      <p><strong>🔗 WhatsApp:</strong> <a href="https://wa.me/5511934275767" target="_blank" rel="noopener noreferrer">Clique aqui para conversar</a></p>
 
-      <strong>📧 Email:</strong> orcamento.gsglass@gmail.com
+      <p><strong>📧 Email:</strong> orcamento.gsglass@gmail.com</p>
 
-      <strong>☎️ Telefone:</strong> (11) 93427-5767
+      <p><strong>☎️ Telefone:</strong> (11) 93427-5767</p>
 
-      <strong>⏰ Horário:</strong> Segunda a sexta, 8h às 18h
+      <p><strong>⏰ Horário:</strong> Segunda a sexta, 8h às 18h</p>
 
       <h3>Próximos Passos:</h3>
 
-      <p>1. <strong>Envie as dimensões do seu banheiro</strong> (altura, largura, profundidade)</p>
-      <p>2. <strong>Descreva o tipo de box que prefere</strong> (sem transpasse, transpasse, canto, corrediço, dobradiça, até teto)</p>
-      <p>3. <strong>Mencione suas prioridades</strong> (preço, privacidade, espaço, durabilidade)</p>
-      <p>4. <strong>Receba recomendação personalizada em 24h</strong></p>
-      <p>5. <strong>Agende a consultoria técnica</strong> (gratuita e sem compromisso)</p>
+      <ol>
+      <li><strong>Envie as dimensões do seu banheiro</strong> (altura e vão)</li>
+      <li><strong>Descreva o estilo do seu banheiro</strong> (moderno, clássico, etc)</li>
+      <li><strong>Mencione suas prioridades</strong> (design, isolamento, privacidade)</li>
+      <li><strong>Receba recomendação personalizada em 24h</strong></li>
+      <li><strong>Agende a consultoria técnica</strong> (gratuita e sem compromisso)</li>
+      </ol>
 
-      <strong>Sua renovação começa aqui!</strong> 🚀
+      <p><strong>Sua renovação começa aqui!</strong> 🚀</p>
 
+      <h3>Qual é o box mais barato?</h3>
 
+      <p><strong>Resposta:</strong> O box de vidro temperado simples com perfil de alumínio prata é o mais acessível do mercado.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro temperado 8mm transparente</li>
+      <li>Perfil de alumínio anodizado prata (padrão)</li>
+      <li>Tamanho padrão: 0,90m x 1,90m</li>
+      <li><strong>Preço: R$ 700 a R$ 1.200 (estimativa)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Clientes com orçamento limitado, banheiros pequenos, quem busca apenas funcionalidade.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>Mais acessível</li>
+      <li>Seguro (quebra em cubos pequenos)</li>
+      <li>Fácil de limpar</li>
+      <li>Transparência total</li>
+      </ul>
+
+      <h3>Quanto custa um box de vidro preto?</h3>
+
+      <p><strong>Resposta:</strong> O box temperado com perfil preto é 30-50% mais caro que a versão prata, mas oferece design muito mais moderno.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro temperado 8mm transparente</li>
+      <li>Perfil de alumínio preto anodizado</li>
+      <li>Tamanho padrão: 0,90m x 1,90m</li>
+      <li><strong>Preço: R$ 1.200 a R$ 1.800 (estimativa)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Projetos modernos, banheiros sofisticados, quem busca design contemporâneo.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>Design sofisticado e moderno</li>
+      <li>Combina com qualquer estilo</li>
+      <li>Disfarça sujeira melhor que prata</li>
+      <li>Perfil preto é tendência 2024-2026</li>
+      </ul>
+
+      <h3>Quanto custa um box de vidro dourado?</h3>
+
+      <p><strong>Resposta:</strong> O box com perfil dourado é 50-100% mais caro que a versão prata, oferecendo acabamento luxuoso.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro temperado 8mm transparente</li>
+      <li>Perfil de alumínio dourado (ouro escovado)</li>
+      <li>Tamanho padrão: 0,90m x 1,90m</li>
+      <li><strong>Preço: R$ 1.500 a R$ 2.200 (estimativa)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Projetos de alto padrão, clientes que buscam exclusividade e sofisticação.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>Design luxuoso e exclusivo</li>
+      <li>Adiciona sofisticação ao banheiro</li>
+      <li>Combina com decoração clássica e moderna</li>
+      <li>Aumenta valor do imóvel</li>
+      </ul>
+
+      <h3>Quanto custa um box de vidro laminado?</h3>
+
+      <p><strong>Resposta:</strong> O box laminado é 50-100% mais caro que o temperado simples, mas oferece isolamento acústico e térmico.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro laminado 6mm + 6mm (com filme PVB)</li>
+      <li>Perfil de alumínio (prata, preto ou dourado)</li>
+      <li>Tamanho padrão: 0,90m x 1,90m</li>
+      <li><strong>Preço: R$ 1.800 a R$ 3.000 (estimativa)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Apartamentos em ruas barulhentas, clientes que buscam conforto máximo, projetos premium.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>Isolamento acústico (reduz ruído em 40-50%)</li>
+      <li>Isolamento térmico (mantém água quente)</li>
+      <li>Proteção UV (protege pele)</li>
+      <li>Mantém integridade quando quebra</li>
+      <li>Mais durável (15-20 anos)</li>
+      </ul>
+
+      <h3>Quanto custa um box de vidro jateado?</h3>
+
+      <p><strong>Resposta:</strong> O box jateado é 15-30% mais caro que o transparente, oferecendo privacidade visual.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro temperado 8mm jateado</li>
+      <li>Perfil de alumínio (prata, preto ou dourado)</li>
+      <li>Tamanho padrão: 0,90m x 1,90m</li>
+      <li><strong>Preço: R$ 1.200 a R$ 1.900 (estimativa)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Clientes que buscam privacidade, banheiros compartilhados, design sofisticado.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>Privacidade visual completa</li>
+      <li>Disfarça marcas de água e sujeira</li>
+      <li>Design sofisticado</li>
+      <li>Mantém luminosidade</li>
+      </ul>
+
+      <h3>Quanto custa um box de vidro fumê?</h3>
+
+      <p><strong>Resposta:</strong> O box fumê é 40-60% mais caro que o transparente, oferecendo design sofisticado com privacidade.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro temperado 8mm fumê (cinza escuro)</li>
+      <li>Perfil de alumínio (prata, preto ou dourado)</li>
+      <li>Tamanho padrão: 0,90m x 1,90m</li>
+      <li><strong>Preço: R$ 1.400 a R$ 2.100 (estimativa)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Projetos de luxo, banheiros sofisticados, clientes que buscam privacidade total.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>Privacidade visual completa</li>
+      <li>Design muito sofisticado</li>
+      <li>Disfarça sujeira</li>
+      <li>Adiciona valor ao imóvel</li>
+      </ul>
+
+      <h3>Quanto custa um box de vidro espelhado?</h3>
+
+      <p><strong>Resposta:</strong> O box espelhado é 50-80% mais caro que o transparente, oferecendo funcionalidade dupla.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro temperado 8mm com espelho</li>
+      <li>Perfil de alumínio (prata, preto ou dourado)</li>
+      <li>Tamanho padrão: 0,90m x 1,90m</li>
+      <li><strong>Preço: R$ 1.600 a R$ 2.500 (estimativa)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Banheiros pequenos, projetos inovadores, clientes que buscam diferencial.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>Funcionalidade dupla (box + espelho)</li>
+      <li>Design inovador</li>
+      <li>Economiza espaço</li>
+      <li>Adiciona sofisticação</li>
+      </ul>
+
+      <h2>O Tamanho Influencia no Preço? Quanto Custa Cada Tamanho?</h2>
+
+      <h3>Qual é o tamanho padrão de um box?</h3>
+
+      <p><strong>Resposta:</strong> O tamanho padrão é <strong>vão 0,90m x altura 1,90m</strong>, que é o mais comum em banheiros brasileiros.</p>
+
+      <p><strong>Preço padrão:</strong> R$ 700 a R$ 1.200 (temperado simples, prata)</p>
+
+      <p><strong>Observação:</strong> Tamanhos fora do padrão podem custar mais ou menos, dependendo das dimensões.</p>
+
+      <h3>Quanto custa um box maior (1,00m x 2,00m)?</h3>
+
+      <p><strong>Resposta:</strong> Um box maior custa 30-50% mais que o padrão.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vão: 1,00m</li>
+      <li>Altura: 2,00m</li>
+      <li><strong>Preço: R$ 1.000 a R$ 1.500 (estimativa)</strong> (temperado simples, prata)</li>
+      </ul>
+
+      <p><strong>Por que é mais caro:</strong></p>
+      <ul>
+      <li>Mais vidro (maior área)</li>
+      <li>Mais alumínio (maior estrutura)</li>
+      <li>Requer instalação mais complexa</li>
+      </ul>
+
+      <h3>Quanto custa um box pequeno (0,70m x 1,80m)?</h3>
+
+      <p><strong>Resposta:</strong> Um box pequeno custa 20-30% menos que o padrão.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vão: 0,70m</li>
+      <li>Altura: 1,80m</li>
+      <li><strong>Preço: R$ 500 a R$ 900 (estimativa)</strong> (temperado simples, prata)</li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Banheiros muito pequenos, clientes com orçamento apertado.</p>
+
+      <h3>Quanto custa um box muito grande (1,20m x 2,10m)?</h3>
+
+      <p><strong>Resposta:</strong> Um box muito grande custa 50-100% mais que o padrão, podendo ultrapassar R$ 2.000.</p>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vão: 1,20m</li>
+      <li>Altura: 2,10m</li>
+      <li><strong>Preço: R$ 1.500 a R$ 2.500 (estimativa)</strong> (temperado simples, prata)</li>
+      </ul>
+
+      <p><strong>Por que é mais caro:</strong></p>
+      <ul>
+      <li>Muito mais vidro</li>
+      <li>Estrutura reforçada necessária</li>
+      <li>Vidro mais espesso (10mm)</li>
+      <li>Instalação mais complexa</li>
+      </ul>
+
+      <h2>O Perfil de Alumínio Influencia no Preço? Qual é a Diferença?</h2>
+
+      <h3>Qual perfil de alumínio é mais barato?</h3>
+
+      <p><strong>Resposta:</strong> O perfil de alumínio anodizado prata é o mais barato e padrão do mercado.</p>
+
+      <p><strong>Características:</strong></p>
+      <ul>
+      <li>Cor: Prata metálica</li>
+      <li>Acabamento: Anodizado (proteção)</li>
+      <li><strong>Preço base: R$ 900 (estimativa)</strong> (vão 0,90m, temperado simples)</li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Clientes com orçamento limitado, banheiros clássicos.</p>
+
+      <h3>Quanto mais caro é o perfil preto?</h3>
+
+      <p><strong>Resposta:</strong> O perfil preto custa 30-50% mais que o prata, mas é muito mais moderno.</p>
+
+      <p><strong>Características:</strong></p>
+      <ul>
+      <li>Cor: Preto metálico</li>
+      <li>Acabamento: Anodizado (proteção)</li>
+      <li><strong>Preço: R$ 1.350 (estimativa)</strong> (vão 0,90m, temperado simples)</li>
+      <li><strong>Diferença: +R$ 450 (50% mais caro)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Projetos modernos, banheiros sofisticados, quem quer design contemporâneo.</p>
+
+      <h3>Quanto mais caro é o perfil dourado?</h3>
+
+      <p><strong>Resposta:</strong> O perfil dourado custa 50-100% mais que o prata, oferecendo acabamento luxuoso.</p>
+
+      <p><strong>Características:</strong></p>
+      <ul>
+      <li>Cor: Ouro escovado ou polido</li>
+      <li>Acabamento: Especial (mais sofisticado)</li>
+      <li><strong>Preço: R$ 1.500 (estimativa)</strong> (vão 0,90m, temperado simples)</li>
+      <li><strong>Diferença: +R$ 600 (67% mais caro)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Projetos de alto padrão, clientes que buscam exclusividade.</p>
+
+      <h3>Quanto mais caro é o perfil aço inox?</h3>
+
+      <p><strong>Resposta:</strong> O perfil aço inox custa 100-150% mais que o prata, sendo o mais premium e durável.</p>
+
+      <p><strong>Características:</strong></p>
+      <ul>
+      <li>Material: Aço inoxidável</li>
+      <li>Acabamento: Polido ou escovado</li>
+      <li>Durabilidade: 20+ anos</li>
+      <li><strong>Preço: R$ 2.000 (estimativa)</strong> (vão 0,90m, temperado simples)</li>
+      <li><strong>Diferença: +R$ 1.100 (122% mais caro)</strong></li>
+      </ul>
+
+      <p><strong>Quando escolher:</strong> Clientes que buscam máxima durabilidade, ambientes com umidade extrema.</p>
+
+      <h2>Casos Especiais: Quando um Box Custa Mais de R$ 5.000?</h2>
+
+      <h3>Quando um box pode custar mais de R$ 5.000?</h3>
+
+      <p><strong>Resposta:</strong> Existem 4 situações principais onde o box ultrapassa R$ 5.000:</p>
+
+      <ol>
+      <li><strong>Vãos muito grandes (1,50m+)</strong> - Requer estrutura reforçada</li>
+      <li><strong>Designs personalizados</strong> - Vidro com gravação ou arte</li>
+      <li><strong>Sistemas automáticos</strong> - Fechamento automático, iluminação LED</li>
+      <li><strong>Boxes curvos ou angulados</strong> - Design arquitetônico especial</li>
+      </ol>
+
+      <h3>Quanto custa um box com vão muito grande (1,50m)?</h3>
+
+      <p><strong>Resposta:</strong> Um box com vão de 1,50m custa <strong>R$ 5.000 a R$ 8.000 (estimativa)</strong>.</p>
+
+      <p><strong>Por que é tão caro:</strong></p>
+      <ul>
+      <li>Vidro muito grande (requer vidro 10mm)</li>
+      <li>Estrutura reforçada necessária</li>
+      <li>Instalação complexa</li>
+      <li>Risco de quebra durante transporte</li>
+      </ul>
+
+      <h3>Quanto custa um box com design personalizado?</h3>
+
+      <p><strong>Resposta:</strong> Um box com vidro gravado ou arte custa <strong>R$ 5.500 a R$ 10.000+ (estimativa)</strong>.</p>
+
+      <p><strong>Exemplos:</strong></p>
+      <ul>
+      <li>Vidro com nome gravado</li>
+      <li>Vidro com padrão geométrico</li>
+      <li>Vidro com imagem personalizada</li>
+      </ul>
+
+      <h3>Quanto custa um box com sistema automático?</h3>
+
+      <p><strong>Resposta:</strong> Um box com fechamento automático e iluminação LED custa <strong>R$ 6.000 a R$ 12.000+ (estimativa)</strong>.</p>
+
+      <p><strong>Características:</strong></p>
+      <ul>
+      <li>Fechamento automático (sensor)</li>
+      <li>Iluminação LED integrada</li>
+      <li>Controle remoto</li>
+      <li>Muito moderno e funcional</li>
+      </ul>
+
+      <h3>Quanto custa um box curvo ou angulado?</h3>
+
+      <p><strong>Resposta:</strong> Um box curvo ou angulado custa <strong>R$ 7.000 a R$ 15.000+ (estimativa)</strong>.</p>
+
+      <p><strong>Por que é tão caro:</strong></p>
+      <ul>
+      <li>Vidro curvado (processo especial)</li>
+      <li>Design arquitetônico complexo</li>
+      <li>Instalação muito delicada</li>
+      <li>Poucos fabricantes conseguem fazer</li>
+      </ul>
+
+      <h2>Qual é o Diferencial da GS Glass? Por Que Escolher a Gente?</h2>
+
+      <h3>Qual é o diferencial de pronta entrega?</h3>
+
+      <p><strong>Resposta:</strong> A maioria das empresas oferece prazos de <strong>15 a 30 dias</strong>. A <strong>GS Glass oferece pronta entrega em 3-5 dias úteis</strong>.</p>
+
+      <p><strong>Modelos com pronta entrega:</strong></p>
+      <ul>
+      <li>✅ Box Temperado Simples (Prata)</li>
+      <li>✅ Box Temperado Preto</li>
+      <li>✅ Box Temperado Jateado</li>
+      <li>✅ Box Laminado Simples (Prata)</li>
+      </ul>
+
+      <p><strong>Por que isso importa:</strong> Você não precisa esperar semanas para renovar seu banheiro. A GS Glass mantém estoque dos modelos mais procurados.</p>
+
+      <h3>Qual é o diferencial de transparência de preço?</h3>
+
+      <p><strong>Resposta:</strong> A GS Glass explica exatamente o que influencia o preço de cada box.</p>
+
+      <p><strong>Fatores que influenciam:</strong></p>
+      <ul>
+      <li>Tipo de vidro (temperado vs laminado)</li>
+      <li>Cor do perfil (prata, preto, dourado)</li>
+      <li>Tamanho (vão e altura)</li>
+      <li>Acessórios (dobradiças, puxadores)</li>
+      <li>Design personalizado</li>
+      </ul>
+
+      <p><strong>Por que isso importa:</strong> Você entende exatamente pelo que está pagando, sem surpresas.</p>
+
+      <h3>Qual é o diferencial de variedade?</h3>
+
+      <p><strong>Resposta:</strong> A GS Glass oferece <strong>7+ modelos diferentes</strong> com múltiplas opções de cores e tamanhos.</p>
+
+      <p><strong>Modelos disponíveis:</strong></p>
+      <ul>
+      <li>✅ Temperado Simples</li>
+      <li>✅ Temperado Preto</li>
+      <li>✅ Temperado Dourado</li>
+      <li>✅ Laminado</li>
+      <li>✅ Jateado</li>
+      <li>✅ Fumê</li>
+      <li>✅ Espelhado</li>
+      </ul>
+
+      <p><strong>Por que isso importa:</strong> Você encontra exatamente o que procura, sem compromissos.</p>
+
+      <h3>Qual é o diferencial de qualidade?</h3>
+
+      <p><strong>Resposta:</strong> A GS Glass usa apenas vidro temperado ou laminado certificado, com <strong>garantia de 5 anos</strong>.</p>
+
+      <p><strong>Certificações:</strong></p>
+      <ul>
+      <li>✅ Vidro temperado NBR 7199</li>
+      <li>✅ Vidro laminado NBR 7208</li>
+      <li>✅ Alumínio anodizado de qualidade</li>
+      <li>✅ Instalação profissional</li>
+      </ul>
+
+      <p><strong>Por que isso importa:</strong> Seu box vai durar muitos anos, com segurança garantida.</p>
+
+      <h2>Como Escolher o Modelo Ideal para Seu Orçamento?</h2>
+
+      <h3>Qual modelo escolher se tenho orçamento de R$ 700-1.000?</h3>
+
+      <p><strong>Resposta:</strong> Escolha o <strong>Box Temperado Simples com perfil prata</strong>.</p>
+
+      <p><strong>Por quê:</strong></p>
+      <ul>
+      <li>Melhor custo-benefício</li>
+      <li>Seguro e durável</li>
+      <li>Fácil de limpar</li>
+      <li>Pronta entrega</li>
+      </ul>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro: Temperado 8mm</li>
+      <li>Perfil: Prata anodizado</li>
+      <li>Tamanho: 0,90m x 1,90m</li>
+      <li>Preço: R$ 700-1.000</li>
+      </ul>
+
+      <h3>Qual modelo escolher se tenho orçamento de R$ 1.000-1.500?</h3>
+
+      <p><strong>Resposta:</strong> Escolha o <strong>Box Temperado com perfil preto</strong> ou <strong>Temperado Jateado</strong>.</p>
+
+      <p><strong>Por quê:</strong></p>
+      <ul>
+      <li>Design muito mais moderno</li>
+      <li>Privacidade visual (jateado)</li>
+      <li>Ainda acessível</li>
+      <li>Pronta entrega</li>
+      </ul>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro: Temperado 8mm (transparente ou jateado)</li>
+      <li>Perfil: Preto anodizado</li>
+      <li>Tamanho: 0,90m x 1,90m</li>
+      <li>Preço: R$ 1.200-1.500</li>
+      </ul>
+
+      <h3>Qual modelo escolher se tenho orçamento de R$ 1.500-2.000?</h3>
+
+      <p><strong>Resposta:</strong> Escolha o <strong>Box Temperado Dourado</strong> ou <strong>Laminado Simples</strong>.</p>
+
+      <p><strong>Por quê:</strong></p>
+      <ul>
+      <li>Design luxuoso (dourado)</li>
+      <li>Isolamento acústico (laminado)</li>
+      <li>Qualidade premium</li>
+      <li>Aumenta valor do imóvel</li>
+      </ul>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro: Temperado 8mm (dourado) ou Laminado (laminado)</li>
+      <li>Perfil: Dourado ou Prata</li>
+      <li>Tamanho: 0,90m x 1,90m</li>
+      <li>Preço: R$ 1.500-2.000</li>
+      </ul>
+
+      <h3>Qual modelo escolher se tenho orçamento de R$ 2.000-3.000?</h3>
+
+      <p><strong>Resposta:</strong> Escolha o <strong>Box Laminado Premium</strong> ou <strong>Temperado Fumê</strong>.</p>
+
+      <p><strong>Por quê:</strong></p>
+      <ul>
+      <li>Isolamento acústico máximo</li>
+      <li>Design sofisticado</li>
+      <li>Privacidade visual</li>
+      <li>Máxima qualidade</li>
+      </ul>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro: Laminado 6mm+6mm (premium) ou Temperado Fumê</li>
+      <li>Perfil: Preto ou Dourado</li>
+      <li>Tamanho: 0,90m x 1,90m</li>
+      <li>Preço: R$ 2.000-3.000</li>
+      </ul>
+
+      <h3>Qual modelo escolher se tenho orçamento acima de R$ 3.000?</h3>
+
+      <p><strong>Resposta:</strong> Escolha um <strong>design personalizado</strong> ou <strong>sistema premium</strong>.</p>
+
+      <p><strong>Por quê:</strong></p>
+      <ul>
+      <li>Máxima customização</li>
+      <li>Sistemas automáticos</li>
+      <li>Design exclusivo</li>
+      <li>Máxima sofisticação</li>
+      </ul>
+
+      <p><strong>Especificações:</strong></p>
+      <ul>
+      <li>Vidro: Personalizado (gravado, espelhado, etc)</li>
+      <li>Perfil: Aço inox ou Dourado polido</li>
+      <li>Tamanho: Qualquer dimensão</li>
+      <li>Preço: R$ 3.000+</li>
+      </ul>
+
+      <h2>Perguntas Frequentes Sobre Preço de Box de Vidro</h2>
+
+      <h3>Qual é o box mais barato do mercado?</h3>
+
+      <p><strong>Resposta:</strong> O box temperado simples com perfil prata custa entre <strong>R$ 700 a R$ 1.000 (estimativa)</strong> em tamanho padrão.</p>
+
+      <h3>Qual é o box mais caro do mercado?</h3>
+
+      <p><strong>Resposta:</strong> Boxes personalizados com sistemas automáticos podem custar até <strong>R$ 15.000+ (estimativa)</strong>.</p>
+
+      <h3>Quanto tempo leva para entregar um box?</h3>
+
+      <p><strong>Resposta:</strong></p>
+      <ul>
+      <li><strong>Pronta entrega (GS Glass):</strong> 3-5 dias úteis</li>
+      <li><strong>Concorrentes:</strong> 15-30 dias</li>
+      </ul>
+
+      <h3>Qual é a diferença de preço entre temperado e laminado?</h3>
+
+      <p><strong>Resposta:</strong> O laminado custa <strong>30-50% mais caro</strong> que o temperado, mas oferece isolamento acústico e térmico.</p>
+
+      <h3>Qual perfil de alumínio é mais caro?</h3>
+
+      <p><strong>Resposta:</strong> O aço inox é o mais caro, custando <strong>100-150% mais</strong> que o prata.</p>
+
+      <h3>O tamanho influencia muito no preço?</h3>
+
+      <p><strong>Resposta:</strong> Sim. Cada 10cm de altura adicional = +R$ 50. Cada 10cm de vão = +R$ 100-150.</p>
+
+      <h3>Existem formas de economizar?</h3>
+
+      <p><strong>Resposta:</strong> Sim:</p>
+      <ul>
+      <li>Escolher tamanho padrão (0,90m x 1,90m)</li>
+      <li>Escolher perfil prata (mais barato)</li>
+      <li>Escolher vidro temperado (mais barato que laminado)</li>
+      <li>Aproveitar promoções da GS Glass</li>
+      </ul>
+
+      <h2>Conclusão: Quanto Custa Um Box de Vidro?</h2>
+
+      <p><strong>Resumo de preços:</strong></p>
+
+      <table>
+      <tr>
+      <th>Modelo</th>
+      <th>Preço</th>
+      <th>Quando Escolher</th>
+      </tr>
+      <tr>
+      <td>Temperado Prata</td>
+      <td>R$ 700-1.000</td>
+      <td>Orçamento baixo</td>
+      </tr>
+      <tr>
+      <td>Temperado Preto</td>
+      <td>R$ 1.200-1.800</td>
+      <td>Design moderno</td>
+      </tr>
+      <tr>
+      <td>Temperado Dourado</td>
+      <td>R$ 1.500-2.200</td>
+      <td>Luxo</td>
+      </tr>
+      <tr>
+      <td>Laminado</td>
+      <td>R$ 1.800-3.000</td>
+      <td>Isolamento</td>
+      </tr>
+      <tr>
+      <td>Jateado</td>
+      <td>R$ 1.200-1.900</td>
+      <td>Privacidade</td>
+      </tr>
+      <tr>
+      <td>Fumê</td>
+      <td>R$ 1.400-2.100</td>
+      <td>Sofisticação</td>
+      </tr>
+      <tr>
+      <td>Espelhado</td>
+      <td>R$ 1.600-2.500</td>
+      <td>Diferencial</td>
+      </tr>
+      </table>
+
+      <p><strong>A resposta é:</strong> Um box de vidro custa entre <strong>R$ 700 a R$ 15.000+ (estimativa)</strong>, dependendo do modelo, tamanho e materiais escolhidos.</p>
+
+      <p><strong>Na GS Glass, você encontra:</strong></p>
+      <ul>
+      <li>✅ Todos esses modelos</li>
+      <li>✅ Pronta entrega (3-5 dias)</li>
+      <li>✅ Transparência de preço</li>
+      <li>✅ Qualidade garantida</li>
+      <li>✅ Orçamento gratuito</li>
+      </ul>
+
+      <h2>🎯 Você Já Sabe Qual Modelo Quer? Solicite Seu Orçamento Gratuito Agora!</h2>
+
+      <p>Agora que você conhece os preços e modelos, é hora de tomar uma decisão. A GS Glass oferece:</p>
+
+      <ul>
+      <li>✅ <strong>Orçamento 100% Gratuito</strong> - Sem compromisso</li>
+      <li>✅ <strong>Consultoria Técnica</strong> - Ajudamos você a escolher o melhor modelo</li>
+      <li>✅ <strong>Pronta Entrega</strong> - 3-5 dias úteis</li>
+      <li>✅ <strong>Instalação Profissional</strong> - Equipe especializada</li>
+      <li>✅ <strong>Garantia de 5 Anos</strong> - Segurança total</li>
+      </ul>
+
+      <h3>📞 Solicite Seu Orçamento Agora:</h3>
+
+      <p><strong>🔗 WhatsApp:</strong> <a href="https://wa.me/5511934275767" target="_blank" rel="noopener noreferrer">Clique aqui para conversar</a></p>
+
+      <p><strong>📧 Email:</strong> orcamento.gsglass@gmail.com</p>
+
+      <p><strong>☎️ Telefone:</strong> (11) 93427-5767</p>
+
+      <p><strong>⏰ Horário:</strong> Segunda a sexta, 8h às 18h</p>
+
+      <h3>Próximos Passos:</h3>
+
+      <ol>
+      <li><strong>Envie as dimensões do seu banheiro</strong> (altura e vão)</li>
+      <li><strong>Escolha o modelo que mais te agrada</strong> (temperado, laminado, cor do perfil)</li>
+      <li><strong>Receba seu orçamento em 24h</strong></li>
+      <li><strong>Agende a instalação</strong> (pronta entrega em 3-5 dias)</li>
+      </ol>
+
+      <h2>1. Box Temperado Simples com Perfil Prata: Para Quem Busca o Melhor Custo-Benefício</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Tem orçamento limitado (R$ 700-1.200)</li>
+      <li>✅ Quer algo funcional e seguro</li>
+      <li>✅ Não se importa com design sofisticado</li>
+      <li>✅ Prefere transparência total (banheiro parece maior)</li>
+      <li>✅ Limpa o banheiro regularmente (vidro transparente marca água)</li>
+      <li>✅ Quer pronta entrega (3-5 dias)</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box temperado simples é a <strong>melhor escolha para quem quer qualidade sem gastar muito</strong>. É seguro, durável e funciona perfeitamente para a maioria dos banheiros.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Melhor custo-benefício do mercado</li>
+      <li>✅ Seguro (vidro temperado quebra em cubos pequenos)</li>
+      <li>✅ Fácil de limpar</li>
+      <li>✅ Transparência total (amplia visualmente o banheiro)</li>
+      <li>✅ Pronta entrega (não precisa esperar)</li>
+      <li>✅ Durável (15-20 anos)</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ Marca água e sujeira facilmente</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem privacidade visual</li>
+      <li>❌ Design mais simples</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Maria, 35 anos, apartamento 70m² em São Paulo:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 1.000</li>
+      <li>Banheiro: Pequeno (1,5m x 2m)</li>
+      <li>Prioridade: Funcionalidade e economia</li>
+      <li>Decisão: Box Temperado Prata</li>
+      </ul>
+
+      <p><em>"Não queria gastar muito, mas queria algo de qualidade. O box temperado prata foi perfeito. Ficou lindo, seguro e ainda sobrou grana para outras coisas do banheiro."</em></p>
+
+      <h2>2. Box Temperado com Perfil Preto: Para Quem Quer Design Moderno</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer design moderno e sofisticado</li>
+      <li>✅ Tem orçamento médio (R$ 1.200-1.800)</li>
+      <li>✅ Seu banheiro tem decoração contemporânea</li>
+      <li>✅ Quer que o box seja um destaque visual</li>
+      <li>✅ Não se importa com marcas de água (preto disfarça)</li>
+      <li>✅ Quer pronta entrega</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O perfil preto é a <strong>tendência de design 2024-2026</strong>. Ele transforma um box simples em um elemento de design sofisticado que eleva o visual de qualquer banheiro.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Design muito moderno e sofisticado</li>
+      <li>✅ Combina com qualquer estilo de banheiro</li>
+      <li>✅ Disfarça marcas de água melhor que prata</li>
+      <li>✅ Adiciona valor visual ao imóvel</li>
+      <li>✅ Pronta entrega</li>
+      <li>✅ Preço ainda acessível</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 30-50% mais caro que prata</li>
+      <li>❌ Requer limpeza regular</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem privacidade visual</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>João, 42 anos, apartamento de luxo em Granja Viana:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 1.500</li>
+      <li>Banheiro: Moderno com revestimento cinza</li>
+      <li>Prioridade: Design sofisticado</li>
+      <li>Decisão: Box Temperado Preto</li>
+      </ul>
+
+      <p><em>"Queria algo que combinasse com a decoração moderna do meu apartamento. O perfil preto foi perfeito. Ficou elegante, sofisticado e ainda é prático."</em></p>
+
+      <h2>3. Box Temperado com Perfil Dourado: Para Quem Quer Luxo</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer um box luxuoso e exclusivo</li>
+      <li>✅ Tem orçamento premium (R$ 1.500-2.200)</li>
+      <li>✅ Seu banheiro é de alto padrão</li>
+      <li>✅ Quer que o box seja um destaque visual</li>
+      <li>✅ Valoriza design sofisticado</li>
+      <li>✅ Não se importa com prazo um pouco maior (10-15 dias)</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O perfil dourado é a <strong>escolha de quem quer um banheiro verdadeiramente luxuoso</strong>. Ele adiciona sofisticação e exclusividade que poucos conseguem oferecer.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Design luxuoso e exclusivo</li>
+      <li>✅ Adiciona sofisticação ao banheiro</li>
+      <li>✅ Combina com decoração clássica e moderna</li>
+      <li>✅ Aumenta valor do imóvel</li>
+      <li>✅ Muito procurado (diferencial)</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 50-100% mais caro que prata</li>
+      <li>❌ Prazo maior (10-15 dias)</li>
+      <li>❌ Requer manutenção especial</li>
+      <li>❌ Sem isolamento acústico</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Fernanda, 38 anos, casa em condomínio fechado:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 2.000</li>
+      <li>Banheiro: Clássico com espelho dourado</li>
+      <li>Prioridade: Sofisticação e exclusividade</li>
+      <li>Decisão: Box Temperado Dourado</li>
+      </ul>
+
+      <p><em>"Queria algo que combinasse com a decoração clássica da minha casa. O perfil dourado foi perfeito. Ficou elegante, sofisticado e muito bonito."</em></p>
+
+      <h2>4. Box Laminado: Para Quem Quer Isolamento Acústico e Térmico</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Mora em apartamento em rua barulhenta</li>
+      <li>✅ Quer isolamento acústico (reduz ruído do chuveiro)</li>
+      <li>✅ Quer isolamento térmico (mantém água quente)</li>
+      <li>✅ Tem orçamento premium (R$ 1.800-3.000)</li>
+      <li>✅ Valoriza conforto e funcionalidade</li>
+      <li>✅ Quer máxima segurança</li>
+      <li>✅ Pode esperar 10-15 dias</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box laminado é a <strong>escolha de quem quer máximo conforto e funcionalidade</strong>. Oferece isolamento acústico e térmico que nenhum outro box consegue.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Isolamento acústico (reduz ruído em 40-50%)</li>
+      <li>✅ Isolamento térmico (mantém água quente)</li>
+      <li>✅ Proteção UV (protege pele)</li>
+      <li>✅ Máxima segurança (mantém integridade quando quebra)</li>
+      <li>✅ Mais durável (15-20 anos)</li>
+      <li>✅ Conforto máximo</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 50-100% mais caro que temperado</li>
+      <li>❌ Mais pesado (requer instalação cuidadosa)</li>
+      <li>❌ Menos transparência (levemente opaco)</li>
+      <li>❌ Prazo maior (10-15 dias)</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Carlos, 45 anos, apartamento em Av. Paulista:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 2.500</li>
+      <li>Banheiro: Moderno, em prédio barulhento</li>
+      <li>Prioridade: Isolamento acústico e conforto</li>
+      <li>Decisão: Box Laminado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu apartamento é em uma avenida muito barulhenta. O box laminado foi excelente — reduz bastante o ruído do chuveiro e ainda mantém a água quente por mais tempo."</em></p>
+
+      <h2>5. Box Jateado: Para Quem Quer Privacidade Visual</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer privacidade visual total</li>
+      <li>✅ Tem banheiro compartilhado</li>
+      <li>✅ Prefere design sofisticado</li>
+      <li>✅ Tem orçamento médio (R$ 1.200-1.900)</li>
+      <li>✅ Limpa o banheiro regularmente</li>
+      <li>✅ Quer pronta entrega</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box jateado é a <strong>escolha de quem quer privacidade sem abrir mão de sofisticação</strong>. Oferece privacidade visual completa com design elegante.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Privacidade visual completa</li>
+      <li>✅ Disfarça marcas de água e sujeira</li>
+      <li>✅ Design sofisticado</li>
+      <li>✅ Mantém luminosidade</li>
+      <li>✅ Pronta entrega</li>
+      <li>✅ Preço acessível</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 15-30% mais caro que transparente</li>
+      <li>❌ Mais difícil de limpar (sujeira fica presa)</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem isolamento térmico</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Ana, 28 anos, apartamento com banheiro compartilhado:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 1.500</li>
+      <li>Banheiro: Pequeno, compartilhado</li>
+      <li>Prioridade: Privacidade visual</li>
+      <li>Decisão: Box Jateado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu banheiro é compartilhado e queria privacidade. O box jateado foi perfeito — oferece privacidade total mas mantém a luminosidade."</em></p>
+
+      <h2>6. Box Fumê: Para Quem Quer Sofisticação Máxima</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer design muito sofisticado</li>
+      <li>✅ Quer privacidade visual</li>
+      <li>✅ Tem orçamento premium (R$ 1.400-2.100)</li>
+      <li>✅ Seu banheiro é de alto padrão</li>
+      <li>✅ Valoriza exclusividade</li>
+      <li>✅ Pode esperar 10-15 dias</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box fumê é a <strong>escolha de quem quer máxima sofisticação e privacidade</strong>. Oferece privacidade visual com design muito elegante.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Privacidade visual completa</li>
+      <li>✅ Design muito sofisticado</li>
+      <li>✅ Disfarça sujeira</li>
+      <li>✅ Adiciona valor ao imóvel</li>
+      <li>✅ Muito procurado (diferencial)</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 40-60% mais caro que transparente</li>
+      <li>❌ Reduz luminosidade</li>
+      <li>❌ Prazo maior (10-15 dias)</li>
+      <li>❌ Sem isolamento acústico</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Patricia, 50 anos, casa de luxo em Alphaville:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 2.000</li>
+      <li>Banheiro: Luxuoso com revestimento cinza</li>
+      <li>Prioridade: Sofisticação e privacidade</li>
+      <li>Decisão: Box Fumê com Perfil Dourado</li>
+      </ul>
+
+      <p><em>"Queria algo muito sofisticado e elegante. O box fumê com perfil dourado foi perfeito — ficou como se fosse de um hotel cinco estrelas."</em></p>
+
+      <h2>7. Box Espelhado: Para Quem Quer Funcionalidade Dupla</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Tem banheiro pequeno</li>
+      <li>✅ Quer funcionalidade dupla (box + espelho)</li>
+      <li>✅ Tem orçamento premium (R$ 1.600-2.500)</li>
+      <li>✅ Quer design inovador</li>
+      <li>✅ Valoriza economia de espaço</li>
+      <li>✅ Pode esperar 10-15 dias</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box espelhado é a <strong>escolha de quem quer inovação e economia de espaço</strong>. Oferece funcionalidade dupla em um único elemento.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Funcionalidade dupla (box + espelho)</li>
+      <li>✅ Design inovador</li>
+      <li>✅ Economiza espaço</li>
+      <li>✅ Adiciona sofisticação</li>
+      <li>✅ Muito procurado (diferencial)</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 50-80% mais caro que transparente</li>
+      <li>❌ Prazo maior (10-15 dias)</li>
+      <li>❌ Requer manutenção especial</li>
+      <li>❌ Menos comum</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Lucas, 32 anos, apartamento pequeno em São Paulo:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 2.000</li>
+      <li>Banheiro: Muito pequeno (1,2m x 1,8m)</li>
+      <li>Prioridade: Economia de espaço</li>
+      <li>Decisão: Box Espelhado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu banheiro é muito pequeno. O box espelhado foi a solução perfeita — economiza espaço e ainda funciona como espelho."</em></p>
+
+      <h2>8. Tabela Comparativa: Qual Box Escolher?</h2>
+
+      <table>
+      <tr>
+      <th>Necessidade</th>
+      <th>Box Recomendado</th>
+      <th>Preço</th>
+      <th>Quando Escolher</th>
+      </tr>
+      <tr>
+      <td><strong>Orçamento baixo</strong></td>
+      <td>Temperado Prata</td>
+      <td>R$ 700-1.000</td>
+      <td>Quer funcionalidade sem gastar</td>
+      </tr>
+      <tr>
+      <td><strong>Design moderno</strong></td>
+      <td>Temperado Preto</td>
+      <td>R$ 1.200-1.800</td>
+      <td>Banheiro contemporâneo</td>
+      </tr>
+      <tr>
+      <td><strong>Luxo</strong></td>
+      <td>Temperado Dourado</td>
+      <td>R$ 1.500-2.200</td>
+      <td>Banheiro de alto padrão</td>
+      </tr>
+      <tr>
+      <td><strong>Isolamento acústico</strong></td>
+      <td>Laminado</td>
+      <td>R$ 1.800-3.000</td>
+      <td>Apartamento barulhento</td>
+      </tr>
+      <tr>
+      <td><strong>Privacidade visual</strong></td>
+      <td>Jateado</td>
+      <td>R$ 1.200-1.900</td>
+      <td>Banheiro compartilhado</td>
+      </tr>
+      <tr>
+      <td><strong>Sofisticação máxima</strong></td>
+      <td>Fumê</td>
+      <td>R$ 1.400-2.100</td>
+      <td>Banheiro luxuoso</td>
+      </tr>
+      <tr>
+      <td><strong>Economia de espaço</strong></td>
+      <td>Espelhado</td>
+      <td>R$ 1.600-2.500</td>
+      <td>Banheiro pequeno</td>
+      </tr>
+      </table>
+
+      <h2>9. Passo a Passo: Como Escolher Seu Box</h2>
+
+      <h3>Passo 1: Defina Seu Orçamento</h3>
+
+      <p><strong>Orçamento até R$ 1.000?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong></p>
+
+      <p><strong>Orçamento R$ 1.000-1.500?</strong><br>
+      → Escolha: <strong>Box Temperado Preto</strong> ou <strong>Jateado</strong></p>
+
+      <p><strong>Orçamento R$ 1.500-2.000?</strong><br>
+      → Escolha: <strong>Box Temperado Dourado</strong> ou <strong>Laminado Simples</strong></p>
+
+      <p><strong>Orçamento R$ 2.000-3.000?</strong><br>
+      → Escolha: <strong>Box Laminado Premium</strong> ou <strong>Fumê</strong></p>
+
+      <p><strong>Orçamento acima de R$ 3.000?</strong><br>
+      → Escolha: <strong>Design Personalizado</strong> ou <strong>Sistema Premium</strong></p>
+
+      <h3>Passo 2: Considere Seu Estilo de Banheiro</h3>
+
+      <p><strong>Banheiro moderno/contemporâneo?</strong><br>
+      → Escolha: <strong>Box Temperado Preto</strong> ou <strong>Laminado</strong></p>
+
+      <p><strong>Banheiro clássico/elegante?</strong><br>
+      → Escolha: <strong>Box Temperado Dourado</strong> ou <strong>Fumê</strong></p>
+
+      <p><strong>Banheiro minimalista/simples?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong> ou <strong>Jateado</strong></p>
+
+      <p><strong>Banheiro sofisticado/luxuoso?</strong><br>
+      → Escolha: <strong>Box Fumê</strong> ou <strong>Espelhado</strong></p>
+
+      <h3>Passo 3: Pense em Funcionalidade</h3>
+
+      <p><strong>Quer isolamento acústico?</strong><br>
+      → Escolha: <strong>Box Laminado</strong></p>
+
+      <p><strong>Quer privacidade visual?</strong><br>
+      → Escolha: <strong>Box Jateado</strong> ou <strong>Fumê</strong></p>
+
+      <p><strong>Quer economia de espaço?</strong><br>
+      → Escolha: <strong>Box Espelhado</strong></p>
+
+      <p><strong>Quer apenas funcionalidade?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong></p>
+
+      <h3>Passo 4: Considere a Manutenção</h3>
+
+      <p><strong>Quer algo fácil de limpar?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong> ou <strong>Preto</strong></p>
+
+      <p><strong>Quer algo que disfarça sujeira?</strong><br>
+      → Escolha: <strong>Box Preto</strong>, <strong>Jateado</strong>, <strong>Fumê</strong></p>
+
+      <p><strong>Quer máxima durabilidade?</strong><br>
+      → Escolha: <strong>Box Laminado</strong></p>
+
+      <h2>10. Conclusão: Qual Box Escolher?</h2>
+
+      <p><strong>Não existe "melhor box"</strong> — existe o <strong>melhor box para você</strong>.</p>
+
+      <p>A escolha correta depende de:</p>
+      <ul>
+      <li>✅ Seu orçamento</li>
+      <li>✅ Seu estilo de banheiro</li>
+      <li>✅ Suas prioridades (design, funcionalidade, durabilidade)</li>
+      <li>✅ Suas necessidades (privacidade, isolamento, espaço)</li>
+      </ul>
+
+      <p><strong>Na GS Glass, oferecemos todos os 7 modelos</strong> com qualidade garantida e pronta entrega. Nossa equipe está pronta para ajudá-lo a escolher o melhor box para sua situação específica.</p>
+
+      <h2>📞 Solicite Seu Orçamento Gratuito Agora!</h2>
+
+      <p>Não sabe qual box escolher? Nossa equipe de especialistas pode ajudar!</p>
+
+      <p><strong>🔗 WhatsApp:</strong> <a href="https://wa.me/5511934275767" target="_blank" rel="noopener noreferrer">Clique aqui para conversar</a></p>
+
+      <p><strong>📧 Email:</strong> orcamento.gsglass@gmail.com</p>
+
+      <p><strong>☎️ Telefone:</strong> (11) 93427-5767</p>
+
+      <p><strong>⏰ Horário:</strong> Segunda a sexta, 8h às 18h</p>
+
+      <h3>Próximos Passos:</h3>
+
+      <ol>
+      <li><strong>Envie as dimensões do seu banheiro</strong> (altura e vão)</li>
+      <li><strong>Descreva o estilo do seu banheiro</strong> (moderno, clássico, etc)</li>
+      <li><strong>Mencione suas prioridades</strong> (design, isolamento, privacidade)</li>
+      <li><strong>Receba recomendação personalizada em 24h</strong></li>
+      <li><strong>Agende a instalação</strong> (pronta entrega em 3-5 dias)</li>
+      </ol>
+
+      <p><strong>Sua renovação começa aqui!</strong> 🚀</p>
+    `
+  }
+};
+
+const allPosts = [
+  { id: 'vidro-laminado-vs-temperado-completo', title: 'Vidro Laminado vs. Temperado: Qual Escolher? Guia Completo' },
+  { id: 'guia-box-vidro', title: 'Guia Completo: Como Escolher o Melhor Box de Vidro' }
+];
+
+export default function BlogPost() {
+  const [match, params] = useRoute('/blog/:id');
+  
+  if (!match) return null;
+  
+  const article = blogArticles[params?.id];
+  
+  if (!article) {
+    return (
+      <div className="min-h-screen bg-background">
+        <Header />
+        <div className="container mx-auto px-4 py-20 text-center">
+          <h1 className="text-3xl font-bold text-primary mb-4">Artigo não encontrado</h1>
+          <Link href="/blog" className="text-accent font-semibold hover:underline">Voltar ao Blog</Link>
+        </div>
+        <Footer />
+      </div>
+    );
+  }
+
+  const relatedArticles = article.relatedPosts 
+    ? allPosts.filter(p => article.relatedPosts.includes(p.id))
+    : [];
+
+  const [scrollY, setScrollY] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrollY(window.scrollY);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  return (
+    <div className="min-h-screen bg-background">
+      <Header />
+
+      {/* Hero Section */}
+      <section className="pt-32 pb-12 md:pt-48 md:pb-20 bg-gradient-to-br from-primary via-primary to-primary/95">
+        <div className="container mx-auto px-4">
+          {/* Breadcrumb */}
+          <div className="flex items-center gap-2 text-primary-foreground/70 mb-8 text-sm">
+            <Link href="/" className="hover:text-primary-foreground transition-colors">Home</Link>
+            <span>/</span>
+            <Link href="/blog" className="hover:text-primary-foreground transition-colors">Blog</Link>
+            <span>/</span>
+            <span className="text-primary-foreground font-semibold">{article.category}</span>
+          </div>
+
+          {/* Back Button */}
+          <Link href="/blog" className="flex items-center gap-2 text-primary-foreground/80 hover:text-primary-foreground mb-6 transition-colors">
+            <ChevronLeft size={20} />
+            Voltar ao Blog
+          </Link>
+          
+          <h1 className="text-primary-foreground text-4xl md:text-5xl font-bold mb-6">
+            {article.title}
+          </h1>
+          
+          <div className="flex flex-wrap gap-6 text-primary-foreground/80">
+            <span className="flex items-center gap-2">
+              <Calendar size={18} />
+              {new Date(article.date).toLocaleDateString('pt-BR')}
+            </span>
+            <span className="flex items-center gap-2">
+              <User size={18} />
+              {article.author}
+            </span>
+            <span className="text-accent font-semibold bg-accent/20 px-3 py-1 rounded">
+              {article.category}
+            </span>
+            <span>{article.readTime}</span>
+          </div>
+        </div>
+      </section>
+
+      {/* Article Content */}
+      <section className="py-20 md:py-32 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
+            {/* Main Content */}
+            <div className="lg:col-span-2">
+              <img
+                src={article.image}
+                alt={article.title}
+                className="w-full h-96 object-cover rounded-lg mb-12 shadow-lg"
+              />
+              
+              <div className="blog-article-wrapper">
+                <article 
+                  className="prose prose-lg max-w-none prose-headings:text-primary prose-a:text-accent prose-strong:text-primary prose-p:leading-relaxed prose-p:text-foreground/80 prose-headings:mt-8 prose-headings:mb-4 prose-ul:my-6 prose-li:my-2 prose-blockquote:border-l-4 prose-blockquote:border-accent prose-blockquote:pl-6 prose-blockquote:italic prose-blockquote:text-foreground/70"
+                  dangerouslySetInnerHTML={{ __html: article.content }}
+                />
+              </div>
+
+              {/* CTA Box */}
+              <div className="my-16 p-8 md:p-12 bg-gradient-to-r from-accent/10 to-accent/5 border-l-4 border-accent rounded-lg">
+                <h3 className="text-2xl md:text-3xl font-bold text-primary mb-4">Quer um Box de Vidro Personalizado?</h3>
+                <p className="text-lg text-foreground/80 mb-6">
+                  A GS Glass oferece boxes sob medida com qualidade premium. Solicite seu orçamento gratuito agora mesmo!
+                </p>
+                <a
+                  href="https://wa.me/5511934275767"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-accent text-primary px-8 py-3 rounded font-semibold hover:shadow-lg transition-all"
+                >
+                  Solicitar Orçamento via WhatsApp
+                </a>
+              </div>
+
+              {/* Related Articles */}
+              {relatedArticles.length > 0 && (
+                <div className="mt-16 pt-12 border-t border-gray-200">
+                  <h3 className="text-2xl font-bold text-primary mb-8">Artigos Relacionados</h3>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    {relatedArticles.map((post) => (
+                      <Link key={post.id} href={`/blog/${post.id}`} className="group block bg-gray-50 p-6 rounded-lg hover:shadow-lg transition-all">
+                        <h4 className="font-semibold text-primary group-hover:text-accent transition-colors mb-3 line-clamp-2">
+                          {post.title}
+                        </h4>
+                        <div className="flex items-center gap-2 text-accent font-semibold">
+                          Ler artigo
+                          <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Sidebar */}
+            <div className="lg:col-span-1 space-y-8">
+              {/* Table of Contents */}
+              <div className="bg-gradient-to-br from-primary/5 to-primary/10 border-l-4 border-accent p-8 rounded-lg">
+                <h3 className="font-bold text-primary mb-6 text-lg flex items-center gap-2">
+                  <span className="text-accent text-xl">📑</span> Índice
+                </h3>
+                <ul className="space-y-3 text-sm">
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">1. Tipos de Vidro para Box</a></li>
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">2. Acabamentos e Designs</a></li>
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">3. Tamanhos e Medidas</a></li>
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">4. Sistemas de Fechamento</a></li>
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">5. Manutenção e Limpeza</a></li>
+                </ul>
+              </div>
+
+              {/* Newsletter */}
+              <div className="bg-gradient-to-br from-accent/15 to-accent/5 border-l-4 border-accent p-8 rounded-lg">
+                <h3 className="font-bold text-primary mb-4 text-lg flex items-center gap-2">
+                  <span className="text-accent text-xl">✉️</span> Newsletter
+                </h3>
+                <p className="text-sm text-foreground/70 mb-6">
+                  Receba dicas exclusivas sobre vidraçaria direto no seu e-mail.
+                </p>
+                <form className="space-y-3">
+                  <input
+                    type="email"
+                    placeholder="Seu e-mail"
+                    className="w-full px-4 py-3 border-2 border-accent/30 rounded-lg focus:outline-none focus:border-accent bg-white text-sm font-medium transition-colors"
+                  />
+                  <button
+                    type="submit"
+                    className="w-full bg-gradient-to-r from-primary to-primary/80 text-white px-4 py-3 rounded-lg font-semibold hover:shadow-lg transition-all text-sm"
+                  >
+                    Inscrever-se
+                  </button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <Footer />
+    </div>
+  );
+}
