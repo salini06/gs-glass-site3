@@ -524,20 +524,24 @@ const blogArticles: Record<string, any> = {
     `
   },
   'guia-box-vidro': {
-    title: 'Quanto Custa um Box de Vidro? Descubra os Preços Reais de Cada Modelo',
-    metaDescription: 'Guia completo de preços de box de vidro. Descubra quanto custa cada modelo (temperado, laminado, preto, dourado, jateado, fumê) e como escolher o melhor para seu orçamento.',
+    title: 'Como Escolher o Melhor Box para o Seu Banheiro: Guia Completo com Recomendações Personalizadas',
+    metaDescription: 'Guia completo para escolher o melhor box de vidro. Recomendações personalizadas para cada tipo: temperado prata, preto, dourado, laminado, jateado, fumê e espelhado.',
     date: '2026-06-14',
     author: 'GS Glass Brasil',
     category: 'Box de Vidro',
     image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/vidro-temperado-vs-laminado-comparacao-26Cdjuc9NpqJko25m3NyqC.webp',
-    readTime: '15 min',
+    readTime: '18 min',
     relatedPosts: ['vidro-laminado-vs-temperado-completo'],
     content: `
-      <h1>Quanto Custa um Box de Vidro? Descubra os Preços Reais de Cada Modelo</h1>
+      <h1>Como Escolher o Melhor Box para o Seu Banheiro: Guia Completo com Recomendações Personalizadas</h1>
 
-      <p>Você está pensando em renovar seu banheiro com um novo box de vidro, mas não sabe quanto vai gastar? Essa é uma das perguntas mais comuns que recebemos aqui na GS Glass Brasil. A resposta é: <strong>depende do modelo, do tamanho e dos materiais escolhidos</strong>.</p>
+      <h2>Introdução</h2>
 
-      <p>Neste guia, vamos mostrar exatamente quanto custa cada tipo de box, quais fatores influenciam o preço e como você pode escolher a melhor opção para seu orçamento.</p>
+      <p>Escolher o box de vidro ideal para seu banheiro é uma decisão importante que vai afetar sua experiência diária nos próximos 10-20 anos. Não é apenas sobre estética — é sobre funcionalidade, durabilidade, conforto e segurança.</p>
+
+      <p>Neste guia, vamos ajudá-lo a entender qual box é melhor para <strong>sua situação específica</strong>, considerando seu orçamento, estilo de banheiro, necessidades de privacidade e prioridades.</h1>
+
+
 
       <h2>Quanto Custa um Box de Vidro? Preços por Modelo</h2>
 
@@ -1167,7 +1171,488 @@ const blogArticles: Record<string, any> = {
       <li><strong>Agende a instalação</strong> (pronta entrega em 3-5 dias)</li>
       </ol>
 
-      <p><strong>Não deixe para depois. Sua renovação começa aqui!</strong> 🚀</p>
+      <h2>1. Box Temperado Simples com Perfil Prata: Para Quem Busca o Melhor Custo-Benefício</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Tem orçamento limitado (R$ 700-1.200)</li>
+      <li>✅ Quer algo funcional e seguro</li>
+      <li>✅ Não se importa com design sofisticado</li>
+      <li>✅ Prefere transparência total (banheiro parece maior)</li>
+      <li>✅ Limpa o banheiro regularmente (vidro transparente marca água)</li>
+      <li>✅ Quer pronta entrega (3-5 dias)</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box temperado simples é a <strong>melhor escolha para quem quer qualidade sem gastar muito</strong>. É seguro, durável e funciona perfeitamente para a maioria dos banheiros.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Melhor custo-benefício do mercado</li>
+      <li>✅ Seguro (vidro temperado quebra em cubos pequenos)</li>
+      <li>✅ Fácil de limpar</li>
+      <li>✅ Transparência total (amplia visualmente o banheiro)</li>
+      <li>✅ Pronta entrega (não precisa esperar)</li>
+      <li>✅ Durável (15-20 anos)</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ Marca água e sujeira facilmente</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem privacidade visual</li>
+      <li>❌ Design mais simples</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Maria, 35 anos, apartamento 70m² em São Paulo:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 1.000</li>
+      <li>Banheiro: Pequeno (1,5m x 2m)</li>
+      <li>Prioridade: Funcionalidade e economia</li>
+      <li>Decisão: Box Temperado Prata</li>
+      </ul>
+
+      <p><em>"Não queria gastar muito, mas queria algo de qualidade. O box temperado prata foi perfeito. Ficou lindo, seguro e ainda sobrou grana para outras coisas do banheiro."</em></p>
+
+      <h2>2. Box Temperado com Perfil Preto: Para Quem Quer Design Moderno</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer design moderno e sofisticado</li>
+      <li>✅ Tem orçamento médio (R$ 1.200-1.800)</li>
+      <li>✅ Seu banheiro tem decoração contemporânea</li>
+      <li>✅ Quer que o box seja um destaque visual</li>
+      <li>✅ Não se importa com marcas de água (preto disfarça)</li>
+      <li>✅ Quer pronta entrega</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O perfil preto é a <strong>tendência de design 2024-2026</strong>. Ele transforma um box simples em um elemento de design sofisticado que eleva o visual de qualquer banheiro.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Design muito moderno e sofisticado</li>
+      <li>✅ Combina com qualquer estilo de banheiro</li>
+      <li>✅ Disfarça marcas de água melhor que prata</li>
+      <li>✅ Adiciona valor visual ao imóvel</li>
+      <li>✅ Pronta entrega</li>
+      <li>✅ Preço ainda acessível</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 30-50% mais caro que prata</li>
+      <li>❌ Requer limpeza regular</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem privacidade visual</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>João, 42 anos, apartamento de luxo em Granja Viana:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 1.500</li>
+      <li>Banheiro: Moderno com revestimento cinza</li>
+      <li>Prioridade: Design sofisticado</li>
+      <li>Decisão: Box Temperado Preto</li>
+      </ul>
+
+      <p><em>"Queria algo que combinasse com a decoração moderna do meu apartamento. O perfil preto foi perfeito. Ficou elegante, sofisticado e ainda é prático."</em></p>
+
+      <h2>3. Box Temperado com Perfil Dourado: Para Quem Quer Luxo</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer um box luxuoso e exclusivo</li>
+      <li>✅ Tem orçamento premium (R$ 1.500-2.200)</li>
+      <li>✅ Seu banheiro é de alto padrão</li>
+      <li>✅ Quer que o box seja um destaque visual</li>
+      <li>✅ Valoriza design sofisticado</li>
+      <li>✅ Não se importa com prazo um pouco maior (10-15 dias)</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O perfil dourado é a <strong>escolha de quem quer um banheiro verdadeiramente luxuoso</strong>. Ele adiciona sofisticação e exclusividade que poucos conseguem oferecer.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Design luxuoso e exclusivo</li>
+      <li>✅ Adiciona sofisticação ao banheiro</li>
+      <li>✅ Combina com decoração clássica e moderna</li>
+      <li>✅ Aumenta valor do imóvel</li>
+      <li>✅ Muito procurado (diferencial)</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 50-100% mais caro que prata</li>
+      <li>❌ Prazo maior (10-15 dias)</li>
+      <li>❌ Requer manutenção especial</li>
+      <li>❌ Sem isolamento acústico</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Fernanda, 38 anos, casa em condomínio fechado:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 2.000</li>
+      <li>Banheiro: Clássico com espelho dourado</li>
+      <li>Prioridade: Sofisticação e exclusividade</li>
+      <li>Decisão: Box Temperado Dourado</li>
+      </ul>
+
+      <p><em>"Queria algo que combinasse com a decoração clássica da minha casa. O perfil dourado foi perfeito. Ficou elegante, sofisticado e muito bonito."</em></p>
+
+      <h2>4. Box Laminado: Para Quem Quer Isolamento Acústico e Térmico</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Mora em apartamento em rua barulhenta</li>
+      <li>✅ Quer isolamento acústico (reduz ruído do chuveiro)</li>
+      <li>✅ Quer isolamento térmico (mantém água quente)</li>
+      <li>✅ Tem orçamento premium (R$ 1.800-3.000)</li>
+      <li>✅ Valoriza conforto e funcionalidade</li>
+      <li>✅ Quer máxima segurança</li>
+      <li>✅ Pode esperar 10-15 dias</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box laminado é a <strong>escolha de quem quer máximo conforto e funcionalidade</strong>. Oferece isolamento acústico e térmico que nenhum outro box consegue.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Isolamento acústico (reduz ruído em 40-50%)</li>
+      <li>✅ Isolamento térmico (mantém água quente)</li>
+      <li>✅ Proteção UV (protege pele)</li>
+      <li>✅ Máxima segurança (mantém integridade quando quebra)</li>
+      <li>✅ Mais durável (15-20 anos)</li>
+      <li>✅ Conforto máximo</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 50-100% mais caro que temperado</li>
+      <li>❌ Mais pesado (requer instalação cuidadosa)</li>
+      <li>❌ Menos transparência (levemente opaco)</li>
+      <li>❌ Prazo maior (10-15 dias)</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Carlos, 45 anos, apartamento em Av. Paulista:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 2.500</li>
+      <li>Banheiro: Moderno, em prédio barulhento</li>
+      <li>Prioridade: Isolamento acústico e conforto</li>
+      <li>Decisão: Box Laminado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu apartamento é em uma avenida muito barulhenta. O box laminado foi excelente — reduz bastante o ruído do chuveiro e ainda mantém a água quente por mais tempo."</em></p>
+
+      <h2>5. Box Jateado: Para Quem Quer Privacidade Visual</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer privacidade visual total</li>
+      <li>✅ Tem banheiro compartilhado</li>
+      <li>✅ Prefere design sofisticado</li>
+      <li>✅ Tem orçamento médio (R$ 1.200-1.900)</li>
+      <li>✅ Limpa o banheiro regularmente</li>
+      <li>✅ Quer pronta entrega</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box jateado é a <strong>escolha de quem quer privacidade sem abrir mão de sofisticação</strong>. Oferece privacidade visual completa com design elegante.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Privacidade visual completa</li>
+      <li>✅ Disfarça marcas de água e sujeira</li>
+      <li>✅ Design sofisticado</li>
+      <li>✅ Mantém luminosidade</li>
+      <li>✅ Pronta entrega</li>
+      <li>✅ Preço acessível</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 15-30% mais caro que transparente</li>
+      <li>❌ Mais difícil de limpar (sujeira fica presa)</li>
+      <li>❌ Sem isolamento acústico</li>
+      <li>❌ Sem isolamento térmico</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Ana, 28 anos, apartamento com banheiro compartilhado:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 1.500</li>
+      <li>Banheiro: Pequeno, compartilhado</li>
+      <li>Prioridade: Privacidade visual</li>
+      <li>Decisão: Box Jateado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu banheiro é compartilhado e queria privacidade. O box jateado foi perfeito — oferece privacidade total mas mantém a luminosidade."</em></p>
+
+      <h2>6. Box Fumê: Para Quem Quer Sofisticação Máxima</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Quer design muito sofisticado</li>
+      <li>✅ Quer privacidade visual</li>
+      <li>✅ Tem orçamento premium (R$ 1.400-2.100)</li>
+      <li>✅ Seu banheiro é de alto padrão</li>
+      <li>✅ Valoriza exclusividade</li>
+      <li>✅ Pode esperar 10-15 dias</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box fumê é a <strong>escolha de quem quer máxima sofisticação e privacidade</strong>. Oferece privacidade visual com design muito elegante.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Privacidade visual completa</li>
+      <li>✅ Design muito sofisticado</li>
+      <li>✅ Disfarça sujeira</li>
+      <li>✅ Adiciona valor ao imóvel</li>
+      <li>✅ Muito procurado (diferencial)</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 40-60% mais caro que transparente</li>
+      <li>❌ Reduz luminosidade</li>
+      <li>❌ Prazo maior (10-15 dias)</li>
+      <li>❌ Sem isolamento acústico</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Patricia, 50 anos, casa de luxo em Alphaville:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 2.000</li>
+      <li>Banheiro: Luxuoso com revestimento cinza</li>
+      <li>Prioridade: Sofisticação e privacidade</li>
+      <li>Decisão: Box Fumê com Perfil Dourado</li>
+      </ul>
+
+      <p><em>"Queria algo muito sofisticado e elegante. O box fumê com perfil dourado foi perfeito — ficou como se fosse de um hotel cinco estrelas."</em></p>
+
+      <h2>7. Box Espelhado: Para Quem Quer Funcionalidade Dupla</h2>
+
+      <h3>Quando Escolher Este Box</h3>
+
+      <p><strong>Você deve escolher este box se:</strong></p>
+      <ul>
+      <li>✅ Tem banheiro pequeno</li>
+      <li>✅ Quer funcionalidade dupla (box + espelho)</li>
+      <li>✅ Tem orçamento premium (R$ 1.600-2.500)</li>
+      <li>✅ Quer design inovador</li>
+      <li>✅ Valoriza economia de espaço</li>
+      <li>✅ Pode esperar 10-15 dias</li>
+      </ul>
+
+      <h3>Por Que Recomendamos</h3>
+
+      <p>O box espelhado é a <strong>escolha de quem quer inovação e economia de espaço</strong>. Oferece funcionalidade dupla em um único elemento.</p>
+
+      <p><strong>Vantagens:</strong></p>
+      <ul>
+      <li>✅ Funcionalidade dupla (box + espelho)</li>
+      <li>✅ Design inovador</li>
+      <li>✅ Economiza espaço</li>
+      <li>✅ Adiciona sofisticação</li>
+      <li>✅ Muito procurado (diferencial)</li>
+      </ul>
+
+      <p><strong>Desvantagens:</strong></p>
+      <ul>
+      <li>❌ 50-80% mais caro que transparente</li>
+      <li>❌ Prazo maior (10-15 dias)</li>
+      <li>❌ Requer manutenção especial</li>
+      <li>❌ Menos comum</li>
+      </ul>
+
+      <h3>Exemplo de Cliente Ideal</h3>
+
+      <p><strong>Lucas, 32 anos, apartamento pequeno em São Paulo:</strong></p>
+      <ul>
+      <li>Orçamento: R$ 2.000</li>
+      <li>Banheiro: Muito pequeno (1,2m x 1,8m)</li>
+      <li>Prioridade: Economia de espaço</li>
+      <li>Decisão: Box Espelhado com Perfil Preto</li>
+      </ul>
+
+      <p><em>"Meu banheiro é muito pequeno. O box espelhado foi a solução perfeita — economiza espaço e ainda funciona como espelho."</em></p>
+
+      <h2>8. Tabela Comparativa: Qual Box Escolher?</h2>
+
+      <table>
+      <tr>
+      <th>Necessidade</th>
+      <th>Box Recomendado</th>
+      <th>Preço</th>
+      <th>Quando Escolher</th>
+      </tr>
+      <tr>
+      <td><strong>Orçamento baixo</strong></td>
+      <td>Temperado Prata</td>
+      <td>R$ 700-1.000</td>
+      <td>Quer funcionalidade sem gastar</td>
+      </tr>
+      <tr>
+      <td><strong>Design moderno</strong></td>
+      <td>Temperado Preto</td>
+      <td>R$ 1.200-1.800</td>
+      <td>Banheiro contemporâneo</td>
+      </tr>
+      <tr>
+      <td><strong>Luxo</strong></td>
+      <td>Temperado Dourado</td>
+      <td>R$ 1.500-2.200</td>
+      <td>Banheiro de alto padrão</td>
+      </tr>
+      <tr>
+      <td><strong>Isolamento acústico</strong></td>
+      <td>Laminado</td>
+      <td>R$ 1.800-3.000</td>
+      <td>Apartamento barulhento</td>
+      </tr>
+      <tr>
+      <td><strong>Privacidade visual</strong></td>
+      <td>Jateado</td>
+      <td>R$ 1.200-1.900</td>
+      <td>Banheiro compartilhado</td>
+      </tr>
+      <tr>
+      <td><strong>Sofisticação máxima</strong></td>
+      <td>Fumê</td>
+      <td>R$ 1.400-2.100</td>
+      <td>Banheiro luxuoso</td>
+      </tr>
+      <tr>
+      <td><strong>Economia de espaço</strong></td>
+      <td>Espelhado</td>
+      <td>R$ 1.600-2.500</td>
+      <td>Banheiro pequeno</td>
+      </tr>
+      </table>
+
+      <h2>9. Passo a Passo: Como Escolher Seu Box</h2>
+
+      <h3>Passo 1: Defina Seu Orçamento</h3>
+
+      <p><strong>Orçamento até R$ 1.000?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong></p>
+
+      <p><strong>Orçamento R$ 1.000-1.500?</strong><br>
+      → Escolha: <strong>Box Temperado Preto</strong> ou <strong>Jateado</strong></p>
+
+      <p><strong>Orçamento R$ 1.500-2.000?</strong><br>
+      → Escolha: <strong>Box Temperado Dourado</strong> ou <strong>Laminado Simples</strong></p>
+
+      <p><strong>Orçamento R$ 2.000-3.000?</strong><br>
+      → Escolha: <strong>Box Laminado Premium</strong> ou <strong>Fumê</strong></p>
+
+      <p><strong>Orçamento acima de R$ 3.000?</strong><br>
+      → Escolha: <strong>Design Personalizado</strong> ou <strong>Sistema Premium</strong></p>
+
+      <h3>Passo 2: Considere Seu Estilo de Banheiro</h3>
+
+      <p><strong>Banheiro moderno/contemporâneo?</strong><br>
+      → Escolha: <strong>Box Temperado Preto</strong> ou <strong>Laminado</strong></p>
+
+      <p><strong>Banheiro clássico/elegante?</strong><br>
+      → Escolha: <strong>Box Temperado Dourado</strong> ou <strong>Fumê</strong></p>
+
+      <p><strong>Banheiro minimalista/simples?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong> ou <strong>Jateado</strong></p>
+
+      <p><strong>Banheiro sofisticado/luxuoso?</strong><br>
+      → Escolha: <strong>Box Fumê</strong> ou <strong>Espelhado</strong></p>
+
+      <h3>Passo 3: Pense em Funcionalidade</h3>
+
+      <p><strong>Quer isolamento acústico?</strong><br>
+      → Escolha: <strong>Box Laminado</strong></p>
+
+      <p><strong>Quer privacidade visual?</strong><br>
+      → Escolha: <strong>Box Jateado</strong> ou <strong>Fumê</strong></p>
+
+      <p><strong>Quer economia de espaço?</strong><br>
+      → Escolha: <strong>Box Espelhado</strong></p>
+
+      <p><strong>Quer apenas funcionalidade?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong></p>
+
+      <h3>Passo 4: Considere a Manutenção</h3>
+
+      <p><strong>Quer algo fácil de limpar?</strong><br>
+      → Escolha: <strong>Box Temperado Prata</strong> ou <strong>Preto</strong></p>
+
+      <p><strong>Quer algo que disfarça sujeira?</strong><br>
+      → Escolha: <strong>Box Preto</strong>, <strong>Jateado</strong>, <strong>Fumê</strong></p>
+
+      <p><strong>Quer máxima durabilidade?</strong><br>
+      → Escolha: <strong>Box Laminado</strong></p>
+
+      <h2>10. Conclusão: Qual Box Escolher?</h2>
+
+      <p><strong>Não existe "melhor box"</strong> — existe o <strong>melhor box para você</strong>.</p>
+
+      <p>A escolha correta depende de:</p>
+      <ul>
+      <li>✅ Seu orçamento</li>
+      <li>✅ Seu estilo de banheiro</li>
+      <li>✅ Suas prioridades (design, funcionalidade, durabilidade)</li>
+      <li>✅ Suas necessidades (privacidade, isolamento, espaço)</li>
+      </ul>
+
+      <p><strong>Na GS Glass, oferecemos todos os 7 modelos</strong> com qualidade garantida e pronta entrega. Nossa equipe está pronta para ajudá-lo a escolher o melhor box para sua situação específica.</p>
+
+      <h2>📞 Solicite Seu Orçamento Gratuito Agora!</h2>
+
+      <p>Não sabe qual box escolher? Nossa equipe de especialistas pode ajudar!</p>
+
+      <p><strong>🔗 WhatsApp:</strong> <a href="https://wa.me/5511934275767" target="_blank" rel="noopener noreferrer">Clique aqui para conversar</a></p>
+
+      <p><strong>📧 Email:</strong> orcamento.gsglass@gmail.com</p>
+
+      <p><strong>☎️ Telefone:</strong> (11) 93427-5767</p>
+
+      <p><strong>⏰ Horário:</strong> Segunda a sexta, 8h às 18h</p>
+
+      <h3>Próximos Passos:</h3>
+
+      <ol>
+      <li><strong>Envie as dimensões do seu banheiro</strong> (altura e vão)</li>
+      <li><strong>Descreva o estilo do seu banheiro</strong> (moderno, clássico, etc)</li>
+      <li><strong>Mencione suas prioridades</strong> (design, isolamento, privacidade)</li>
+      <li><strong>Receba recomendação personalizada em 24h</strong></li>
+      <li><strong>Agende a instalação</strong> (pronta entrega em 3-5 dias)</li>
+      </ol>
+
+      <p><strong>Sua renovação começa aqui!</strong> 🚀</p>
     `
   }
 };
