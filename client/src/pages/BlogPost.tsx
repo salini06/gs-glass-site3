@@ -689,9 +689,7 @@ export default function BlogPost() {
         <Header />
         <div className="container mx-auto px-4 py-20 text-center">
           <h1 className="text-3xl font-bold text-primary mb-4">Artigo não encontrado</h1>
-          <Link href="/blog">
-            <a className="text-accent font-semibold hover:underline">Voltar ao Blog</a>
-          </Link>
+          <Link href="/blog" className="text-accent font-semibold hover:underline">Voltar ao Blog</Link>
         </div>
         <Footer />
       </div>
@@ -721,23 +719,17 @@ export default function BlogPost() {
         <div className="container mx-auto px-4">
           {/* Breadcrumb */}
           <div className="flex items-center gap-2 text-primary-foreground/70 mb-8 text-sm">
-            <Link href="/">
-              <a className="hover:text-primary-foreground transition-colors">Home</a>
-            </Link>
+            <Link href="/" className="hover:text-primary-foreground transition-colors">Home</Link>
             <span>/</span>
-            <Link href="/blog">
-              <a className="hover:text-primary-foreground transition-colors">Blog</a>
-            </Link>
+            <Link href="/blog" className="hover:text-primary-foreground transition-colors">Blog</Link>
             <span>/</span>
             <span className="text-primary-foreground font-semibold">{article.category}</span>
           </div>
 
           {/* Back Button */}
-          <Link href="/blog">
-            <a className="flex items-center gap-2 text-primary-foreground/80 hover:text-primary-foreground mb-6 transition-colors">
-              <ChevronLeft size={20} />
-              Voltar ao Blog
-            </a>
+          <Link href="/blog" className="flex items-center gap-2 text-primary-foreground/80 hover:text-primary-foreground mb-6 transition-colors">
+            <ChevronLeft size={20} />
+            Voltar ao Blog
           </Link>
           
           <h1 className="text-primary-foreground text-4xl md:text-5xl font-bold mb-6">
