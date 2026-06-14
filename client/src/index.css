@@ -155,6 +155,147 @@
 }
 
 @layer components {
+  /* Blog Article Styling - GS Glass Brand Colors */
+  .blog-article-wrapper {
+    background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 50%, #f5f5f0 100%);
+  }
+
+  .blog-article-wrapper article h1,
+  .blog-article-wrapper article h2,
+  .blog-article-wrapper article h3,
+  .blog-article-wrapper article h4,
+  .blog-article-wrapper article h5,
+  .blog-article-wrapper article h6 {
+    color: #1a4d3d;
+    font-weight: 700;
+  }
+
+  .blog-article-wrapper article h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 3px solid #d4af37;
+    padding-bottom: 1rem;
+  }
+
+  .blog-article-wrapper article h2 {
+    font-size: 1.875rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #1a4d3d;
+    border-left: 5px solid #d4af37;
+    padding-left: 1rem;
+  }
+
+  .blog-article-wrapper article h3 {
+    font-size: 1.375rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #2d6b56;
+  }
+
+  .blog-article-wrapper article p {
+    color: #333333;
+    line-height: 1.8;
+    margin-bottom: 1.25rem;
+    font-size: 1.0625rem;
+  }
+
+  .blog-article-wrapper article strong {
+    color: #1a4d3d;
+    font-weight: 700;
+  }
+
+  .blog-article-wrapper article ul,
+  .blog-article-wrapper article ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+  }
+
+  .blog-article-wrapper article li {
+    color: #333333;
+    margin-bottom: 0.75rem;
+    line-height: 1.7;
+  }
+
+  .blog-article-wrapper article table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    background: white;
+    border: 2px solid #d4af37;
+  }
+
+  .blog-article-wrapper article table thead {
+    background: linear-gradient(135deg, #1a4d3d 0%, #2d6b56 100%);
+    color: #f5f5f0;
+  }
+
+  .blog-article-wrapper article table th {
+    padding: 1rem;
+    text-align: left;
+    font-weight: 700;
+    border-bottom: 3px solid #d4af37;
+  }
+
+  .blog-article-wrapper article table td {
+    padding: 0.875rem 1rem;
+    border-bottom: 1px solid #e0e0e0;
+    color: #333333;
+  }
+
+  .blog-article-wrapper article table tbody tr:hover {
+    background-color: #f5f5f0;
+  }
+
+  .blog-article-wrapper article blockquote {
+    border-left: 5px solid #d4af37;
+    padding-left: 1.5rem;
+    margin: 2rem 0;
+    font-style: italic;
+    color: #2d6b56;
+    background-color: #f5f5f0;
+    padding: 1.5rem;
+  }
+
+  .blog-article-wrapper article a {
+    color: #d4af37;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+  }
+
+  .blog-article-wrapper article a:hover {
+    color: #1a4d3d;
+    text-decoration: underline;
+  }
+
+  .blog-article-wrapper article code {
+    background-color: #f5f5f0;
+    color: #1a4d3d;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+  }
+
+  .blog-article-wrapper article pre {
+    background-color: #1a4d3d;
+    color: #d4af37;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+    border-left: 5px solid #d4af37;
+  }
+
+  .blog-article-wrapper article pre code {
+    background-color: transparent;
+    color: #d4af37;
+    padding: 0;
+  }
+
   /* Custom container utility for responsive layout */
   .container {
     width: 100%;

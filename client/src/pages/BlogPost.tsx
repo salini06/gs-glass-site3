@@ -773,10 +773,12 @@ export default function BlogPost() {
                 className="w-full h-96 object-cover rounded-lg mb-12 shadow-lg"
               />
               
-              <article 
-                className="prose prose-lg max-w-none prose-headings:text-primary prose-a:text-accent prose-strong:text-primary prose-p:leading-relaxed prose-p:text-foreground/80 prose-headings:mt-8 prose-headings:mb-4 prose-ul:my-6 prose-li:my-2 prose-blockquote:border-l-4 prose-blockquote:border-accent prose-blockquote:pl-6 prose-blockquote:italic prose-blockquote:text-foreground/70"
-                dangerouslySetInnerHTML={{ __html: article.content }}
-              />
+              <div className="blog-article-wrapper">
+                <article 
+                  className="prose prose-lg max-w-none prose-headings:text-primary prose-a:text-accent prose-strong:text-primary prose-p:leading-relaxed prose-p:text-foreground/80 prose-headings:mt-8 prose-headings:mb-4 prose-ul:my-6 prose-li:my-2 prose-blockquote:border-l-4 prose-blockquote:border-accent prose-blockquote:pl-6 prose-blockquote:italic prose-blockquote:text-foreground/70"
+                  dangerouslySetInnerHTML={{ __html: article.content }}
+                />
+              </div>
 
               {/* CTA Box */}
               <div className="my-16 p-8 md:p-12 bg-gradient-to-r from-accent/10 to-accent/5 border-l-4 border-accent rounded-lg">
