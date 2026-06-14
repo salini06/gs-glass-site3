@@ -11,7 +11,7 @@ const allBlogPosts = [
     excerpt: 'Comparação completa entre vidro laminado e temperado. Aprenda sobre segurança, cores, preços, aplicações e cuidados essenciais na logística.',
     date: '2026-06-14',
     author: 'GS Glass',
-    category: 'Vidro Temperado',
+    category: 'Vidro Laminado vs. Temperado',
     image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/vidro-temperado-vs-laminado-comparacao-26Cdjuc9NpqJko25m3NyqC.webp',
     readTime: '12 min'
   },
@@ -27,7 +27,7 @@ const allBlogPosts = [
   }
 ];
 
-const categories = ['Todos', 'Box de Vidro', 'Vidro Temperado'];
+const categories = ['Todos', 'Box de Vidro', 'Vidro Laminado vs. Temperado'];
 
 export default function Blog() {
   const [selectedCategory, setSelectedCategory] = useState('Todos');
