@@ -550,7 +550,7 @@ const blogArticles: Record<string, any> = {
       <li>Vidro temperado 8mm transparente</li>
       <li>Perfil de alumínio anodizado prata (padrão)</li>
       <li>Tamanho padrão: 0,90m x 1,90m</li>
-      <li><strong>Preço: R$ 700 a R$ 1.200</strong></li>
+      <li><strong>Preço: R$ 700 a R$ 1.200 (estimativa)</strong></li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Clientes com orçamento limitado, banheiros pequenos, quem busca apenas funcionalidade.</p>
@@ -572,7 +572,7 @@ const blogArticles: Record<string, any> = {
       <li>Vidro temperado 8mm transparente</li>
       <li>Perfil de alumínio preto anodizado</li>
       <li>Tamanho padrão: 0,90m x 1,90m</li>
-      <li><strong>Preço: R$ 1.200 a R$ 1.800</strong></li>
+      <li><strong>Preço: R$ 1.200 a R$ 1.800 (estimativa)</strong></li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Projetos modernos, banheiros sofisticados, quem busca design contemporâneo.</p>
@@ -594,7 +594,7 @@ const blogArticles: Record<string, any> = {
       <li>Vidro temperado 8mm transparente</li>
       <li>Perfil de alumínio dourado (ouro escovado)</li>
       <li>Tamanho padrão: 0,90m x 1,90m</li>
-      <li><strong>Preço: R$ 1.500 a R$ 2.200</strong></li>
+      <li><strong>Preço: R$ 1.500 a R$ 2.200 (estimativa)</strong></li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Projetos de alto padrão, clientes que buscam exclusividade e sofisticação.</p>
@@ -616,7 +616,7 @@ const blogArticles: Record<string, any> = {
       <li>Vidro laminado 6mm + 6mm (com filme PVB)</li>
       <li>Perfil de alumínio (prata, preto ou dourado)</li>
       <li>Tamanho padrão: 0,90m x 1,90m</li>
-      <li><strong>Preço: R$ 1.800 a R$ 3.000</strong></li>
+      <li><strong>Preço: R$ 1.800 a R$ 3.000 (estimativa)</strong></li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Apartamentos em ruas barulhentas, clientes que buscam conforto máximo, projetos premium.</p>
@@ -639,7 +639,7 @@ const blogArticles: Record<string, any> = {
       <li>Vidro temperado 8mm jateado</li>
       <li>Perfil de alumínio (prata, preto ou dourado)</li>
       <li>Tamanho padrão: 0,90m x 1,90m</li>
-      <li><strong>Preço: R$ 1.200 a R$ 1.900</strong></li>
+      <li><strong>Preço: R$ 1.200 a R$ 1.900 (estimativa)</strong></li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Clientes que buscam privacidade, banheiros compartilhados, design sofisticado.</p>
@@ -661,7 +661,7 @@ const blogArticles: Record<string, any> = {
       <li>Vidro temperado 8mm fumê (cinza escuro)</li>
       <li>Perfil de alumínio (prata, preto ou dourado)</li>
       <li>Tamanho padrão: 0,90m x 1,90m</li>
-      <li><strong>Preço: R$ 1.400 a R$ 2.100</strong></li>
+      <li><strong>Preço: R$ 1.400 a R$ 2.100 (estimativa)</strong></li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Projetos de luxo, banheiros sofisticados, clientes que buscam privacidade total.</p>
@@ -683,7 +683,7 @@ const blogArticles: Record<string, any> = {
       <li>Vidro temperado 8mm com espelho</li>
       <li>Perfil de alumínio (prata, preto ou dourado)</li>
       <li>Tamanho padrão: 0,90m x 1,90m</li>
-      <li><strong>Preço: R$ 1.600 a R$ 2.500</strong></li>
+      <li><strong>Preço: R$ 1.600 a R$ 2.500 (estimativa)</strong></li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Banheiros pequenos, projetos inovadores, clientes que buscam diferencial.</p>
@@ -714,7 +714,7 @@ const blogArticles: Record<string, any> = {
       <ul>
       <li>Vão: 1,00m</li>
       <li>Altura: 2,00m</li>
-      <li><strong>Preço: R$ 1.000 a R$ 1.500</strong> (temperado simples, prata)</li>
+      <li><strong>Preço: R$ 1.000 a R$ 1.500 (estimativa)</strong> (temperado simples, prata)</li>
       </ul>
 
       <p><strong>Por que é mais caro:</strong></p>
@@ -732,7 +732,7 @@ const blogArticles: Record<string, any> = {
       <ul>
       <li>Vão: 0,70m</li>
       <li>Altura: 1,80m</li>
-      <li><strong>Preço: R$ 500 a R$ 900</strong> (temperado simples, prata)</li>
+      <li><strong>Preço: R$ 500 a R$ 900 (estimativa)</strong> (temperado simples, prata)</li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Banheiros muito pequenos, clientes com orçamento apertado.</p>
@@ -745,7 +745,7 @@ const blogArticles: Record<string, any> = {
       <ul>
       <li>Vão: 1,20m</li>
       <li>Altura: 2,10m</li>
-      <li><strong>Preço: R$ 1.500 a R$ 2.500</strong> (temperado simples, prata)</li>
+      <li><strong>Preço: R$ 1.500 a R$ 2.500 (estimativa)</strong> (temperado simples, prata)</li>
       </ul>
 
       <p><strong>Por que é mais caro:</strong></p>
@@ -766,7 +766,7 @@ const blogArticles: Record<string, any> = {
       <ul>
       <li>Cor: Prata metálica</li>
       <li>Acabamento: Anodizado (proteção)</li>
-      <li><strong>Preço base: R$ 900</strong> (vão 0,90m, temperado simples)</li>
+      <li><strong>Preço base: R$ 900 (estimativa)</strong> (vão 0,90m, temperado simples)</li>
       </ul>
 
       <p><strong>Quando escolher:</strong> Clientes com orçamento limitado, banheiros clássicos.</p>
@@ -779,7 +779,7 @@ const blogArticles: Record<string, any> = {
       <ul>
       <li>Cor: Preto metálico</li>
       <li>Acabamento: Anodizado (proteção)</li>
-      <li><strong>Preço: R$ 1.350</strong> (vão 0,90m, temperado simples)</li>
+      <li><strong>Preço: R$ 1.350 (estimativa)</strong> (vão 0,90m, temperado simples)</li>
       <li><strong>Diferença: +R$ 450 (50% mais caro)</strong></li>
       </ul>
 
@@ -793,7 +793,7 @@ const blogArticles: Record<string, any> = {
       <ul>
       <li>Cor: Ouro escovado ou polido</li>
       <li>Acabamento: Especial (mais sofisticado)</li>
-      <li><strong>Preço: R$ 1.500</strong> (vão 0,90m, temperado simples)</li>
+      <li><strong>Preço: R$ 1.500 (estimativa)</strong> (vão 0,90m, temperado simples)</li>
       <li><strong>Diferença: +R$ 600 (67% mais caro)</strong></li>
       </ul>
 
@@ -808,7 +808,7 @@ const blogArticles: Record<string, any> = {
       <li>Material: Aço inoxidável</li>
       <li>Acabamento: Polido ou escovado</li>
       <li>Durabilidade: 20+ anos</li>
-      <li><strong>Preço: R$ 2.000</strong> (vão 0,90m, temperado simples)</li>
+      <li><strong>Preço: R$ 2.000 (estimativa)</strong> (vão 0,90m, temperado simples)</li>
       <li><strong>Diferença: +R$ 1.100 (122% mais caro)</strong></li>
       </ul>
 
@@ -829,7 +829,7 @@ const blogArticles: Record<string, any> = {
 
       <h3>Quanto custa um box com vão muito grande (1,50m)?</h3>
 
-      <p><strong>Resposta:</strong> Um box com vão de 1,50m custa <strong>R$ 5.000 a R$ 8.000</strong>.</p>
+      <p><strong>Resposta:</strong> Um box com vão de 1,50m custa <strong>R$ 5.000 a R$ 8.000 (estimativa)</strong>.</p>
 
       <p><strong>Por que é tão caro:</strong></p>
       <ul>
@@ -841,7 +841,7 @@ const blogArticles: Record<string, any> = {
 
       <h3>Quanto custa um box com design personalizado?</h3>
 
-      <p><strong>Resposta:</strong> Um box com vidro gravado ou arte custa <strong>R$ 5.500 a R$ 10.000+</strong>.</p>
+      <p><strong>Resposta:</strong> Um box com vidro gravado ou arte custa <strong>R$ 5.500 a R$ 10.000+ (estimativa)</strong>.</p>
 
       <p><strong>Exemplos:</strong></p>
       <ul>
@@ -852,7 +852,7 @@ const blogArticles: Record<string, any> = {
 
       <h3>Quanto custa um box com sistema automático?</h3>
 
-      <p><strong>Resposta:</strong> Um box com fechamento automático e iluminação LED custa <strong>R$ 6.000 a R$ 12.000+</strong>.</p>
+      <p><strong>Resposta:</strong> Um box com fechamento automático e iluminação LED custa <strong>R$ 6.000 a R$ 12.000+ (estimativa)</strong>.</p>
 
       <p><strong>Características:</strong></p>
       <ul>
@@ -864,7 +864,7 @@ const blogArticles: Record<string, any> = {
 
       <h3>Quanto custa um box curvo ou angulado?</h3>
 
-      <p><strong>Resposta:</strong> Um box curvo ou angulado custa <strong>R$ 7.000 a R$ 15.000+</strong>.</p>
+      <p><strong>Resposta:</strong> Um box curvo ou angulado custa <strong>R$ 7.000 a R$ 15.000+ (estimativa)</strong>.</p>
 
       <p><strong>Por que é tão caro:</strong></p>
       <ul>
@@ -1042,11 +1042,11 @@ const blogArticles: Record<string, any> = {
 
       <h3>Qual é o box mais barato do mercado?</h3>
 
-      <p><strong>Resposta:</strong> O box temperado simples com perfil prata custa entre <strong>R$ 700 a R$ 1.000</strong> em tamanho padrão.</p>
+      <p><strong>Resposta:</strong> O box temperado simples com perfil prata custa entre <strong>R$ 700 a R$ 1.000 (estimativa)</strong> em tamanho padrão.</p>
 
       <h3>Qual é o box mais caro do mercado?</h3>
 
-      <p><strong>Resposta:</strong> Boxes personalizados com sistemas automáticos podem custar até <strong>R$ 15.000+</strong>.</p>
+      <p><strong>Resposta:</strong> Boxes personalizados com sistemas automáticos podem custar até <strong>R$ 15.000+ (estimativa)</strong>.</p>
 
       <h3>Quanto tempo leva para entregar um box?</h3>
 
@@ -1125,7 +1125,7 @@ const blogArticles: Record<string, any> = {
       </tr>
       </table>
 
-      <p><strong>A resposta é:</strong> Um box de vidro custa entre <strong>R$ 700 a R$ 15.000+</strong>, dependendo do modelo, tamanho e materiais escolhidos.</p>
+      <p><strong>A resposta é:</strong> Um box de vidro custa entre <strong>R$ 700 a R$ 15.000+ (estimativa)</strong>, dependendo do modelo, tamanho e materiais escolhidos.</p>
 
       <p><strong>Na GS Glass, você encontra:</strong></p>
       <ul>
