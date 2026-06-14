@@ -12,7 +12,7 @@ const allBlogPosts = [
     date: '2026-06-14',
     author: 'GS Glass',
     category: 'Vidro Temperado',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-esquadrias-aluminio-L7UypcbbStsLkmQDmwtmhT.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/vidro-temperado-vs-laminado-comparacao-26Cdjuc9NpqJko25m3NyqC.webp',
     readTime: '12 min'
   },
   {
