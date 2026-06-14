@@ -524,22 +524,22 @@ const blogArticles: Record<string, any> = {
     `
   },
   'guia-box-vidro': {
-    title: 'Como Escolher o Melhor Box para o Seu Banheiro: Guia Completo com Recomendações Personalizadas',
-    metaDescription: 'Guia completo para escolher o melhor box de vidro. Recomendações personalizadas para cada tipo: temperado prata, preto, dourado, laminado, jateado, fumê e espelhado.',
+    title: 'Como Escolher o Melhor Box para o Seu Banheiro: Tipos, Modelos e Cores de Alumínio',
+    metaDescription: 'Guia completo para escolher box de vidro. Tipos de abertura (corrediço, dobradiça, canto, até teto), modelos (transparente, película jateada), cores de alumínio (prata, preto, dourado, aço inox) e pronta entrega.',
     date: '2026-06-14',
     author: 'GS Glass Brasil',
     category: 'Box de Vidro',
     image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/vidro-temperado-vs-laminado-comparacao-26Cdjuc9NpqJko25m3NyqC.webp',
-    readTime: '18 min',
+    readTime: '20 min',
     relatedPosts: ['vidro-laminado-vs-temperado-completo'],
     content: `
-      <h1>Como Escolher o Melhor Box para o Seu Banheiro: Guia Completo com Recomendações Personalizadas</h1>
+      <h1>Como Escolher o Melhor Box para o Seu Banheiro: Tipos, Modelos e Cores de Alumínio</h1>
 
       <h2>Introdução</h2>
 
       <p>Escolher o box de vidro ideal para seu banheiro é uma decisão importante que vai afetar sua experiência diária nos próximos 10-20 anos. Não é apenas sobre estética — é sobre funcionalidade, durabilidade, conforto e segurança.</p>
 
-      <p>Neste guia, vamos ajudá-lo a entender qual box é melhor para <strong>sua situação específica</strong>, considerando seu estilo de banheiro, necessidades de privacidade, funcionalidade desejada e prioridades.</p>
+      <p>Neste guia, vamos ajudá-lo a entender qual box é melhor para <strong>sua situação específica</strong>, considerando o tipo de box (transpasse, sem transpasse, canto, corredíço, dobraça, até teto), o modelo de vidro, a cor do alumínio e a disponibilidade em pronta entrega.</p>
 
 
 
