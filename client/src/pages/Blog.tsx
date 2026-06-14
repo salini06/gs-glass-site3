@@ -17,7 +17,7 @@ const allBlogPosts = [
   },
   {
     id: 'guia-box-vidro',
-    title: 'Guia Completo: Como Escolher o Melhor Box de Vidro para Seu Banheiro',
+    title: 'Box para banheiro. Qual escolher?',
     excerpt: 'Descubra os tipos de vidro, tamanhos, acabamentos e dicas de manutenção para escolher o box perfeito para seu banheiro.',
     date: '2026-06-08',
     author: 'GS Glass',
