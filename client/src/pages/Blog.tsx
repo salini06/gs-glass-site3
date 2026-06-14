@@ -24,50 +24,10 @@ const allBlogPosts = [
     category: 'Box de Vidro',
     image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-box-vidro-profissional-eDcKJTrRtDnqSb7H8qeyYr.webp',
     readTime: '8 min'
-  },
-  {
-    id: 'vidro-temperado-vs-laminado',
-    title: 'Box de Vidro Temperado vs. Laminado: Qual é Melhor?',
-    excerpt: 'Comparação completa entre vidro temperado e laminado: diferenças, vantagens, desvantagens e preços.',
-    date: '2026-06-07',
-    author: 'GS Glass',
-    category: 'Vidro Temperado',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-esquadrias-aluminio-L7UypcbbStsLkmQDmwtmhT.webp',
-    readTime: '10 min'
-  },
-  {
-    id: 'fechamento-sacada-osasco',
-    title: 'Fechamento de Sacada em Osasco: Ganhe Espaço e Conforto',
-    excerpt: 'Tudo sobre fechamento de sacadas com vidro em Osasco. Opções, preços, instalação e benefícios.',
-    date: '2026-06-06',
-    author: 'GS Glass',
-    category: 'Sacada',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-pele-vidro-ZDLyVN5s8GiSutRoGEou75.webp',
-    readTime: '9 min'
-  },
-  {
-    id: 'manutencao-box-vidro',
-    title: 'Manutenção de Box de Vidro: Dicas para Manter Sempre Limpo e Brilhante',
-    excerpt: 'Guia prático de limpeza e manutenção de box de vidro. Produtos recomendados, técnicas e frequência.',
-    date: '2026-06-05',
-    author: 'GS Glass',
-    category: 'Manutenção',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-espelhos-premium-U87csnwp4PWPDZz59Y6jmu.webp',
-    readTime: '6 min'
-  },
-  {
-    id: 'preço-box-vidro-2026',
-    title: 'Quanto Custa um Box de Vidro? Tabela de Preços 2026',
-    excerpt: 'Tabela completa de preços para box de vidro. Fatores que influenciam o preço e como fazer orçamento.',
-    date: '2026-06-04',
-    author: 'GS Glass',
-    category: 'Preços',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-divisorias-vidro-hya3kFtNTHo9hqoEiMGbWS.webp',
-    readTime: '7 min'
   }
 ];
 
-const categories = ['Todos', 'Box de Vidro', 'Sacada', 'Esquadrias', 'Espelhos', 'Vidro Temperado', 'Manutenção', 'Preços'];
+const categories = ['Todos', 'Box de Vidro', 'Vidro Temperado'];
 
 export default function Blog() {
   const [selectedCategory, setSelectedCategory] = useState('Todos');

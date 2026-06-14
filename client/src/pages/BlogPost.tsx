@@ -669,11 +669,7 @@ const blogArticles: Record<string, any> = {
 
 const allPosts = [
   { id: 'vidro-laminado-vs-temperado-completo', title: 'Vidro Laminado vs. Temperado: Qual Escolher? Guia Completo' },
-  { id: 'guia-box-vidro', title: 'Guia Completo: Como Escolher o Melhor Box de Vidro' },
-  { id: 'vidro-temperado-vs-laminado', title: 'Box de Vidro Temperado vs. Laminado' },
-  { id: 'fechamento-sacada-osasco', title: 'Fechamento de Sacada em Osasco' },
-  { id: 'manutencao-box-vidro', title: 'Manutenção de Box de Vidro' },
-  { id: 'preço-box-vidro-2026', title: 'Quanto Custa um Box de Vidro?' }
+  { id: 'guia-box-vidro', title: 'Guia Completo: Como Escolher o Melhor Box de Vidro' }
 ];
 
 export default function BlogPost() {
