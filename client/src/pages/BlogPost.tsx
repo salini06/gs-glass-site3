@@ -802,16 +802,14 @@ export default function BlogPost() {
                   <h3 className="text-2xl font-bold text-primary mb-8">Artigos Relacionados</h3>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {relatedArticles.map((post) => (
-                      <Link key={post.id} href={`/blog/${post.id}`}>
-                        <a className="group bg-gray-50 p-6 rounded-lg hover:shadow-lg transition-all">
-                          <h4 className="font-semibold text-primary group-hover:text-accent transition-colors mb-3 line-clamp-2">
-                            {post.title}
-                          </h4>
-                          <div className="flex items-center gap-2 text-accent font-semibold">
-                            Ler artigo
-                            <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
-                          </div>
-                        </a>
+                      <Link key={post.id} href={`/blog/${post.id}`} className="group block bg-gray-50 p-6 rounded-lg hover:shadow-lg transition-all">
+                        <h4 className="font-semibold text-primary group-hover:text-accent transition-colors mb-3 line-clamp-2">
+                          {post.title}
+                        </h4>
+                        <div className="flex items-center gap-2 text-accent font-semibold">
+                          Ler artigo
+                          <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
+                        </div>
                       </Link>
                     ))}
                   </div>
@@ -822,34 +820,38 @@ export default function BlogPost() {
             {/* Sidebar */}
             <div className="lg:col-span-1 space-y-8">
               {/* Table of Contents */}
-              <div className="bg-gray-50 p-6 rounded-lg">
-                <h3 className="font-bold text-primary mb-4">Índice</h3>
-                <ul className="space-y-2 text-sm">
-                  <li><a href="#" className="text-accent hover:underline">1. Tipos de Vidro para Box</a></li>
-                  <li><a href="#" className="text-accent hover:underline">2. Acabamentos e Designs</a></li>
-                  <li><a href="#" className="text-accent hover:underline">3. Tamanhos e Medidas</a></li>
-                  <li><a href="#" className="text-accent hover:underline">4. Sistemas de Fechamento</a></li>
-                  <li><a href="#" className="text-accent hover:underline">5. Manutenção e Limpeza</a></li>
+              <div className="bg-gradient-to-br from-primary/5 to-primary/10 border-l-4 border-accent p-8 rounded-lg">
+                <h3 className="font-bold text-primary mb-6 text-lg flex items-center gap-2">
+                  <span className="text-accent text-xl">📑</span> Índice
+                </h3>
+                <ul className="space-y-3 text-sm">
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">1. Tipos de Vidro para Box</a></li>
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">2. Acabamentos e Designs</a></li>
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">3. Tamanhos e Medidas</a></li>
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">4. Sistemas de Fechamento</a></li>
+                  <li><a href="#" className="text-primary hover:text-accent font-medium transition-colors">5. Manutenção e Limpeza</a></li>
                 </ul>
               </div>
 
               {/* Newsletter */}
-              <div className="bg-accent/10 border border-accent p-6 rounded-lg">
-                <h3 className="font-bold text-primary mb-3">Newsletter</h3>
-                <p className="text-sm text-foreground/70 mb-4">
-                  Receba dicas exclusivas sobre vidraçaria.
+              <div className="bg-gradient-to-br from-accent/15 to-accent/5 border-l-4 border-accent p-8 rounded-lg">
+                <h3 className="font-bold text-primary mb-4 text-lg flex items-center gap-2">
+                  <span className="text-accent text-xl">✉️</span> Newsletter
+                </h3>
+                <p className="text-sm text-foreground/70 mb-6">
+                  Receba dicas exclusivas sobre vidraçaria direto no seu e-mail.
                 </p>
-                <form className="space-y-2">
+                <form className="space-y-3">
                   <input
                     type="email"
                     placeholder="Seu e-mail"
-                    className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:border-accent text-sm"
+                    className="w-full px-4 py-3 border-2 border-accent/30 rounded-lg focus:outline-none focus:border-accent bg-white text-sm font-medium transition-colors"
                   />
                   <button
                     type="submit"
-                    className="w-full bg-accent text-primary px-3 py-2 rounded font-semibold hover:bg-opacity-90 transition-all text-sm"
+                    className="w-full bg-gradient-to-r from-primary to-primary/80 text-white px-4 py-3 rounded-lg font-semibold hover:shadow-lg transition-all text-sm"
                   >
-                    Inscrever
+                    Inscrever-se
                   </button>
                 </form>
               </div>
