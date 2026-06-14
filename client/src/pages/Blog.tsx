@@ -6,6 +6,16 @@ import { useState, useMemo } from 'react';
 
 const allBlogPosts = [
   {
+    id: 'vidro-laminado-vs-temperado-completo',
+    title: 'Vidro Laminado vs. Temperado: Qual Escolher? Guia Completo com Segurança, Preço e Aplicações',
+    excerpt: 'Comparação completa entre vidro laminado e temperado. Aprenda sobre segurança, cores, preços, aplicações e cuidados essenciais na logística.',
+    date: '2026-06-14',
+    author: 'GS Glass',
+    category: 'Vidro Temperado',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/blog-esquadrias-aluminio-L7UypcbbStsLkmQDmwtmhT.webp',
+    readTime: '12 min'
+  },
+  {
     id: 'guia-box-vidro',
     title: 'Guia Completo: Como Escolher o Melhor Box de Vidro para Seu Banheiro',
     excerpt: 'Descubra os tipos de vidro, tamanhos, acabamentos e dicas de manutenção para escolher o box perfeito para seu banheiro.',
