@@ -197,8 +197,7 @@ const blogArticles: Record<string, any> = {
         <li>Incolor (Transparente): Transparência máxima, aspecto limpo</li>
         <li>Fumê (Cinza Escuro): Reduz ofuscamento, aspecto moderno</li>
         <li>Verde Claro: Toque de cor, transparência mantida</li>
-        <li>Bronze: Aspecto quente, reduz claridade</li>
-      </ul>
+              </ul>
 
       <p>Limitação: Vidro temperado tem opções de cor mais limitadas porque o processo de temperamento afeta a absorção de cor.</p>
 
@@ -208,8 +207,7 @@ const blogArticles: Record<string, any> = {
         <li>Incolor: Transparência máxima - Uso geral</li>
         <li>Verde Claro: Aspecto natural, reduz reflexo - Fachadas</li>
         <li>Verde Escuro: Aspecto sofisticado - Comercial</li>
-        <li>Bronze: Quente, elegante - Residencial</li>
-        <li>Cinza/Fumê: Moderno, reduz calor - Fachadas</li>
+                <li>Cinza/Fumê: Moderno, reduz calor - Fachadas</li>
         <li>Azul: Aspecto premium - Comercial</li>
         <li>Espelhado: Reflexivo, privacidade - Fachadas</li>
       </ul>
