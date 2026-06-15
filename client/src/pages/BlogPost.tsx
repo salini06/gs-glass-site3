@@ -1200,8 +1200,3 @@ export default function BlogPost() {
     </div>
   );
 }
-    <h2>Conclusão</h2>
-    <p>Esperamos ter ajudado você a entender melhor os diferentes tipos de box de vidro disponíveis. Cada um tem suas características únicas e é importante escolher aquele que melhor se adequa ao seu banheiro.</p>
-    <p>Entre em contato conosco para mais informações e orçamento gratuito:</p>
-    <ul><li><strong>WhatsApp:</strong> <a href="https://wa.me/5511934275767" target="_blank">(11) 93427-5767</a></li><li><strong>Email:</strong> <a href="mailto:guilhermesalini@gsglassbrasil.com.br">guilhermesalini@gsglassbrasil.com.br</a></li></ul>
-    
