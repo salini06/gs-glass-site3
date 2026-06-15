@@ -219,63 +219,7 @@ const blogArticles: Record<string, any> = {
       <h3>Impacto da Cor no Preço</h3>
       
 
-      <h2>6. Preço: Qual é Mais Caro?</h2>
-      
-      <h3>Tabela de Preços Referenciais (São Paulo - 2026)</h3>
-      <p>Vidro Temperado 8mm (m²):</p>
-      <ul>
-        <li>Incolor: R$ 180 - R$ 250</li>
-        <li>Fumê: R$ 200 - R$ 280</li>
-        <li>Verde Claro: R$ 200 - R$ 280</li>
-        <li>Bronze: R$ 220 - R$ 300</li>
-      </ul>
-
-      <p>Vidro Laminado 6mm + 6mm (m²):</p>
-      <ul>
-        <li>Incolor: R$ 280 - R$ 380</li>
-        <li>Verde Claro: R$ 300 - R$ 400</li>
-        <li>Verde Escuro: R$ 320 - R$ 420</li>
-        <li>Bronze: R$ 320 - R$ 420</li>
-        <li>Espelhado: R$ 400 - R$ 500</li>
-      </ul>
-
-      <h3>Análise de Custo-Benefício</h3>
-      <p>Vidro Temperado:</p>
-      <ul>
-        <li>Mais barato (30-40% menos)</li>
-        <li>Ideal para orçamentos limitados</li>
-        <li>Menos isolamento</li>
-        <li>Menos opções de cor</li>
-      </ul>
-
-      <p>Vidro Laminado:</p>
-      <ul>
-        <li>Melhor isolamento (acústico + térmico)</li>
-        <li>Mais opções de design</li>
-        <li>Mais caro</li>
-        <li>Mais pesado (requer estrutura mais robusta)</li>
-      </ul>
-
-      <h3>Exemplo Prático: Box de Banheiro 1,5m x 2m</h3>
-      <p>Vidro Temperado Incolor:</p>
-      <ul>
-        <li>Área: 3m²</li>
-        <li>Custo vidro: 3m² × R$ 200 = R$ 600</li>
-        <li>Instalação: R$ 400-600</li>
-        <li>Total: R$ 1.000 - R$ 1.200</li>
-      </ul>
-
-      <p>Vidro Laminado Incolor:</p>
-      <ul>
-        <li>Área: 3m²</li>
-        <li>Custo vidro: 3m² × R$ 330 = R$ 990</li>
-        <li>Instalação: R$ 400-600</li>
-        <li>Total: R$ 1.390 - R$ 1.590</li>
-      </ul>
-
-      
-
-      <h2>7. Aplicações: Quando Usar Cada Um</h2>
+      <h2>6. Aplicações: Quando Usar Cada Um</h2>
       
       <h3>Vidro Temperado - Aplicações Ideais</h3>
       <p>Box de Banheiro</p>
@@ -336,7 +280,7 @@ const blogArticles: Record<string, any> = {
         <li>Bem-estar</li>
       </ul>
 
-      <h2>8. ⚠️ Cuidados Essenciais na Logística: O Caso do Vidro Laminado Trincado</h2>
+      <h2>7. ⚠️ Cuidados Essenciais na Logística: O Caso do Vidro Laminado Trincado</h2>
       
       <h3>INFORMAÇÃO CRÍTICA: Vidro Laminado Trincado Deve Ser Descartado</h3>
       <p>Este é um ponto extremamente importante que muitos clientes desconhecem:</p>
@@ -426,7 +370,7 @@ const blogArticles: Record<string, any> = {
         <li>Manter documentação</li>
       </ul>
 
-      <h2>10. Perguntas Frequentes</h2>
+      <h2>8. Perguntas Frequentes</h2>
       
       <p>P: Posso cortar vidro temperado após o temperamento?</p>
       <p>R: Não. Vidro temperado não pode ser cortado após o processo de temperamento. Se precisar de dimensões específicas, o corte deve ser feito antes do temperamento. Por isso, é importante fornecer medidas precisas.</p>
@@ -465,7 +409,7 @@ const blogArticles: Record<string, any> = {
       <p>P: O vidro laminado fica amarelado com o tempo?</p>
       <p>R: Não significativamente. Vidro laminado de qualidade mantém transparência por 20+ anos. Pequenas variações de cor são normais e não afetam funcionalidade.</p>
 
-      <h2>11. Conclusão: Escolha Inteligente</h2>
+      <h2>9. Conclusão: Escolha Inteligente</h2>
       
       <p>Tanto vidro temperado quanto vidro laminado são excelentes opções. A escolha correta depende de:</p>
 
