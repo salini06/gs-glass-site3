@@ -17,16 +17,16 @@ const blogArticles: Record<string, any> = {
     content: `
       <h1>Vidro Laminado vs. Temperado: Qual Escolher? Guia Completo com Segurança, Preço e Aplicações</h1>
       
-      <p>Quando se trata de escolher vidro para seu projeto residencial, comercial ou industrial, uma das decisões mais importantes é entre <strong>vidro laminado</strong> e <strong>vidro temperado</strong>. Ambos são excelentes opções, mas cada um possui características específicas que os tornam ideais para diferentes situações.</p>
+      <p>Quando se trata de escolher vidro para seu projeto residencial, comercial ou industrial, uma das decisões mais importantes é entre vidro laminado e vidro temperado. Ambos são excelentes opções, mas cada um possui características específicas que os tornam ideais para diferentes situações.</p>
 
-      <p>Neste guia completo, a <strong>GS Glass Brasil</strong> — com mais de 20 anos de experiência em vidraçaria profissional — explica em detalhes as diferenças entre esses dois tipos de vidro, quando usar cada um, questões de segurança, variações de cor, preços e cuidados essenciais na logística.</p>
+      <p>Neste guia completo, a GS Glass Brasil — com mais de 20 anos de experiência em vidraçaria profissional — explica em detalhes as diferenças entre esses dois tipos de vidro, quando usar cada um, questões de segurança, variações de cor, preços e cuidados essenciais na logística.</p>
 
       <h2>1. O Que é Vidro Temperado?</h2>
       
       <h3>Definição e Processo de Fabricação</h3>
-      <p>O <strong>vidro temperado</strong> é um vidro que passa por um processo de aquecimento e resfriamento rápido em temperaturas controladas. Este processo cria tensões internas no vidro, tornando-o <strong>4 a 5 vezes mais resistente</strong> que o vidro comum.</p>
+      <p>O vidro temperado é um vidro que passa por um processo de aquecimento e resfriamento rápido em temperaturas controladas. Este processo cria tensões internas no vidro, tornando-o 4 a 5 vezes mais resistente que o vidro comum.</p>
 
-      <p><strong>Processo de Fabricação:</strong></p>
+      <p>Processo de Fabricação:</p>
       <ul>
         <li>Vidro comum é aquecido a ~650°C</li>
         <li>Resfriamento rápido (choque térmico) em câmaras especiais</li>
@@ -36,17 +36,17 @@ const blogArticles: Record<string, any> = {
 
       <h3>Características Principais do Vidro Temperado</h3>
       <ul>
-        <li><strong>Resistência:</strong> 4-5x mais resistente que vidro comum</li>
-        <li><strong>Quebra:</strong> Quebra em pequenos pedaços (cubos)</li>
-        <li><strong>Segurança:</strong> Muito seguro - pedaços pequenos não cortam</li>
-        <li><strong>Temperatura:</strong> Resiste a variações de -40°C a +250°C</li>
-        <li><strong>Peso:</strong> Leve (ideal para grandes áreas)</li>
-        <li><strong>Transparência:</strong> 100% transparente</li>
-        <li><strong>Reversibilidade:</strong> Não pode ser cortado após temperado</li>
+        <li>Resistência: 4-5x mais resistente que vidro comum</li>
+        <li>Quebra: Quebra em pequenos pedaços (cubos)</li>
+        <li>Segurança: Muito seguro - pedaços pequenos não cortam</li>
+        <li>Temperatura: Resiste a variações de -40°C a +250°C</li>
+        <li>Peso: Leve (ideal para grandes áreas)</li>
+        <li>Transparência: 100% transparente</li>
+        <li>Reversibilidade: Não pode ser cortado após temperado</li>
       </ul>
 
       <h3>Quando o Vidro Quebra</h3>
-      <p>Quando o vidro temperado quebra, ele se desintegra em <strong>pequenos cubos arredondados</strong> (aproximadamente 1-2 cm), semelhantes a cubos de açúcar. Isso é <strong>extremamente seguro</strong> porque:</p>
+      <p>Quando o vidro temperado quebra, ele se desintegra em pequenos cubos arredondados (aproximadamente 1-2 cm), semelhantes a cubos de açúcar. Isso é extremamente seguro porque:</p>
       <ul>
         <li>Não há bordas afiadas</li>
         <li>Não causa ferimentos graves</li>
@@ -56,9 +56,9 @@ const blogArticles: Record<string, any> = {
       <h2>2. O Que é Vidro Laminado?</h2>
       
       <h3>Definição e Processo de Fabricação</h3>
-      <p>O <strong>vidro laminado</strong> é composto por <strong>duas ou mais camadas de vidro</strong> unidas por uma <strong>película de polivinil butiral (PVB)</strong> ou resina. Esta película atua como um "adesivo" que mantém os pedaços juntos quando o vidro quebra.</p>
+      <p>O vidro laminado é composto por duas ou mais camadas de vidro unidas por uma película de polivinil butiral (PVB) ou resina. Esta película atua como um "adesivo" que mantém os pedaços juntos quando o vidro quebra.</p>
 
-      <p><strong>Processo de Fabricação:</strong></p>
+      <p>Processo de Fabricação:</p>
       <ul>
         <li>Duas folhas de vidro são posicionadas</li>
         <li>Película de PVB é colocada entre elas</li>
@@ -68,18 +68,18 @@ const blogArticles: Record<string, any> = {
 
       <h3>Características Principais do Vidro Laminado</h3>
       <ul>
-        <li><strong>Resistência:</strong> Resistente a impactos moderados</li>
-        <li><strong>Quebra:</strong> Quebra mas mantém pedaços juntos (como vidro de carro)</li>
-        <li><strong>Segurança:</strong> Seguro - pedaços não se desprendem</li>
-        <li><strong>Isolamento:</strong> Excelente isolamento acústico e térmico</li>
-        <li><strong>Transparência:</strong> Pode ter tonalidades (verde, bronze, cinza)</li>
-        <li><strong>Reversibilidade:</strong> Pode ser cortado antes da laminação</li>
-        <li><strong>Proteção UV:</strong> Bloqueia até 99% dos raios UV</li>
-        <li><strong>Durabilidade:</strong> Vida útil: 20+ anos</li>
+        <li>Resistência: Resistente a impactos moderados</li>
+        <li>Quebra: Quebra mas mantém pedaços juntos (como vidro de carro)</li>
+        <li>Segurança: Seguro - pedaços não se desprendem</li>
+        <li>Isolamento: Excelente isolamento acústico e térmico</li>
+        <li>Transparência: Pode ter tonalidades (verde, bronze, cinza)</li>
+        <li>Reversibilidade: Pode ser cortado antes da laminação</li>
+        <li>Proteção UV: Bloqueia até 99% dos raios UV</li>
+        <li>Durabilidade: Vida útil: 20+ anos</li>
       </ul>
 
       <h3>Quando o Vidro Quebra</h3>
-      <p>Quando o vidro laminado quebra, a <strong>película de PVB mantém os pedaços juntos</strong>, criando um efeito semelhante ao vidro de um carro. O vidro fica com uma teia de trincas, mas <strong>não se desintegra</strong>.</p>
+      <p>Quando o vidro laminado quebra, a película de PVB mantém os pedaços juntos, criando um efeito semelhante ao vidro de um carro. O vidro fica com uma teia de trincas, mas não se desintegra.</p>
 
       <h2>3. Comparação Direta: Vidro Laminado vs. Temperado</h2>
       
@@ -95,62 +95,62 @@ const blogArticles: Record<string, any> = {
         </thead>
         <tbody>
           <tr>
-            <td><strong>Resistência a Impacto</strong></td>
+            <td>Resistência a Impacto</td>
             <td>Muito alta (4-5x)</td>
             <td>Alta (resistente)</td>
           </tr>
           <tr>
-            <td><strong>Tipo de Quebra</strong></td>
+            <td>Tipo de Quebra</td>
             <td>Cubos pequenos</td>
             <td>Mantém integridade</td>
           </tr>
           <tr>
-            <td><strong>Segurança</strong></td>
+            <td>Segurança</td>
             <td>Excelente (sem cortes)</td>
             <td>Excelente (sem desprendimento)</td>
           </tr>
           <tr>
-            <td><strong>Isolamento Acústico</strong></td>
+            <td>Isolamento Acústico</td>
             <td>Baixo</td>
             <td>Excelente</td>
           </tr>
           <tr>
-            <td><strong>Isolamento Térmico</strong></td>
+            <td>Isolamento Térmico</td>
             <td>Baixo</td>
             <td>Excelente</td>
           </tr>
           <tr>
-            <td><strong>Proteção UV</strong></td>
+            <td>Proteção UV</td>
             <td>Não</td>
             <td>Sim (99%)</td>
           </tr>
           <tr>
-            <td><strong>Flexibilidade</strong></td>
+            <td>Flexibilidade</td>
             <td>Rígido</td>
             <td>Ligeiramente flexível</td>
           </tr>
           <tr>
-            <td><strong>Custo</strong></td>
+            <td>Custo</td>
             <td>Moderado</td>
             <td>Mais alto (20-40% a mais)</td>
           </tr>
           <tr>
-            <td><strong>Aplicações Ideais</strong></td>
+            <td>Aplicações Ideais</td>
             <td>Banheiros, portas</td>
             <td>Fachadas, sacadas, vidros de carro</td>
           </tr>
           <tr>
-            <td><strong>Pode ser Cortado</strong></td>
+            <td>Pode ser Cortado</td>
             <td>Não (após temperado)</td>
             <td>Sim (antes de laminar)</td>
           </tr>
           <tr>
-            <td><strong>Tonalidades</strong></td>
+            <td>Tonalidades</td>
             <td>Apenas incolor</td>
             <td>Verde, bronze, cinza, fumê</td>
           </tr>
           <tr>
-            <td><strong>Manutenção</strong></td>
+            <td>Manutenção</td>
             <td>Fácil</td>
             <td>Fácil</td>
           </tr>
@@ -160,7 +160,7 @@ const blogArticles: Record<string, any> = {
       <h2>4. Segurança: Qual é Mais Seguro?</h2>
       
       <h3>Ambos São Seguros, Mas de Formas Diferentes</h3>
-      <p><strong>Vidro Temperado é mais seguro quando:</strong></p>
+      <p>Vidro Temperado é mais seguro quando:</p>
       <ul>
         <li>Há risco de impacto direto (portas, box de banheiro)</li>
         <li>Crianças podem bater contra o vidro</li>
@@ -168,9 +168,9 @@ const blogArticles: Record<string, any> = {
         <li>Segurança é prioridade máxima</li>
       </ul>
 
-      <p><strong>Por quê?</strong> Quando quebra, não deixa bordas afiadas que cortam.</p>
+      <p>Por quê? Quando quebra, não deixa bordas afiadas que cortam.</p>
 
-      <p><strong>Vidro Laminado é mais seguro quando:</strong></p>
+      <p>Vidro Laminado é mais seguro quando:</p>
       <ul>
         <li>Há risco de queda de altura (sacadas, fachadas)</li>
         <li>Segurança contra intrusão é importante</li>
@@ -178,51 +178,51 @@ const blogArticles: Record<string, any> = {
         <li>Isolamento acústico é crítico</li>
       </ul>
 
-      <p><strong>Por quê?</strong> Quando quebra, mantém a estrutura intacta, evitando quedas.</p>
+      <p>Por quê? Quando quebra, mantém a estrutura intacta, evitando quedas.</p>
 
       <h3>Normas Técnicas Brasileiras</h3>
       <p>Ambos os vidros devem atender às normas:</p>
       <ul>
-        <li><strong>NBR 7199</strong> - Vidro Temperado (Segurança)</li>
-        <li><strong>NBR 7208</strong> - Vidro Laminado (Segurança)</li>
+        <li>NBR 7199 - Vidro Temperado (Segurança)</li>
+        <li>NBR 7208 - Vidro Laminado (Segurança)</li>
       </ul>
 
-      <p>A GS Glass Brasil utiliza <strong>vidro certificado conforme essas normas</strong>, garantindo qualidade e segurança em todos os projetos.</p>
+      <p>A GS Glass Brasil utiliza vidro certificado conforme essas normas, garantindo qualidade e segurança em todos os projetos.</p>
 
       <h2>5. Cor: Disponibilidades e Diferenças</h2>
       
       <h3>Vidro Temperado - Cores Disponíveis</h3>
       <p>O vidro temperado é disponível principalmente em:</p>
       <ul>
-        <li><strong>Incolor (Transparente):</strong> Transparência máxima, aspecto limpo</li>
-        <li><strong>Fumê (Cinza Escuro):</strong> Reduz ofuscamento, aspecto moderno</li>
-        <li><strong>Verde Claro:</strong> Toque de cor, transparência mantida</li>
-        <li><strong>Bronze:</strong> Aspecto quente, reduz claridade</li>
+        <li>Incolor (Transparente): Transparência máxima, aspecto limpo</li>
+        <li>Fumê (Cinza Escuro): Reduz ofuscamento, aspecto moderno</li>
+        <li>Verde Claro: Toque de cor, transparência mantida</li>
+        <li>Bronze: Aspecto quente, reduz claridade</li>
       </ul>
 
-      <p><strong>Limitação:</strong> Vidro temperado tem opções de cor <strong>mais limitadas</strong> porque o processo de temperamento afeta a absorção de cor.</p>
+      <p>Limitação: Vidro temperado tem opções de cor mais limitadas porque o processo de temperamento afeta a absorção de cor.</p>
 
       <h3>Vidro Laminado - Cores Disponíveis</h3>
-      <p>O vidro laminado oferece <strong>muito mais variedade de cores</strong>:</p>
+      <p>O vidro laminado oferece muito mais variedade de cores:</p>
       <ul>
-        <li><strong>Incolor:</strong> Transparência máxima - Uso geral</li>
-        <li><strong>Verde Claro:</strong> Aspecto natural, reduz reflexo - Fachadas</li>
-        <li><strong>Verde Escuro:</strong> Aspecto sofisticado - Comercial</li>
-        <li><strong>Bronze:</strong> Quente, elegante - Residencial</li>
-        <li><strong>Cinza/Fumê:</strong> Moderno, reduz calor - Fachadas</li>
-        <li><strong>Azul:</strong> Aspecto premium - Comercial</li>
-        <li><strong>Espelhado:</strong> Reflexivo, privacidade - Fachadas</li>
+        <li>Incolor: Transparência máxima - Uso geral</li>
+        <li>Verde Claro: Aspecto natural, reduz reflexo - Fachadas</li>
+        <li>Verde Escuro: Aspecto sofisticado - Comercial</li>
+        <li>Bronze: Quente, elegante - Residencial</li>
+        <li>Cinza/Fumê: Moderno, reduz calor - Fachadas</li>
+        <li>Azul: Aspecto premium - Comercial</li>
+        <li>Espelhado: Reflexivo, privacidade - Fachadas</li>
       </ul>
 
-      <p><strong>Vantagem:</strong> Laminado oferece <strong>maior liberdade de design</strong> e cores sofisticadas.</p>
+      <p>Vantagem: Laminado oferece maior liberdade de design e cores sofisticadas.</p>
 
       <h3>Impacto da Cor no Preço</h3>
-      <p>Cores especiais (bronze, verde escuro, espelhado) aumentam o preço em <strong>10-20%</strong> comparado ao incolor.</p>
+      <p>Cores especiais (bronze, verde escuro, espelhado) aumentam o preço em 10-20% comparado ao incolor.</p>
 
       <h2>6. Preço: Qual é Mais Caro?</h2>
       
       <h3>Tabela de Preços Referenciais (São Paulo - 2026)</h3>
-      <p><strong>Vidro Temperado 8mm (m²):</strong></p>
+      <p>Vidro Temperado 8mm (m²):</p>
       <ul>
         <li>Incolor: R$ 180 - R$ 250</li>
         <li>Fumê: R$ 200 - R$ 280</li>
@@ -230,7 +230,7 @@ const blogArticles: Record<string, any> = {
         <li>Bronze: R$ 220 - R$ 300</li>
       </ul>
 
-      <p><strong>Vidro Laminado 6mm + 6mm (m²):</strong></p>
+      <p>Vidro Laminado 6mm + 6mm (m²):</p>
       <ul>
         <li>Incolor: R$ 280 - R$ 380</li>
         <li>Verde Claro: R$ 300 - R$ 400</li>
@@ -240,7 +240,7 @@ const blogArticles: Record<string, any> = {
       </ul>
 
       <h3>Análise de Custo-Benefício</h3>
-      <p><strong>Vidro Temperado:</strong></p>
+      <p>Vidro Temperado:</p>
       <ul>
         <li>Mais barato (30-40% menos)</li>
         <li>Ideal para orçamentos limitados</li>
@@ -248,7 +248,7 @@ const blogArticles: Record<string, any> = {
         <li>Menos opções de cor</li>
       </ul>
 
-      <p><strong>Vidro Laminado:</strong></p>
+      <p>Vidro Laminado:</p>
       <ul>
         <li>Melhor isolamento (acústico + térmico)</li>
         <li>Mais opções de design</li>
@@ -257,28 +257,28 @@ const blogArticles: Record<string, any> = {
       </ul>
 
       <h3>Exemplo Prático: Box de Banheiro 1,5m x 2m</h3>
-      <p><strong>Vidro Temperado Incolor:</strong></p>
+      <p>Vidro Temperado Incolor:</p>
       <ul>
         <li>Área: 3m²</li>
         <li>Custo vidro: 3m² × R$ 200 = R$ 600</li>
         <li>Instalação: R$ 400-600</li>
-        <li><strong>Total: R$ 1.000 - R$ 1.200</strong></li>
+        <li>Total: R$ 1.000 - R$ 1.200</li>
       </ul>
 
-      <p><strong>Vidro Laminado Incolor:</strong></p>
+      <p>Vidro Laminado Incolor:</p>
       <ul>
         <li>Área: 3m²</li>
         <li>Custo vidro: 3m² × R$ 330 = R$ 990</li>
         <li>Instalação: R$ 400-600</li>
-        <li><strong>Total: R$ 1.390 - R$ 1.590</strong></li>
+        <li>Total: R$ 1.390 - R$ 1.590</li>
       </ul>
 
-      <p><strong>Diferença:</strong> Laminado custa ~30% a mais, mas oferece isolamento acústico e proteção UV.</p>
+      <p>Diferença: Laminado custa ~30% a mais, mas oferece isolamento acústico e proteção UV.</p>
 
       <h2>7. Aplicações: Quando Usar Cada Um</h2>
       
       <h3>Vidro Temperado - Aplicações Ideais</h3>
-      <p><strong>Box de Banheiro</strong></p>
+      <p>Box de Banheiro</p>
       <ul>
         <li>Resistência a impacto</li>
         <li>Segurança (quebra em cubos)</li>
@@ -286,21 +286,21 @@ const blogArticles: Record<string, any> = {
         <li>Custo-benefício</li>
       </ul>
 
-      <p><strong>Portas Internas</strong></p>
+      <p>Portas Internas</p>
       <ul>
         <li>Segurança em caso de queda</li>
         <li>Transparência total</li>
         <li>Durabilidade</li>
       </ul>
 
-      <p><strong>Prateleiras e Nichos</strong></p>
+      <p>Prateleiras e Nichos</p>
       <ul>
         <li>Suporta peso</li>
         <li>Aspecto limpo</li>
         <li>Resistência</li>
       </ul>
 
-      <p><strong>Divisórias Internas</strong></p>
+      <p>Divisórias Internas</p>
       <ul>
         <li>Leveza</li>
         <li>Transparência</li>
@@ -308,28 +308,28 @@ const blogArticles: Record<string, any> = {
       </ul>
 
       <h3>Vidro Laminado - Aplicações Ideais</h3>
-      <p><strong>Fachadas e Cortinas de Vidro</strong></p>
+      <p>Fachadas e Cortinas de Vidro</p>
       <ul>
         <li>Isolamento acústico (reduz ruído de rua)</li>
         <li>Isolamento térmico (economia de energia)</li>
         <li>Segurança estrutural</li>
       </ul>
 
-      <p><strong>Sacadas e Guarda-Corpos</strong></p>
+      <p>Sacadas e Guarda-Corpos</p>
       <ul>
         <li>Mantém integridade quando quebra</li>
         <li>Evita quedas</li>
         <li>Segurança máxima</li>
       </ul>
 
-      <p><strong>Vidros de Cobertura (Pergolado)</strong></p>
+      <p>Vidros de Cobertura (Pergolado)</p>
       <ul>
         <li>Proteção contra quedas</li>
         <li>Isolamento</li>
         <li>Durabilidade</li>
       </ul>
 
-      <p><strong>Ambientes com Ruído Externo</strong></p>
+      <p>Ambientes com Ruído Externo</p>
       <ul>
         <li>Reduz ruído em até 30-40%</li>
         <li>Conforto acústico</li>
@@ -339,19 +339,19 @@ const blogArticles: Record<string, any> = {
       <h2>8. ⚠️ Cuidados Essenciais na Logística: O Caso do Vidro Laminado Trincado</h2>
       
       <h3>INFORMAÇÃO CRÍTICA: Vidro Laminado Trincado Deve Ser Descartado</h3>
-      <p>Este é um ponto <strong>extremamente importante</strong> que muitos clientes desconhecem:</p>
+      <p>Este é um ponto extremamente importante que muitos clientes desconhecem:</p>
 
       <h3>Por Que Vidro Laminado Trincado Não Pode Ser Reparado?</h3>
-      <p>Quando um vidro laminado é <strong>trincado durante o transporte ou manuseio</strong>, a película de PVB (que une as camadas) é <strong>comprometida</strong>. Isso significa:</p>
+      <p>Quando um vidro laminado é trincado durante o transporte ou manuseio, a película de PVB (que une as camadas) é comprometida. Isso significa:</p>
 
-      <p><strong>Não pode ser reparado</strong></p>
+      <p>Não pode ser reparado</p>
       <ul>
         <li>A película não pode ser "colada" novamente</li>
         <li>Não há como restaurar a integridade estrutural</li>
         <li>Qualquer tentativa de reparo é ineficaz</li>
       </ul>
 
-      <p><strong>Não é seguro usar</strong></p>
+      <p>Não é seguro usar</p>
       <ul>
         <li>Perde resistência estrutural</li>
         <li>Risco de desprendimento de vidro</li>
@@ -359,7 +359,7 @@ const blogArticles: Record<string, any> = {
         <li>Não atende normas de segurança (NBR 7208)</li>
       </ul>
 
-      <p><strong>Deve ser descartado completamente</strong></p>
+      <p>Deve ser descartado completamente</p>
       <ul>
         <li>Não pode ser reaproveitado</li>
         <li>Não pode ser laminado novamente</li>
@@ -368,27 +368,27 @@ const blogArticles: Record<string, any> = {
 
       <h3>Consequências de Usar Vidro Laminado Trincado</h3>
       <ul>
-        <li><strong>Segurança:</strong> Vidro pode se desintegrar em impacto</li>
-        <li><strong>Responsabilidade Legal:</strong> Empresa fica responsável por acidentes</li>
-        <li><strong>Garantia:</strong> Produto não tem garantia</li>
-        <li><strong>Normas:</strong> Viola NBR 7208</li>
+        <li>Segurança: Vidro pode se desintegrar em impacto</li>
+        <li>Responsabilidade Legal: Empresa fica responsável por acidentes</li>
+        <li>Garantia: Produto não tem garantia</li>
+        <li>Normas: Viola NBR 7208</li>
       </ul>
 
       <h3>Cuidados na Logística para Evitar Trincas</h3>
-      <p><strong>1. Transporte Adequado</strong></p>
+      <p>1. Transporte Adequado</p>
       <ul>
         <li>Embalagem Profissional: Vidro envolvido em plástico bolha (mínimo 5cm), caixa de papelão reforçada, separadores de espuma entre placas, etiqueta "FRÁGIL" visível</li>
         <li>Veículo Apropriado: Caminhão com suspensão suave, piso antiderrapante, amarração segura (não apertar demais), sem vibrações excessivas</li>
         <li>Rota e Velocidade: Evitar ruas com buracos, velocidade moderada (máximo 60 km/h em ruas), evitar freadas bruscas</li>
       </ul>
 
-      <p><strong>2. Armazenamento Correto</strong></p>
+      <p>2. Armazenamento Correto</p>
       <ul>
         <li>No Depósito: Vidro em posição vertical (nunca horizontal), apoiado em cavaletes de madeira, distância mínima de 10cm entre placas, proteção contra umidade, temperatura controlada (15-25°C)</li>
         <li>Proteção: Coberto com lona, longe de fontes de vibração, sem peso sobre o vidro, acesso fácil para inspeção</li>
       </ul>
 
-      <p><strong>3. Inspeção Antes da Entrega</strong></p>
+      <p>3. Inspeção Antes da Entrega</p>
       <ul>
         <li>Vidro está íntegro (sem trincas)</li>
         <li>Sem bolhas de ar na laminação</li>
@@ -398,28 +398,28 @@ const blogArticles: Record<string, any> = {
       </ul>
 
       <h3>O Que Fazer Se Vidro Laminado Chegar Trincado</h3>
-      <p><strong>Passo 1: Documentar Imediatamente</strong></p>
+      <p>Passo 1: Documentar Imediatamente</p>
       <ul>
         <li>Fotografar a trinca</li>
         <li>Anotar data e hora</li>
         <li>Guardar embalagem</li>
       </ul>
 
-      <p><strong>Passo 2: Comunicar ao Fornecedor</strong></p>
+      <p>Passo 2: Comunicar ao Fornecedor</p>
       <ul>
         <li>Enviar fotos em até 24 horas</li>
         <li>Descrever como chegou</li>
         <li>Solicitar substituição</li>
       </ul>
 
-      <p><strong>Passo 3: Não Usar o Vidro</strong></p>
+      <p>Passo 3: Não Usar o Vidro</p>
       <ul>
         <li>Nunca instale vidro trincado</li>
         <li>Não tente "aproveitar" parte dele</li>
         <li>Não tente reparar</li>
       </ul>
 
-      <p><strong>Passo 4: Descarte Correto</strong></p>
+      <p>Passo 4: Descarte Correto</p>
       <ul>
         <li>Vidro deve ser reciclado</li>
         <li>Contatar empresa de reciclagem</li>
@@ -428,35 +428,35 @@ const blogArticles: Record<string, any> = {
 
       <h2>9. Recomendações da GS Glass Brasil</h2>
       
-      <p><strong>Banheiro Residencial:</strong></p>
+      <p>Banheiro Residencial:</p>
       <ul>
         <li>Vidro Temperado 8mm Incolor</li>
         <li>Motivo: Segurança, custo-benefício, fácil limpeza</li>
         <li>Preço: R$ 1.000 - R$ 1.200</li>
       </ul>
 
-      <p><strong>Sacada Residencial:</strong></p>
+      <p>Sacada Residencial:</p>
       <ul>
         <li>Vidro Laminado 6mm + 6mm Incolor</li>
         <li>Motivo: Segurança estrutural, isolamento acústico</li>
         <li>Preço: R$ 1.500 - R$ 2.000</li>
       </ul>
 
-      <p><strong>Fachada Comercial:</strong></p>
+      <p>Fachada Comercial:</p>
       <ul>
         <li>Vidro Laminado 8mm + 8mm Verde ou Bronze</li>
         <li>Motivo: Isolamento, design, durabilidade</li>
         <li>Preço: R$ 2.500 - R$ 4.000</li>
       </ul>
 
-      <p><strong>Divisória Interna:</strong></p>
+      <p>Divisória Interna:</p>
       <ul>
         <li>Vidro Temperado 10mm Incolor ou Fumê</li>
         <li>Motivo: Transparência, segurança, leveza</li>
         <li>Preço: R$ 1.200 - R$ 1.800</li>
       </ul>
 
-      <p><strong>Pergolado/Cobertura:</strong></p>
+      <p>Pergolado/Cobertura:</p>
       <ul>
         <li>Vidro Laminado 6mm + 6mm Incolor</li>
         <li>Motivo: Segurança contra quedas, isolamento</li>
@@ -465,14 +465,14 @@ const blogArticles: Record<string, any> = {
 
       <h2>10. Perguntas Frequentes</h2>
       
-      <p><strong>P: Posso cortar vidro temperado após o temperamento?</strong></p>
-      <p><strong>R:</strong> Não. Vidro temperado <strong>não pode ser cortado após o processo de temperamento</strong>. Se precisar de dimensões específicas, o corte deve ser feito <strong>antes</strong> do temperamento. Por isso, é importante fornecer medidas precisas.</p>
+      <p>P: Posso cortar vidro temperado após o temperamento?</p>
+      <p>R: Não. Vidro temperado não pode ser cortado após o processo de temperamento. Se precisar de dimensões específicas, o corte deve ser feito antes do temperamento. Por isso, é importante fornecer medidas precisas.</p>
 
-      <p><strong>P: Vidro laminado oferece proteção contra roubo?</strong></p>
-      <p><strong>R:</strong> Sim, parcialmente. Vidro laminado é <strong>mais resistente a tentativas de arrombamento</strong> porque mantém integridade estrutural. Para máxima segurança contra roubo, recomenda-se laminado com espessura 8mm + 8mm ou com película de segurança adicional.</p>
+      <p>P: Vidro laminado oferece proteção contra roubo?</p>
+      <p>R: Sim, parcialmente. Vidro laminado é mais resistente a tentativas de arrombamento porque mantém integridade estrutural. Para máxima segurança contra roubo, recomenda-se laminado com espessura 8mm + 8mm ou com película de segurança adicional.</p>
 
-      <p><strong>P: Qual vidro é melhor para clima quente como São Paulo?</strong></p>
-      <p><strong>R:</strong> <strong>Vidro laminado é superior</strong> porque:</p>
+      <p>P: Qual vidro é melhor para clima quente como São Paulo?</p>
+      <p>R: Vidro laminado é superior porque:</p>
       <ul>
         <li>Bloqueia até 99% de raios UV</li>
         <li>Reduz calor em até 40%</li>
@@ -480,47 +480,47 @@ const blogArticles: Record<string, any> = {
         <li>Proteção contra desbotamento de móveis</li>
       </ul>
 
-      <p><strong>P: Vidro temperado pode ser reparado se trincar?</strong></p>
-      <p><strong>R:</strong> Não. Vidro temperado <strong>não pode ser reparado</strong>. Se trincar, deve ser <strong>totalmente substituído</strong>. Não há como "colar" ou restaurar vidro temperado.</p>
+      <p>P: Vidro temperado pode ser reparado se trincar?</p>
+      <p>R: Não. Vidro temperado não pode ser reparado. Se trincar, deve ser totalmente substituído. Não há como "colar" ou restaurar vidro temperado.</p>
 
-      <p><strong>P: Qual é a vida útil de cada um?</strong></p>
-      <p><strong>R:</strong></p>
+      <p>P: Qual é a vida útil de cada um?</p>
+      <p>R:</p>
       <ul>
         <li>Vidro Temperado: 20-30 anos (com manutenção)</li>
         <li>Vidro Laminado: 20-30 anos (com manutenção)</li>
       </ul>
       <p>Ambos duram décadas se mantidos corretamente.</p>
 
-      <p><strong>P: Posso misturar vidro temperado e laminado no mesmo projeto?</strong></p>
-      <p><strong>R:</strong> Sim! É comum usar:</p>
+      <p>P: Posso misturar vidro temperado e laminado no mesmo projeto?</p>
+      <p>R: Sim! É comum usar:</p>
       <ul>
         <li>Temperado em portas e divisórias internas</li>
         <li>Laminado em fachadas e sacadas</li>
       </ul>
       <p>Cada um no seu lugar ideal.</p>
 
-      <p><strong>P: O vidro laminado fica amarelado com o tempo?</strong></p>
-      <p><strong>R:</strong> Não significativamente. Vidro laminado de qualidade mantém transparência por 20+ anos. Pequenas variações de cor são normais e não afetam funcionalidade.</p>
+      <p>P: O vidro laminado fica amarelado com o tempo?</p>
+      <p>R: Não significativamente. Vidro laminado de qualidade mantém transparência por 20+ anos. Pequenas variações de cor são normais e não afetam funcionalidade.</p>
 
       <h2>11. Conclusão: Escolha Inteligente</h2>
       
-      <p>Tanto <strong>vidro temperado</strong> quanto <strong>vidro laminado</strong> são excelentes opções. A escolha correta depende de:</p>
+      <p>Tanto vidro temperado quanto vidro laminado são excelentes opções. A escolha correta depende de:</p>
 
       <ul>
-        <li><strong>Aplicação:</strong> Onde será usado?</li>
-        <li><strong>Segurança:</strong> Qual nível de proteção é necessário?</li>
-        <li><strong>Isolamento:</strong> Precisa reduzir ruído ou calor?</li>
-        <li><strong>Design:</strong> Qual cor e aspecto deseja?</li>
-        <li><strong>Orçamento:</strong> Qual é o investimento disponível?</li>
+        <li>Aplicação: Onde será usado?</li>
+        <li>Segurança: Qual nível de proteção é necessário?</li>
+        <li>Isolamento: Precisa reduzir ruído ou calor?</li>
+        <li>Design: Qual cor e aspecto deseja?</li>
+        <li>Orçamento: Qual é o investimento disponível?</li>
       </ul>
 
-      <p><strong>Resumo Executivo:</strong></p>
+      <p>Resumo Executivo:</p>
       <ul>
-        <li><strong>Vidro Temperado:</strong> Melhor para banheiros, portas, interiores. Preço mais baixo. Segurança excelente (sem cortes).</li>
-        <li><strong>Vidro Laminado:</strong> Melhor para fachadas, sacadas, isolamento. Preço mais alto. Segurança excelente (estrutural).</li>
+        <li>Vidro Temperado: Melhor para banheiros, portas, interiores. Preço mais baixo. Segurança excelente (sem cortes).</li>
+        <li>Vidro Laminado: Melhor para fachadas, sacadas, isolamento. Preço mais alto. Segurança excelente (estrutural).</li>
       </ul>
 
-      <p>A <strong>GS Glass Brasil</strong> está pronta para ajudar você a escolher o vidro ideal para seu projeto. Com mais de 20 anos de experiência, nossa equipe oferece consultoria técnica gratuita, análise de seu projeto, recomendação personalizada, orçamento transparente, instalação profissional e garantia de qualidade.</p>
+      <p>A GS Glass Brasil está pronta para ajudar você a escolher o vidro ideal para seu projeto. Com mais de 20 anos de experiência, nossa equipe oferece consultoria técnica gratuita, análise de seu projeto, recomendação personalizada, orçamento transparente, instalação profissional e garantia de qualidade.</p>
     `
   },
   'guia-box-vidro': {
@@ -544,9 +544,9 @@ const blogArticles: Record<string, any> = {
 
       <h3>Como Funciona</h3>
 
-      <p>O box sem transpasse é o modelo mais comum e tradicional. O vidro temperado é instalado <strong>sem ultrapassar a borda da banheira</strong>, criando um fechamento simples e direto. A vedação é feita com silicone na base, onde o vidro encontra a banheira.</p>
+      <p>O box sem transpasse é o modelo mais comum e tradicional. O vidro temperado é instalado sem ultrapassar a borda da banheira, criando um fechamento simples e direto. A vedação é feita com silicone na base, onde o vidro encontra a banheira.</p>
 
-<strong>Funcionamento técnico:</strong>
+Funcionamento técnico:
       <ul>
       <li>Vidro temperado 8mm é fixado com dobradiças na parede</li>
       <li>A base do vidro fica no mesmo nível da borda da banheira</li>
@@ -557,16 +557,16 @@ const blogArticles: Record<string, any> = {
       <h3>Materiais Utilizados</h3>
 
       <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (4-5x mais resistente que vidro comum)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido ou cromado (suporta peso do vidro)</li>
-      <li><strong>Vedação:</strong> Silicone de qualidade premium (resiste a mofo e umidade)</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado prata (acabamento clássico)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
+      <li>Vidro: Temperado 8mm (4-5x mais resistente que vidro comum)</li>
+      <li>Dobradiças: Aço inox polido ou cromado (suporta peso do vidro)</li>
+      <li>Vedação: Silicone de qualidade premium (resiste a mofo e umidade)</li>
+      <li>Perfil: Alumínio anodizado prata (acabamento clássico)</li>
+      <li>Película: Transparente com proteção UV</li>
 
       </ul>
       <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<strong>Ideal para:</strong>
+Ideal para:
       <ul>
       <li>Banheiros pequenos a médios (até 2m²)</li>
       <li>Banheiras padrão com altura regular</li>
@@ -575,7 +575,7 @@ const blogArticles: Record<string, any> = {
       <li>Instalação rápida (pronta entrega em 3-5 dias)</li>
 
       </ul>
-<strong>Não é ideal para:</strong>
+Não é ideal para:
       <ul>
       <li>Banheiros com vazamento frequente</li>
       <li>Banheiras muito altas</li>
@@ -585,37 +585,37 @@ const blogArticles: Record<string, any> = {
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Mais barato</strong> - Melhor custo-benefício do mercado</li>
-      <li>✅ strong>Fácil de limpar</strong> - Sem cantos complexos</li>
-      <li>✅ strong>Pronta entrega</strong> - Disponível em estoque</li>
-      <li>✅ strong>Instalação simples</strong> - Qualquer profissional consegue instalar</li>
-      <li>✅ strong>Transparência total</strong> - Amplia visualmente o banheiro</li>
-      <li>✅ strong>Durável</strong> - 15-20 anos de uso</li>
+      <li>✅ strong>Mais barato - Melhor custo-benefício do mercado</li>
+      <li>✅ strong>Fácil de limpar - Sem cantos complexos</li>
+      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
+      <li>✅ strong>Instalação simples - Qualquer profissional consegue instalar</li>
+      <li>✅ strong>Transparência total - Amplia visualmente o banheiro</li>
+      <li>✅ strong>Durável - 15-20 anos de uso</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Vazamento possível</strong> - Água pode vazar na base se o silicone envelhecer</li>
-      <li>❌ strong>Manutenção de silicone</strong> - Precisa trocar silicone a cada 5-7 anos</li>
-      <li>❌ strong>Sem privacidade visual</strong> - Vidro transparente</li>
-      <li>❌ strong>Sem isolamento acústico</strong> - Barulho do chuveiro ecoa</li>
+      <li>❌ strong>Vazamento possível - Água pode vazar na base se o silicone envelhecer</li>
+      <li>❌ strong>Manutenção de silicone - Precisa trocar silicone a cada 5-7 anos</li>
+      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
+      <li>❌ strong>Sem isolamento acústico - Barulho do chuveiro ecoa</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
 
       <p>Este é o box mais popular no Brasil. É perfeito para quem quer qualidade sem gastar muito. A chave para durabilidade é manter o silicone em bom estado. Se você limpa regularmente e troca o silicone quando necessário, este box dura 15-20 anos sem problemas.</p>
 
-<strong>Exemplo de cliente ideal:</strong> Maria, 35 anos, apartamento 70m² em São Paulo. Banheiro pequeno, orçamento limitado, quer algo funcional. Escolheu box sem transpasse com perfil prata. "Ficou perfeito, fácil de limpar e o banheiro parece maior."
+Exemplo de cliente ideal: Maria, 35 anos, apartamento 70m² em São Paulo. Banheiro pequeno, orçamento limitado, quer algo funcional. Escolheu box sem transpasse com perfil prata. "Ficou perfeito, fácil de limpar e o banheiro parece maior."
 
 
       <h2>2. BOX COM TRANSPASSE - A Solução Premium Contra Vazamentos</h2>
 
       <h3>Como Funciona</h3>
 
-      <p>O box com transpasse é uma evolução do modelo anterior. O vidro <strong>ultrapassa a borda da banheira em 5-10cm</strong>, criando um sistema de vedação muito mais eficiente. A água que escapa do vidro principal é capturada pelo transpasse e volta para a banheira.</p>
+      <p>O box com transpasse é uma evolução do modelo anterior. O vidro ultrapassa a borda da banheira em 5-10cm, criando um sistema de vedação muito mais eficiente. A água que escapa do vidro principal é capturada pelo transpasse e volta para a banheira.</p>
 
-<strong>Funcionamento técnico:</strong>
+Funcionamento técnico:
       <ul>
       <li>Vidro temperado 8mm é instalado com dobradiças</li>
       <li>Uma segunda aba de vidro (transpasse) ultrapassa a borda da banheira</li>
@@ -626,16 +626,16 @@ const blogArticles: Record<string, any> = {
       <h3>Materiais Utilizados</h3>
 
       <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm + aba de transpasse (vidro adicional)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido premium (suporta peso maior)</li>
-      <li><strong>Vedação:</strong> Silicone de qualidade superior (dupla vedação)</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
+      <li>Vidro: Temperado 8mm + aba de transpasse (vidro adicional)</li>
+      <li>Dobradiças: Aço inox polido premium (suporta peso maior)</li>
+      <li>Vedação: Silicone de qualidade superior (dupla vedação)</li>
+      <li>Perfil: Alumínio anodizado (prata, preto ou dourado)</li>
+      <li>Película: Transparente com proteção UV</li>
 
       </ul>
       <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<strong>Ideal para:</strong>
+Ideal para:
       <ul>
       <li>Banheiros com histórico de vazamento</li>
       <li>Banheiras padrão com altura variável</li>
@@ -645,7 +645,7 @@ const blogArticles: Record<string, any> = {
       <li>Investimento de longo prazo</li>
 
       </ul>
-<strong>Não é ideal para:</strong>
+Não é ideal para:
       <ul>
       <li>Orçamento muito limitado</li>
       <li>Espaços muito pequenos (transpasse ocupa espaço)</li>
@@ -654,37 +654,37 @@ const blogArticles: Record<string, any> = {
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Evita vazamentos</strong> - Transpasse redireciona água para banheira</li>
-      <li>✅ strong>Proteção do imóvel</strong> - Protege parede e apartamento de baixo</li>
-      <li>✅ strong>Mais sofisticado</strong> - Design mais elegante e profissional</li>
-      <li>✅ strong>Melhor acabamento</strong> - Vedação dupla garante durabilidade</li>
-      <li>✅ strong>Pronta entrega</strong> - Disponível em estoque</li>
-      <li>✅ strong>Durável</strong> - 15-20 anos com manutenção adequada</li>
+      <li>✅ strong>Evita vazamentos - Transpasse redireciona água para banheira</li>
+      <li>✅ strong>Proteção do imóvel - Protege parede e apartamento de baixo</li>
+      <li>✅ strong>Mais sofisticado - Design mais elegante e profissional</li>
+      <li>✅ strong>Melhor acabamento - Vedação dupla garante durabilidade</li>
+      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
+      <li>✅ strong>Durável - 15-20 anos com manutenção adequada</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Mais caro</strong> - 20-30% mais que sem transpasse</li>
-      <li>❌ strong>Instalação mais complexa</strong> - Requer profissional experiente</li>
-      <li>❌ strong>Manutenção de silicone</strong> - Duas linhas de silicone para manter</li>
-      <li>❌ strong>Sem privacidade visual</strong> - Vidro transparente</li>
+      <li>❌ strong>Mais caro - 20-30% mais que sem transpasse</li>
+      <li>❌ strong>Instalação mais complexa - Requer profissional experiente</li>
+      <li>❌ strong>Manutenção de silicone - Duas linhas de silicone para manter</li>
+      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
 
       <p>Este é o box recomendado para a maioria das pessoas. Custa um pouco mais, mas economiza muito em problemas futuros. Se você mora em apartamento ou tem histórico de vazamento, este é o modelo ideal. A vedação dupla garante que nenhuma gota de água escape.</p>
 
-<strong>Exemplo de cliente ideal:</strong> João, 42 anos, apartamento em prédio antigo. Banheiro com histórico de vazamento. Escolheu box com transpasse + perfil preto. "Resolveu completamente o problema. Nenhuma gota vaza mais."
+Exemplo de cliente ideal: João, 42 anos, apartamento em prédio antigo. Banheiro com histórico de vazamento. Escolheu box com transpasse + perfil preto. "Resolveu completamente o problema. Nenhuma gota vaza mais."
 
 
       <h2>3. BOX DE CANTO - Aproveita o Espaço Inteligentemente</h2>
 
       <h3>Como Funciona</h3>
 
-      <p>O box de canto é instalado no <strong>canto do banheiro</strong>, ocupando dois lados (parede + parede). Funciona como dois vidros que se encontram em um ângulo de 90 graus, criando uma solução compacta e moderna.</p>
+      <p>O box de canto é instalado no canto do banheiro, ocupando dois lados (parede + parede). Funciona como dois vidros que se encontram em um ângulo de 90 graus, criando uma solução compacta e moderna.</p>
 
-<strong>Funcionamento técnico:</strong>
+Funcionamento técnico:
       <ul>
       <li>Dois vidros temperados 8mm se encontram em ângulo de 90°</li>
       <li>Vedação especial no canto (perfil de alumínio em L)</li>
@@ -695,16 +695,16 @@ const blogArticles: Record<string, any> = {
       <h3>Materiais Utilizados</h3>
 
       <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (dois painéis em ângulo)</li>
-      <li><strong>Perfil de canto:</strong> Alumínio anodizado em L (reforçado)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido (suporta peso duplo)</li>
-      <li><strong>Vedação:</strong> Silicone premium duplo (canto + base)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
+      <li>Vidro: Temperado 8mm (dois painéis em ângulo)</li>
+      <li>Perfil de canto: Alumínio anodizado em L (reforçado)</li>
+      <li>Dobradiças: Aço inox polido (suporta peso duplo)</li>
+      <li>Vedação: Silicone premium duplo (canto + base)</li>
+      <li>Película: Transparente com proteção UV</li>
 
       </ul>
       <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<strong>Ideal para:</strong>
+Ideal para:
       <ul>
       <li>Banheiros pequenos (até 2m²)</li>
       <li>Banheiras de canto</li>
@@ -714,7 +714,7 @@ const blogArticles: Record<string, any> = {
       <li>Pronta entrega em estoque</li>
 
       </ul>
-<strong>Não é ideal para:</strong>
+Não é ideal para:
       <ul>
       <li>Banheiras retangulares padrão</li>
       <li>Banheiros muito pequenos (menos de 1,5m²)</li>
@@ -724,38 +724,38 @@ const blogArticles: Record<string, any> = {
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Aproveita espaço</strong> - Usa o canto que normalmente é vazio</li>
-      <li>✅ strong>Design moderno</strong> - Muito procurado em projetos contemporâneos</li>
-      <li>✅ strong>Facilita circulação</strong> - Deixa o banheiro mais aberto</li>
-      <li>✅ strong>Pronta entrega</strong> - Disponível em estoque</li>
-      <li>✅ strong>Amplia visualmente</strong> - Vidro em canto faz banheiro parecer maior</li>
-      <li>✅ strong>Instalação rápida</strong> - 1-2 dias</li>
+      <li>✅ strong>Aproveita espaço - Usa o canto que normalmente é vazio</li>
+      <li>✅ strong>Design moderno - Muito procurado em projetos contemporâneos</li>
+      <li>✅ strong>Facilita circulação - Deixa o banheiro mais aberto</li>
+      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
+      <li>✅ strong>Amplia visualmente - Vidro em canto faz banheiro parecer maior</li>
+      <li>✅ strong>Instalação rápida - 1-2 dias</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Requer banheira de canto</strong> - Não funciona com banheira retangular</li>
-      <li>❌ strong>Instalação mais complexa</strong> - Requer profissional especializado</li>
-      <li>❌ strong>Vedação em canto</strong> - Ponto crítico que precisa manutenção</li>
-      <li>❌ strong>Sem privacidade visual</strong> - Vidro transparente</li>
-      <li>❌ strong>Custo um pouco maior</strong> - Mais caro que sem transpasse</li>
+      <li>❌ strong>Requer banheira de canto - Não funciona com banheira retangular</li>
+      <li>❌ strong>Instalação mais complexa - Requer profissional especializado</li>
+      <li>❌ strong>Vedação em canto - Ponto crítico que precisa manutenção</li>
+      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
+      <li>❌ strong>Custo um pouco maior - Mais caro que sem transpasse</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
 
       <p>Este é o box ideal para banheiros pequenos. Se você tem espaço limitado e uma banheira de canto, este é o modelo perfeito. Economiza espaço, fica lindo e moderno. A chave é escolher um profissional que saiba instalar corretamente o perfil de canto.</p>
 
-<strong>Exemplo de cliente ideal:</strong> Ana, 28 anos, apartamento pequeno em São Paulo. Banheiro 1,5m x 1,5m com banheira de canto. Escolheu box de canto com perfil preto. "Transformou meu banheiro. Ficou muito maior e moderno."
+Exemplo de cliente ideal: Ana, 28 anos, apartamento pequeno em São Paulo. Banheiro 1,5m x 1,5m com banheira de canto. Escolheu box de canto com perfil preto. "Transformou meu banheiro. Ficou muito maior e moderno."
 
 
       <h2>4. BOX CORREDIÇO (DESLIZANTE) - Máxima Economia de Espaço</h2>
 
       <h3>Como Funciona</h3>
 
-      <p>O box corrediço funciona como uma <strong>porta de correr</strong>. Dois vidros temperados deslizam um sobre o outro horizontalmente. Um vidro fica fixo e o outro desliza sobre trilhos de alumínio. Ideal para espaços muito pequenos onde não há espaço para abrir portas.</p>
+      <p>O box corrediço funciona como uma porta de correr. Dois vidros temperados deslizam um sobre o outro horizontalmente. Um vidro fica fixo e o outro desliza sobre trilhos de alumínio. Ideal para espaços muito pequenos onde não há espaço para abrir portas.</p>
 
-<strong>Funcionamento técnico:</strong>
+Funcionamento técnico:
       <ul>
       <li>Dois vidros temperados 8mm (um fixo, um móvel)</li>
       <li>Trilhos de alumínio superior e inferior</li>
@@ -767,16 +767,16 @@ const blogArticles: Record<string, any> = {
       <h3>Materiais Utilizados</h3>
 
       <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (dois painéis)</li>
-      <li><strong>Trilhos:</strong> Alumínio anodizado (superior + inferior)</li>
-      <li><strong>Rodas:</strong> Nylon de alta resistência com rolamentos</li>
-      <li><strong>Vedação:</strong> Silicone premium nos trilhos</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
+      <li>Vidro: Temperado 8mm (dois painéis)</li>
+      <li>Trilhos: Alumínio anodizado (superior + inferior)</li>
+      <li>Rodas: Nylon de alta resistência com rolamentos</li>
+      <li>Vedação: Silicone premium nos trilhos</li>
+      <li>Perfil: Alumínio anodizado (prata, preto ou dourado)</li>
 
       </ul>
       <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<strong>Ideal para:</strong>
+Ideal para:
       <ul>
       <li>Banheiros muito pequenos (menos de 1,5m²)</li>
       <li>Espaço limitado para abrir portas</li>
@@ -786,7 +786,7 @@ const blogArticles: Record<string, any> = {
       <li>Pronta entrega em estoque</li>
 
       </ul>
-<strong>Não é ideal para:</strong>
+Não é ideal para:
       <ul>
       <li>Banheiros com espaço adequado (melhor usar dobradiça)</li>
       <li>Quem não quer manutenção de trilhos</li>
@@ -796,38 +796,38 @@ const blogArticles: Record<string, any> = {
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Economiza espaço</strong> - Não precisa de espaço para abrir</li>
-      <li>✅ strong>Design moderno</strong> - Muito procurado em projetos minimalistas</li>
-      <li>✅ strong>Fácil de limpar</strong> - Sem dobradiças complexas</li>
-      <li>✅ strong>Pronta entrega</strong> - Disponível em estoque</li>
-      <li>✅ strong>Abertura suave</strong> - Rodas de qualidade garantem deslizamento perfeito</li>
-      <li>✅ strong>Muito procurado</strong> - Diferencial real no mercado</li>
+      <li>✅ strong>Economiza espaço - Não precisa de espaço para abrir</li>
+      <li>✅ strong>Design moderno - Muito procurado em projetos minimalistas</li>
+      <li>✅ strong>Fácil de limpar - Sem dobradiças complexas</li>
+      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
+      <li>✅ strong>Abertura suave - Rodas de qualidade garantem deslizamento perfeito</li>
+      <li>✅ strong>Muito procurado - Diferencial real no mercado</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Mais caro</strong> - 40-50% mais que sem transpasse</li>
-      <li>❌ strong>Manutenção de trilhos</strong> - Precisa limpar trilhos regularmente</li>
-      <li>❌ strong>Pode acumular sujeira</strong> - Trilhos inferior pode acumular água</li>
-      <li>❌ strong>Sem privacidade visual</strong> - Vidro transparente</li>
-      <li>❌ strong>Requer profissional especializado</strong> - Instalação mais complexa</li>
+      <li>❌ strong>Mais caro - 40-50% mais que sem transpasse</li>
+      <li>❌ strong>Manutenção de trilhos - Precisa limpar trilhos regularmente</li>
+      <li>❌ strong>Pode acumular sujeira - Trilhos inferior pode acumular água</li>
+      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
+      <li>❌ strong>Requer profissional especializado - Instalação mais complexa</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
 
       <p>Este é o box ideal para apartamentos muito pequenos. Economiza espaço real e fica muito moderno. A chave é manter os trilhos limpos. Se você limpar os trilhos uma vez por mês, não terá problemas. Muito procurado em projetos de arquitetura contemporânea.</p>
 
-<strong>Exemplo de cliente ideal:</strong> Lucas, 32 anos, apartamento pequeno em São Paulo (45m²). Banheiro 1,2m x 1,8m. Escolheu box corrediço com perfil preto. "Perfeito para meu espaço. Ficou moderno e economiza muito espaço."
+Exemplo de cliente ideal: Lucas, 32 anos, apartamento pequeno em São Paulo (45m²). Banheiro 1,2m x 1,8m. Escolheu box corrediço com perfil preto. "Perfeito para meu espaço. Ficou moderno e economiza muito espaço."
 
 
       <h2>5. BOX COM DOBRADIÇA (PIVOTANTE) - O Clássico Elegante</h2>
 
       <h3>Como Funciona</h3>
 
-      <p>O box com dobradiça é o modelo clássico e elegante. Um vidro temperado é fixado com dobradiças na parede, funcionando como uma <strong>porta que abre e fecha</strong>. As dobradiças permitem abertura de até 180°, facilitando muito a limpeza e o acesso.</p>
+      <p>O box com dobradiça é o modelo clássico e elegante. Um vidro temperado é fixado com dobradiças na parede, funcionando como uma porta que abre e fecha. As dobradiças permitem abertura de até 180°, facilitando muito a limpeza e o acesso.</p>
 
-<strong>Funcionamento técnico:</strong>
+Funcionamento técnico:
       <ul>
       <li>Vidro temperado 8mm é fixado com dobradiças na parede</li>
       <li>Dobradiças de aço inox suportam todo o peso do vidro</li>
@@ -839,17 +839,17 @@ const blogArticles: Record<string, any> = {
       <h3>Materiais Utilizados</h3>
 
       <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (espessura padrão)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido ou cromado (2-3 dobradiças)</li>
-      <li><strong>Vedação:</strong> Silicone de qualidade premium</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
-      <li><strong>Amortecedor:</strong> Opcional (fecha suavemente)</li>
+      <li>Vidro: Temperado 8mm (espessura padrão)</li>
+      <li>Dobradiças: Aço inox polido ou cromado (2-3 dobradiças)</li>
+      <li>Vedação: Silicone de qualidade premium</li>
+      <li>Perfil: Alumínio anodizado (prata, preto ou dourado)</li>
+      <li>Película: Transparente com proteção UV</li>
+      <li>Amortecedor: Opcional (fecha suavemente)</li>
 
       </ul>
       <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<strong>Ideal para:</strong>
+Ideal para:
       <ul>
       <li>Banheiros médios a grandes (acima de 2m²)</li>
       <li>Espaço adequado para abrir portas</li>
@@ -859,7 +859,7 @@ const blogArticles: Record<string, any> = {
       <li>Quem quer durabilidade máxima</li>
 
       </ul>
-<strong>Não é ideal para:</strong>
+Não é ideal para:
       <ul>
       <li>Banheiros muito pequenos (menos de 1,5m²)</li>
       <li>Espaço limitado para abrir portas</li>
@@ -869,37 +869,37 @@ const blogArticles: Record<string, any> = {
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Fácil de limpar</strong> - Abre 180°, acesso total</li>
-      <li>✅ strong>Design clássico</strong> - Elegante e sofisticado</li>
-      <li>✅ strong>Durável</strong> - Dobradiças de qualidade duram 20+ anos</li>
-      <li>✅ strong>Pronta entrega</strong> - Disponível em estoque</li>
-      <li>✅ strong>Abertura suave</strong> - Amortecedor opcional</li>
-      <li>✅ strong>Manutenção simples</strong> - Apenas lubrificar dobradiças anualmente</li>
+      <li>✅ strong>Fácil de limpar - Abre 180°, acesso total</li>
+      <li>✅ strong>Design clássico - Elegante e sofisticado</li>
+      <li>✅ strong>Durável - Dobradiças de qualidade duram 20+ anos</li>
+      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
+      <li>✅ strong>Abertura suave - Amortecedor opcional</li>
+      <li>✅ strong>Manutenção simples - Apenas lubrificar dobradiças anualmente</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Precisa de espaço</strong> - Requer espaço para abrir a porta</li>
-      <li>❌ strong>Sem privacidade visual</strong> - Vidro transparente</li>
-      <li>❌ strong>Manutenção de dobradiças</strong> - Precisa lubrificar anualmente</li>
-      <li>❌ strong>Sem isolamento acústico</strong> - Barulho do chuveiro ecoa</li>
+      <li>❌ strong>Precisa de espaço - Requer espaço para abrir a porta</li>
+      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
+      <li>❌ strong>Manutenção de dobradiças - Precisa lubrificar anualmente</li>
+      <li>❌ strong>Sem isolamento acústico - Barulho do chuveiro ecoa</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
 
       <p>Este é o box mais popular mundialmente. É clássico, elegante, durável e fácil de limpar. Se você tem espaço adequado no banheiro, este é o modelo recomendado. As dobradiças de qualidade duram 20+ anos sem problemas. Muito procurado em banheiros de luxo e hotéis.</p>
 
-<strong>Exemplo de cliente ideal:</strong> Pedro, 50 anos, casa em condomínio fechado. Banheiro 3m x 2,5m. Escolheu box com dobradiça + perfil dourado. "Ficou elegante e sofisticado. Muito fácil de limpar. Recomendo para todos."
+Exemplo de cliente ideal: Pedro, 50 anos, casa em condomínio fechado. Banheiro 3m x 2,5m. Escolheu box com dobradiça + perfil dourado. "Ficou elegante e sofisticado. Muito fácil de limpar. Recomendo para todos."
 
 
       <h2>6. BOX ATÉ O TETO - Máxima Privacidade e Sofisticação</h2>
 
       <h3>Como Funciona</h3>
 
-      <p>O box até o teto é a <strong>solução premium</strong> para máxima privacidade. O vidro temperado vai do piso até o teto, criando um fechamento total do chuveiro. Funciona como uma cabine de chuveiro fechada, oferecendo privacidade máxima e evitando completamente vazamentos.</p>
+      <p>O box até o teto é a solução premium para máxima privacidade. O vidro temperado vai do piso até o teto, criando um fechamento total do chuveiro. Funciona como uma cabine de chuveiro fechada, oferecendo privacidade máxima e evitando completamente vazamentos.</p>
 
-<strong>Funcionamento técnico:</strong>
+Funcionamento técnico:
       <ul>
       <li>Vidro temperado 8mm vai do piso até o teto (altura 2,40-2,80m)</li>
       <li>Dobradiças reforçadas suportam vidro de altura total</li>
@@ -911,17 +911,17 @@ const blogArticles: Record<string, any> = {
       <h3>Materiais Utilizados</h3>
 
       <ul>
-      <li><strong>Vidro:</strong> Temperado 8mm (painéis de altura total)</li>
-      <li><strong>Dobradiças:</strong> Aço inox polido reforçado (suporta peso maior)</li>
-      <li><strong>Vedação:</strong> Silicone premium duplo (base + topo)</li>
-      <li><strong>Perfil:</strong> Alumínio anodizado reforçado (prata, preto, dourado ou aço inox)</li>
-      <li><strong>Película:</strong> Transparente com proteção UV</li>
-      <li><strong>Estrutura:</strong> Reforço de alumínio na altura total</li>
+      <li>Vidro: Temperado 8mm (painéis de altura total)</li>
+      <li>Dobradiças: Aço inox polido reforçado (suporta peso maior)</li>
+      <li>Vedação: Silicone premium duplo (base + topo)</li>
+      <li>Perfil: Alumínio anodizado reforçado (prata, preto, dourado ou aço inox)</li>
+      <li>Película: Transparente com proteção UV</li>
+      <li>Estrutura: Reforço de alumínio na altura total</li>
 
       </ul>
       <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<strong>Ideal para:</strong>
+Ideal para:
       <ul>
       <li>Banheiros grandes com pé-direito alto (acima de 2,40m)</li>
       <li>Quem quer máxima privacidade</li>
@@ -931,7 +931,7 @@ const blogArticles: Record<string, any> = {
       <li>Investimento de longo prazo</li>
 
       </ul>
-<strong>Não é ideal para:</strong>
+Não é ideal para:
       <ul>
       <li>Banheiros com pé-direito baixo (menos de 2,40m)</li>
       <li>Orçamento limitado</li>
@@ -942,123 +942,123 @@ const blogArticles: Record<string, any> = {
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Máxima privacidade</strong> - Fechamento total</li>
-      <li>✅ strong>Zero vazamentos</strong> - Vedação dupla garante proteção total</li>
-      <li>✅ strong>Design sofisticado</strong> - Muito procurado em projetos premium</li>
-      <li>✅ strong>Aumenta valor do imóvel</strong> - Diferencial real</li>
-      <li>✅ strong>Durável</strong> - 20+ anos com manutenção adequada</li>
-      <li>✅ strong>Isolamento acústico</strong> - Reduz ruído do chuveiro</li>
+      <li>✅ strong>Máxima privacidade - Fechamento total</li>
+      <li>✅ strong>Zero vazamentos - Vedação dupla garante proteção total</li>
+      <li>✅ strong>Design sofisticado - Muito procurado em projetos premium</li>
+      <li>✅ strong>Aumenta valor do imóvel - Diferencial real</li>
+      <li>✅ strong>Durável - 20+ anos com manutenção adequada</li>
+      <li>✅ strong>Isolamento acústico - Reduz ruído do chuveiro</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Muito caro</strong> - 80-120% mais que sem transpasse</li>
-      <li>❌ strong>Instalação complexa</strong> - Requer profissional especializado</li>
-      <li>❌ strong>Requer pé-direito alto</strong> - Mínimo 2,40m</li>
-      <li>❌ strong>Manutenção especial</strong> - Vedação dupla requer cuidado</li>
-      <li>❌ strong>Estrutura reforçada</strong> - Mais peso na parede</li>
+      <li>❌ strong>Muito caro - 80-120% mais que sem transpasse</li>
+      <li>❌ strong>Instalação complexa - Requer profissional especializado</li>
+      <li>❌ strong>Requer pé-direito alto - Mínimo 2,40m</li>
+      <li>❌ strong>Manutenção especial - Vedação dupla requer cuidado</li>
+      <li>❌ strong>Estrutura reforçada - Mais peso na parede</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
 
       <p>Este é o box de luxo. Ideal para quem quer o melhor. Oferece privacidade máxima, zero vazamentos e design sofisticado. Muito procurado em casarões, casas de luxo e projetos de arquitetura premium. Se você tem espaço e orçamento, este é o modelo recomendado.</p>
 
-<strong>Exemplo de cliente ideal:</strong> Fernanda, 45 anos, casa de luxo em Alphaville. Banheiro 4m x 3m com pé-direito de 2,80m. Escolheu box até o teto + perfil dourado + película jateada. "Transformou meu banheiro em um spa. Ficou absolutamente perfeito."
+Exemplo de cliente ideal: Fernanda, 45 anos, casa de luxo em Alphaville. Banheiro 4m x 3m com pé-direito de 2,80m. Escolheu box até o teto + perfil dourado + película jateada. "Transformou meu banheiro em um spa. Ficou absolutamente perfeito."
 
 
       <h2>COMPARAÇÃO ENTRE OS 6 TIPOS DE BOX</h2>
 
       <p>| Tipo | Preço | Espaço | Privacidade | Vazamento | Manutenção | Ideal Para |</p>
       <p>|------|-------|--------|-------------|-----------|-----------|-----------|</p>
-      <p>| <strong>Sem Transpasse</strong> | Base | Médio | Nenhuma | Possível | Baixa | Orçamento limitado |</p>
-      <p>| <strong>Com Transpasse</strong> | +20-30% | Médio | Nenhuma | Improvável | Média | Proteção contra água |</p>
-      <p>| <strong>Canto</strong> | +15-25% | Pequeno | Nenhuma | Improvável | Média | Banheiro pequeno |</p>
-      <p>| <strong>Corrediço</strong> | +40-50% | Muito pequeno | Nenhuma | Improvável | Alta | Espaço muito limitado |</p>
-      <p>| <strong>Dobradiça</strong> | +10-15% | Médio | Nenhuma | Improvável | Baixa | Uso geral (recomendado) |</p>
-      <p>| <strong>Até o Teto</strong> | +80-120% | Grande | Máxima | Zero | Alta | Luxo/Premium |</p>
+      <p>| Sem Transpasse | Base | Médio | Nenhuma | Possível | Baixa | Orçamento limitado |</p>
+      <p>| Com Transpasse | +20-30% | Médio | Nenhuma | Improvável | Média | Proteção contra água |</p>
+      <p>| Canto | +15-25% | Pequeno | Nenhuma | Improvável | Média | Banheiro pequeno |</p>
+      <p>| Corrediço | +40-50% | Muito pequeno | Nenhuma | Improvável | Alta | Espaço muito limitado |</p>
+      <p>| Dobradiça | +10-15% | Médio | Nenhuma | Improvável | Baixa | Uso geral (recomendado) |</p>
+      <p>| Até o Teto | +80-120% | Grande | Máxima | Zero | Alta | Luxo/Premium |</p>
 
 
       <h2>COMO ESCOLHER O MELHOR BOX PARA SEU BANHEIRO</h2>
 
       <h3>Passo 1: Avalie o Tamanho do Seu Banheiro</h3>
 
-<strong>Banheiro muito pequeno (menos de 1,5m²)?</strong>
-      <p>→ Escolha: <strong>Box Corrediço</strong> (economiza espaço máximo)</p>
+Banheiro muito pequeno (menos de 1,5m²)?
+      <p>→ Escolha: Box Corrediço (economiza espaço máximo)</p>
 
-<strong>Banheiro pequeno (1,5m a 2m²)?</strong>
-      <p>→ Escolha: <strong>Box de Canto</strong> ou <strong>Box Corrediço</strong> (aproveita espaço)</p>
+Banheiro pequeno (1,5m a 2m²)?
+      <p>→ Escolha: Box de Canto ou Box Corrediço (aproveita espaço)</p>
 
-<strong>Banheiro médio (2m a 3m²)?</strong>
-      <p>→ Escolha: <strong>Box Sem Transpasse</strong> ou <strong>Box Com Transpasse</strong> (clássico)</p>
+Banheiro médio (2m a 3m²)?
+      <p>→ Escolha: Box Sem Transpasse ou Box Com Transpasse (clássico)</p>
 
-<strong>Banheiro grande (acima de 3m²)?</strong>
-      <p>→ Escolha: <strong>Box Com Dobradiça</strong> ou <strong>Box Até o Teto</strong> (elegante)</p>
+Banheiro grande (acima de 3m²)?
+      <p>→ Escolha: Box Com Dobradiça ou Box Até o Teto (elegante)</p>
 
       <h3>Passo 2: Considere Seu Orçamento</h3>
 
-<strong>Orçamento limitado?</strong>
-      <p>→ Escolha: <strong>Box Sem Transpasse</strong> (melhor custo-benefício)</p>
+Orçamento limitado?
+      <p>→ Escolha: Box Sem Transpasse (melhor custo-benefício)</p>
 
-<strong>Orçamento médio?</strong>
-      <p>→ Escolha: <strong>Box Com Transpasse</strong> ou <strong>Box Com Dobradiça</strong> (recomendado)</p>
+Orçamento médio?
+      <p>→ Escolha: Box Com Transpasse ou Box Com Dobradiça (recomendado)</p>
 
-<strong>Orçamento premium?</strong>
-      <p>→ Escolha: <strong>Box Até o Teto</strong> (luxo máximo)</p>
+Orçamento premium?
+      <p>→ Escolha: Box Até o Teto (luxo máximo)</p>
 
       <h3>Passo 3: Pense em Funcionalidade</h3>
 
-<strong>Quer máxima privacidade?</strong>
-      <p>→ Escolha: <strong>Box Até o Teto</strong> (fechamento total)</p>
+Quer máxima privacidade?
+      <p>→ Escolha: Box Até o Teto (fechamento total)</p>
 
-<strong>Quer evitar vazamentos?</strong>
-      <p>→ Escolha: <strong>Box Com Transpasse</strong> ou <strong>Box Até o Teto</strong></p>
+Quer evitar vazamentos?
+      <p>→ Escolha: Box Com Transpasse ou Box Até o Teto</p>
 
-<strong>Quer fácil limpeza?</strong>
-      <p>→ Escolha: <strong>Box Com Dobradiça</strong> (abre 180°)</p>
+Quer fácil limpeza?
+      <p>→ Escolha: Box Com Dobradiça (abre 180°)</p>
 
-<strong>Quer economizar espaço?</strong>
-      <p>→ Escolha: <strong>Box Corrediço</strong> ou <strong>Box de Canto</strong></p>
+Quer economizar espaço?
+      <p>→ Escolha: Box Corrediço ou Box de Canto</p>
 
       <h3>Passo 4: Verifique Disponibilidade</h3>
 
-<strong>Precisa rápido (3-5 dias)?</strong>
-      <p>→ Escolha: <strong>Modelo em Estoque</strong> (qualquer um com perfil prata)</p>
+Precisa rápido (3-5 dias)?
+      <p>→ Escolha: Modelo em Estoque (qualquer um com perfil prata)</p>
 
-<strong>Pode esperar (10-15 dias)?</strong>
-      <p>→ Escolha: <strong>Modelo Customizado</strong> (cores especiais, tamanhos)</p>
+Pode esperar (10-15 dias)?
+      <p>→ Escolha: Modelo Customizado (cores especiais, tamanhos)</p>
 
 
       <h2>CONCLUSÃO</h2>
 
       <p>Cada tipo de box tem sua função específica. A escolha correta depende do tamanho do seu banheiro, seu orçamento e suas prioridades. </p>
 
-<strong>Nossa recomendação:</strong> Para a maioria das pessoas, o <strong>Box Com Transpasse</strong> é o melhor custo-benefício. Oferece proteção contra vazamentos, é durável, fácil de manter e tem preço justo.
+Nossa recomendação: Para a maioria das pessoas, o Box Com Transpasse é o melhor custo-benefício. Oferece proteção contra vazamentos, é durável, fácil de manter e tem preço justo.
 
-<strong>Na GS Glass Brasil</strong>, oferecemos todos os 6 tipos de box com qualidade garantida, materiais premium e pronta entrega para modelos padrão.
+Na GS Glass Brasil, oferecemos todos os 6 tipos de box com qualidade garantida, materiais premium e pronta entrega para modelos padrão.
 
 
       <h2>📞 Solicite Sua Consultoria Técnica Gratuita Agora!</h2>
 
       <p>Não sabe qual box escolher? Nossa equipe de especialistas pode ajudar!</p>
 
-<strong>🔗 WhatsApp:</strong> [Clique aqui para conversar](https://wa.me/5511934275767)
+🔗 WhatsApp: [Clique aqui para conversar](https://wa.me/5511934275767)
 
-<strong>📧 Email:</strong> orcamento.gsglass@gmail.com
+📧 Email: orcamento.gsglass@gmail.com
 
-<strong>☎️ Telefone:</strong> (11) 93427-5767
+☎️ Telefone: (11) 93427-5767
 
-<strong>⏰ Horário:</strong> Segunda a sexta, 8h às 18h
+⏰ Horário: Segunda a sexta, 8h às 18h
 
       <h3>Próximos Passos:</h3>
 
-      <p>1. <strong>Envie as dimensões do seu banheiro</strong> (altura, largura, profundidade)</p>
-      <p>2. <strong>Descreva o tipo de box que prefere</strong> (sem transpasse, transpasse, canto, corrediço, dobradiça, até teto)</p>
-      <p>3. <strong>Mencione suas prioridades</strong> (preço, privacidade, espaço, durabilidade)</p>
-      <p>4. <strong>Receba recomendação personalizada em 24h</strong></p>
-      <p>5. <strong>Agende a consultoria técnica</strong> (gratuita e sem compromisso)</p>
+      <p>1. Envie as dimensões do seu banheiro (altura, largura, profundidade)</p>
+      <p>2. Descreva o tipo de box que prefere (sem transpasse, transpasse, canto, corrediço, dobradiça, até teto)</p>
+      <p>3. Mencione suas prioridades (preço, privacidade, espaço, durabilidade)</p>
+      <p>4. Receba recomendação personalizada em 24h</p>
+      <p>5. Agende a consultoria técnica (gratuita e sem compromisso)</p>
 
-<strong>Sua renovação começa aqui!</strong> 🚀
+Sua renovação começa aqui! 🚀
 
     `
   }
