@@ -965,16 +965,16 @@ Não é ideal para:
 
 
 
-      <h2>COMPARAÇÃO ENTRE OS 6 TIPOS DE BOX</h2>
+      <h2>Comparação Rápida dos 6 Tipos</h2>
 
-      <p>| Tipo | Preço | Espaço | Privacidade | Vazamento | Manutenção | Ideal Para |</p>
-      <p>|------|-------|--------|-------------|-----------|-----------|-----------|</p>
-      <p>| Sem Transpasse | Base | Médio | Nenhuma | Possível | Baixa | Orçamento limitado |</p>
-      <p>| Com Transpasse | +20-30% | Médio | Nenhuma | Improvável | Média | Proteção contra água |</p>
-      <p>| Canto | +15-25% | Pequeno | Nenhuma | Improvável | Média | Banheiro pequeno |</p>
-      <p>| Corrediço | +40-50% | Muito pequeno | Nenhuma | Improvável | Alta | Espaço muito limitado |</p>
-      <p>| Dobradiça | +10-15% | Médio | Nenhuma | Improvável | Baixa | Uso geral (recomendado) |</p>
-      <p>| Até o Teto | +80-120% | Grande | Máxima | Zero | Alta | Luxo/Premium |</p>
+      <ul>
+      <li>Sem Transpasse: Melhor custo-benefício, ideal para orçamento limitado</li>
+      <li>Com Transpasse: Proteção contra vazamentos, recomendado para apartamentos</li>
+      <li>Canto: Aproveita espaço, perfeito para banheiros pequenos</li>
+      <li>Corrediço: Máxima economia de espaço, design moderno</li>
+      <li>Dobradiça: Clássico elegante, fácil de limpar, uso geral</li>
+      <li>Até o Teto: Luxo premium, máxima privacidade</li>
+      </ul>
 
 
       <h2>COMO ESCOLHER O MELHOR BOX PARA SEU BANHEIRO</h2>
