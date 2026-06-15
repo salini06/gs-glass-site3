@@ -546,7 +546,7 @@ const blogArticles: Record<string, any> = {
 
 <p>O box sem transpasse é o modelo mais comum e tradicional que a gente faz aqui. É bem simples: o vidro temperado é instalado sem ultrapassar a borda do box, criando um fechamento direto. A vedação é feita com silicone na base, onde o vidro encontra o box.</p>
 
-<p>**Funcionamento técnico:**</p>
+<p><strong>Funcionamento técnico:</strong></p>
 <ul>
 <li>Vidro temperado 8mm fixado com dobradiças na parede</li>
 <li>A base do vidro fica no mesmo nível da borda do box</li>
@@ -557,16 +557,16 @@ const blogArticles: Record<string, any> = {
 <h3>Materiais Utilizados</h3>
 
 <ul>
-<li>**Vidro:** Temperado 8mm (4-5x mais resistente que vidro comum)</li>
-<li>**Dobradiças:** Aço inox polido ou cromado (suporta o peso do vidro)</li>
-<li>**Vedação:** Silicone de qualidade (resiste a mofo e umidade)</li>
-<li>**Perfil:** Alumínio anodizado prata (acabamento clássico)</li>
-<li>**Película:** Transparente com proteção UV</li>
+<li><strong>Vidro:</strong> Temperado 8mm (4-5x mais resistente que vidro comum)</li>
+<li><strong>Dobradiças:</strong> Aço inox polido ou cromado (suporta o peso do vidro)</li>
+<li><strong>Vedação:</strong> Silicone de qualidade (resiste a mofo e umidade)</li>
+<li><strong>Perfil:</strong> Alumínio anodizado prata (acabamento clássico)</li>
+<li><strong>Película:</strong> Transparente com proteção UV</li>
 
 </ul>
 <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<p>**Ideal para:**</p>
+<p><strong>Ideal para:</strong></p>
 <ul>
 <li>Banheiros pequenos a médios (até 2m²)</li>
 <li>Box padrão com altura regular</li>
@@ -575,7 +575,7 @@ const blogArticles: Record<string, any> = {
 <li>Instalação rápida (a gente tem pronta entrega em 3-5 dias)</li>
 
 </ul>
-<p>**Não é ideal para:**</p>
+<p><strong>Não é ideal para:</strong></p>
 <ul>
 <li>Banheiros com vazamento frequente</li>
 <li>Box muito altos</li>
@@ -585,28 +585,28 @@ const blogArticles: Record<string, any> = {
 <h3>Vantagens</h3>
 
 <ul>
-<li>✅ **Mais barato** - Melhor custo-benefício do mercado</li>
-<li>✅ **Fácil de limpar** - Sem cantos complexos</li>
-<li>✅ **Pronta entrega** - A gente tem em estoque</li>
-<li>✅ **Instalação simples** - Qualquer profissional consegue instalar</li>
-<li>✅ **Transparência total** - Amplia visualmente o banheiro</li>
-<li>✅ **Durável** - 15-20 anos de uso</li>
+<li>✅ <strong>Mais barato</strong> - Melhor custo-benefício do mercado</li>
+<li>✅ <strong>Fácil de limpar</strong> - Sem cantos complexos</li>
+<li>✅ <strong>Pronta entrega</strong> - A gente tem em estoque</li>
+<li>✅ <strong>Instalação simples</strong> - Qualquer profissional consegue instalar</li>
+<li>✅ <strong>Transparência total</strong> - Amplia visualmente o banheiro</li>
+<li>✅ <strong>Durável</strong> - 15-20 anos de uso</li>
 
 </ul>
 <h3>Desvantagens</h3>
 
 <ul>
-<li>❌ **Vazamento possível** - Água pode vazar na base se o silicone envelhecer</li>
-<li>❌ **Manutenção de silicone** - Precisa trocar silicone a cada 5-7 anos</li>
-<li>❌ **Sem privacidade visual** - Vidro transparente</li>
-<li>❌ **Sem isolamento acústico** - Barulho do chuveiro ecoa</li>
+<li>❌ <strong>Vazamento possível</strong> - Água pode vazar na base se o silicone envelhecer</li>
+<li>❌ <strong>Manutenção de silicone</strong> - Precisa trocar silicone a cada 5-7 anos</li>
+<li>❌ <strong>Sem privacidade visual</strong> - Vidro transparente</li>
+<li>❌ <strong>Sem isolamento acústico</strong> - Barulho do chuveiro ecoa</li>
 
 </ul>
 <h3>Comentários e Recomendações</h3>
 
 <p>Este é o box mais popular que a gente vende. É perfeito para quem quer qualidade sem gastar muito. A chave para durabilidade é manter o silicone em bom estado. Se você limpa regularmente e troca o silicone quando necessário, este box dura 15-20 anos sem problemas.</p>
 
-<p>**Exemplo de cliente:** Maria, 35 anos, apartamento 70m² em São Paulo. Banheiro pequeno, orçamento limitado, queria algo funcional. Escolheu box sem transpasse com perfil prata. "Ficou perfeito, fácil de limpar e o banheiro parece maior."</p>
+<p><strong>Exemplo de cliente:</strong> Maria, 35 anos, apartamento 70m² em São Paulo. Banheiro pequeno, orçamento limitado, queria algo funcional. Escolheu box sem transpasse com perfil prata. "Ficou perfeito, fácil de limpar e o banheiro parece maior."</p>
 
 ---
 
@@ -616,7 +616,7 @@ const blogArticles: Record<string, any> = {
 
 <p>O box com transpasse é uma evolução do modelo anterior. O vidro ultrapassa a borda do box em 5-10cm, criando um sistema de vedação muito mais eficiente. A água que escapa do vidro principal é capturada pelo transpasse e volta para o box.</p>
 
-<p>**Funcionamento técnico:**</p>
+<p><strong>Funcionamento técnico:</strong></p>
 <ul>
 <li>Vidro temperado 8mm instalado com dobradiças</li>
 <li>Uma segunda aba de vidro (transpasse) ultrapassa a borda do box</li>
@@ -627,16 +627,16 @@ const blogArticles: Record<string, any> = {
 <h3>Materiais Utilizados</h3>
 
 <ul>
-<li>**Vidro:** Temperado 8mm + aba de transpasse (vidro adicional)</li>
-<li>**Dobradiças:** Aço inox polido (suporta peso maior)</li>
-<li>**Vedação:** Silicone de qualidade superior (dupla vedação)</li>
-<li>**Perfil:** Alumínio anodizado (prata, preto ou dourado)</li>
-<li>**Película:** Transparente com proteção UV</li>
+<li><strong>Vidro:</strong> Temperado 8mm + aba de transpasse (vidro adicional)</li>
+<li><strong>Dobradiças:</strong> Aço inox polido (suporta peso maior)</li>
+<li><strong>Vedação:</strong> Silicone de qualidade superior (dupla vedação)</li>
+<li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
+<li><strong>Película:</strong> Transparente com proteção UV</li>
 
 </ul>
 <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<p>**Ideal para:**</p>
+<p><strong>Ideal para:</strong></p>
 <ul>
 <li>Banheiros com histórico de vazamento</li>
 <li>Box com altura variável</li>
@@ -646,7 +646,7 @@ const blogArticles: Record<string, any> = {
 <li>Investimento de longo prazo</li>
 
 </ul>
-<p>**Não é ideal para:**</p>
+<p><strong>Não é ideal para:</strong></p>
 <ul>
 <li>Orçamento muito limitado</li>
 <li>Espaços muito pequenos (transpasse ocupa espaço)</li>
@@ -655,27 +655,27 @@ const blogArticles: Record<string, any> = {
 <h3>Vantagens</h3>
 
 <ul>
-<li>✅ **Proteção máxima contra vazamento** - A água não escapa</li>
-<li>✅ **Vedação dupla** - Muito mais seguro</li>
-<li>✅ **Design sofisticado** - Parece mais</li>
-<li>✅ **Durabilidade estendida** - 20-25 anos</li>
-<li>✅ **Protege vizinhos** - Em apartamentos, é muito importante</li>
-<li>✅ **Pronta entrega** - A gente tem em estoque</li>
+<li>✅ <strong>Proteção máxima contra vazamento</strong> - A água não escapa</li>
+<li>✅ <strong>Vedação dupla</strong> - Muito mais seguro</li>
+<li>✅ <strong>Design sofisticado</strong> - Parece mais</li>
+<li>✅ <strong>Durabilidade estendida</strong> - 20-25 anos</li>
+<li>✅ <strong>Protege vizinhos</strong> - Em apartamentos, é muito importante</li>
+<li>✅ <strong>Pronta entrega</strong> - A gente tem em estoque</li>
 
 </ul>
 <h3>Desvantagens</h3>
 
 <ul>
-<li>❌ **Mais caro** - Custa mais que o modelo sem transpasse</li>
-<li>❌ **Ocupa mais espaço** - O transpasse reduz espaço útil</li>
-<li>❌ **Limpeza um pouco mais complexa** - Mais áreas para limpar</li>
+<li>❌ <strong>Mais caro</strong> - Custa mais que o modelo sem transpasse</li>
+<li>❌ <strong>Ocupa mais espaço</strong> - O transpasse reduz espaço útil</li>
+<li>❌ <strong>Limpeza um pouco mais complexa</strong> - Mais áreas para limpar</li>
 
 </ul>
 <h3>Comentários e Recomendações</h3>
 
 <p>Este é o box que a gente recomenda para apartamentos e para quem já teve problema de vazamento. É um investimento que vale a pena. A gente já viu muitos casos onde o transpasse salvou a vida do cliente, evitando infiltração no apartamento de baixo.</p>
 
-<p>**Exemplo de cliente:** João, 42 anos, apartamento em condomínio. Teve problema de vazamento no box anterior. Escolheu box com transpasse preto. "Desde que instalou, nunca mais tive problema. Deu paz de espírito."</p>
+<p><strong>Exemplo de cliente:</strong> João, 42 anos, apartamento em condomínio. Teve problema de vazamento no box anterior. Escolheu box com transpasse preto. "Desde que instalou, nunca mais tive problema. Deu paz de espírito."</p>
 
 ---
 
@@ -685,7 +685,7 @@ const blogArticles: Record<string, any> = {
 
 <p>O box de canto é instalado no canto do banheiro, aproveitando o espaço de forma inteligente. Usa duas paredes como suporte, o que o torna muito estável. É ideal para banheiros pequenos onde cada centímetro conta.</p>
 
-<p>**Funcionamento técnico:**</p>
+<p><strong>Funcionamento técnico:</strong></p>
 <ul>
 <li>Vidro temperado 8mm em formato de L</li>
 <li>Fixado em duas paredes perpendiculares</li>
@@ -696,16 +696,16 @@ const blogArticles: Record<string, any> = {
 <h3>Materiais Utilizados</h3>
 
 <ul>
-<li>**Vidro:** Temperado 8mm em formato de L</li>
-<li>**Dobradiças:** Aço inox especial para canto (suporta peso distribuído)</li>
-<li>**Vedação:** Silicone em duas paredes</li>
-<li>**Perfil:** Alumínio anodizado (prata, preto ou dourado)</li>
-<li>**Película:** Transparente com proteção UV</li>
+<li><strong>Vidro:</strong> Temperado 8mm em formato de L</li>
+<li><strong>Dobradiças:</strong> Aço inox especial para canto (suporta peso distribuído)</li>
+<li><strong>Vedação:</strong> Silicone em duas paredes</li>
+<li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
+<li><strong>Película:</strong> Transparente com proteção UV</li>
 
 </ul>
 <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<p>**Ideal para:**</p>
+<p><strong>Ideal para:</strong></p>
 <ul>
 <li>Banheiros pequenos (até 1,5m²)</li>
 <li>Espaços em L ou cantos disponíveis</li>
@@ -713,7 +713,7 @@ const blogArticles: Record<string, any> = {
 <li>Instalação em cantos de apartamentos</li>
 
 </ul>
-<p>**Não é ideal para:**</p>
+<p><strong>Não é ideal para:</strong></p>
 <ul>
 <li>Banheiros muito grandes</li>
 <li>Quem quer máxima abertura</li>
@@ -722,17 +722,17 @@ const blogArticles: Record<string, any> = {
 <h3>Vantagens</h3>
 
 <ul>
-<li>✅ **Aproveita espaço** - Usa o canto inteligentemente</li>
-<li>✅ **Muito estável** - Fixado em duas paredes</li>
-<li>✅ **Pronta entrega** - A gente tem em estoque</li>
-<li>✅ **Preço justo** - Não é mais caro que o padrão</li>
+<li>✅ <strong>Aproveita espaço</strong> - Usa o canto inteligentemente</li>
+<li>✅ <strong>Muito estável</strong> - Fixado em duas paredes</li>
+<li>✅ <strong>Pronta entrega</strong> - A gente tem em estoque</li>
+<li>✅ <strong>Preço justo</strong> - Não é mais caro que o padrão</li>
 
 </ul>
 <h3>Desvantagens</h3>
 
 <ul>
-<li>❌ **Instalação específica** - Precisa de profissional experiente</li>
-<li>❌ **Menos flexível** - Não pode ser movido facilmente</li>
+<li>❌ <strong>Instalação específica</strong> - Precisa de profissional experiente</li>
+<li>❌ <strong>Menos flexível</strong> - Não pode ser movido facilmente</li>
 
 </ul>
 <h3>Comentários e Recomendações</h3>
@@ -747,7 +747,7 @@ const blogArticles: Record<string, any> = {
 
 <p>O box corrediço tem vidros que deslizam um sobre o outro, como uma porta de guarda-roupa. Não precisa de espaço para abrir, o que o torna ideal para banheiros muito pequenos ou com espaço limitado.</p>
 
-<p>**Funcionamento técnico:**</p>
+<p><strong>Funcionamento técnico:</strong></p>
 <ul>
 <li>Vidro temperado 8mm em trilhos</li>
 <li>Desliza horizontalmente</li>
@@ -758,16 +758,16 @@ const blogArticles: Record<string, any> = {
 <h3>Materiais Utilizados</h3>
 
 <ul>
-<li>**Vidro:** Temperado 8mm em trilhos</li>
-<li>**Trilhos:** Alumínio anodizado com roletes de aço</li>
-<li>**Vedação:** Silicone na base</li>
-<li>**Perfil:** Alumínio anodizado (prata, preto ou dourado)</li>
-<li>**Película:** Transparente com proteção UV</li>
+<li><strong>Vidro:</strong> Temperado 8mm em trilhos</li>
+<li><strong>Trilhos:</strong> Alumínio anodizado com roletes de aço</li>
+<li><strong>Vedação:</strong> Silicone na base</li>
+<li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
+<li><strong>Película:</strong> Transparente com proteção UV</li>
 
 </ul>
 <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<p>**Ideal para:**</p>
+<p><strong>Ideal para:</strong></p>
 <ul>
 <li>Banheiros muito pequenos (até 1m²)</li>
 <li>Espaços sem espaço para abrir porta</li>
@@ -775,7 +775,7 @@ const blogArticles: Record<string, any> = {
 <li>Banheiros em kitchenettes</li>
 
 </ul>
-<p>**Não é ideal para:**</p>
+<p><strong>Não é ideal para:</strong></p>
 <ul>
 <li>Quem quer facilidade de limpeza</li>
 <li>Banheiros com muito movimento de pessoas</li>
@@ -784,18 +784,18 @@ const blogArticles: Record<string, any> = {
 <h3>Vantagens</h3>
 
 <ul>
-<li>✅ **Máxima economia de espaço** - Não precisa de espaço para abrir</li>
-<li>✅ **Design moderno** - Parece muito sofisticado</li>
-<li>✅ **Pronta entrega** - A gente tem em estoque</li>
-<li>✅ **Fácil de usar** - Desliza suavemente</li>
+<li>✅ <strong>Máxima economia de espaço</strong> - Não precisa de espaço para abrir</li>
+<li>✅ <strong>Design moderno</strong> - Parece muito sofisticado</li>
+<li>✅ <strong>Pronta entrega</strong> - A gente tem em estoque</li>
+<li>✅ <strong>Fácil de usar</strong> - Desliza suavemente</li>
 
 </ul>
 <h3>Desvantagens</h3>
 
 <ul>
-<li>❌ **Limpeza mais complexa** - Trilhos precisam de limpeza regular</li>
-<li>❌ **Manutenção dos trilhos** - Pode precisar de ajustes</li>
-<li>❌ **Vazamento possível** - Se os trilhos não forem bem mantidos</li>
+<li>❌ <strong>Limpeza mais complexa</strong> - Trilhos precisam de limpeza regular</li>
+<li>❌ <strong>Manutenção dos trilhos</strong> - Pode precisar de ajustes</li>
+<li>❌ <strong>Vazamento possível</strong> - Se os trilhos não forem bem mantidos</li>
 
 </ul>
 <h3>Comentários e Recomendações</h3>
@@ -810,7 +810,7 @@ const blogArticles: Record<string, any> = {
 
 <p>O box com dobradiça é o modelo mais tradicional e elegante. O vidro abre como uma porta, com dobradiças na parede. É o modelo que a gente mais vê em casarões e apartamentos antigos.</p>
 
-<p>**Funcionamento técnico:**</p>
+<p><strong>Funcionamento técnico:</strong></p>
 <ul>
 <li>Vidro temperado 8mm com dobradiças</li>
 <li>Abre como uma porta tradicional</li>
@@ -821,16 +821,16 @@ const blogArticles: Record<string, any> = {
 <h3>Materiais Utilizados</h3>
 
 <ul>
-<li>**Vidro:** Temperado 8mm</li>
-<li>**Dobradiças:** Aço inox polido ou cromado (acabamento clássico)</li>
-<li>**Vedação:** Silicone</li>
-<li>**Perfil:** Alumínio anodizado (prata, preto ou dourado)</li>
-<li>**Película:** Transparente com proteção UV</li>
+<li><strong>Vidro:</strong> Temperado 8mm</li>
+<li><strong>Dobradiças:</strong> Aço inox polido ou cromado (acabamento clássico)</li>
+<li><strong>Vedação:</strong> Silicone</li>
+<li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
+<li><strong>Película:</strong> Transparente com proteção UV</li>
 
 </ul>
 <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<p>**Ideal para:**</p>
+<p><strong>Ideal para:</strong></p>
 <ul>
 <li>Banheiros médios a grandes</li>
 <li>Quem quer design clássico e elegante</li>
@@ -838,7 +838,7 @@ const blogArticles: Record<string, any> = {
 <li>Casarões e apartamentos antigos</li>
 
 </ul>
-<p>**Não é ideal para:**</p>
+<p><strong>Não é ideal para:</strong></p>
 <ul>
 <li>Banheiros muito pequenos</li>
 <li>Espaços com pouco espaço para abrir</li>
@@ -847,18 +847,18 @@ const blogArticles: Record<string, any> = {
 <h3>Vantagens</h3>
 
 <ul>
-<li>✅ **Design elegante** - Parece muito sofisticado</li>
-<li>✅ **Fácil de limpar** - Abre totalmente</li>
-<li>✅ **Muito durável** - 20-25 anos</li>
-<li>✅ **Pronta entrega** - A gente tem em estoque</li>
+<li>✅ <strong>Design elegante</strong> - Parece muito sofisticado</li>
+<li>✅ <strong>Fácil de limpar</strong> - Abre totalmente</li>
+<li>✅ <strong>Muito durável</strong> - 20-25 anos</li>
+<li>✅ <strong>Pronta entrega</strong> - A gente tem em estoque</li>
 
 </ul>
 <h3>Desvantagens</h3>
 
 <ul>
-<li>❌ **Precisa de espaço** - Para abrir a porta</li>
-<li>❌ **Mais caro** - Dobradiças de qualidade custam mais</li>
-<li>❌ **Vazamento possível** - Se o silicone envelhecer</li>
+<li>❌ <strong>Precisa de espaço</strong> - Para abrir a porta</li>
+<li>❌ <strong>Mais caro</strong> - Dobradiças de qualidade custam mais</li>
+<li>❌ <strong>Vazamento possível</strong> - Se o silicone envelhecer</li>
 
 </ul>
 <h3>Comentários e Recomendações</h3>
@@ -873,7 +873,7 @@ const blogArticles: Record<string, any> = {
 
 <p>O box até o teto é instalado do chão até o teto do banheiro, criando um fechamento total. É o modelo mais e oferece máxima privacidade e isolamento.</p>
 
-<p>**Funcionamento técnico:**</p>
+<p><strong>Funcionamento técnico:</strong></p>
 <ul>
 <li>Vidro temperado 8mm do chão ao teto</li>
 <li>Fixação em parede + teto</li>
@@ -884,16 +884,16 @@ const blogArticles: Record<string, any> = {
 <h3>Materiais Utilizados</h3>
 
 <ul>
-<li>**Vidro:** Temperado 8mm (maior quantidade de vidro)</li>
-<li>**Dobradiças:** Aço inox (suporta peso maior)</li>
-<li>**Vedação:** Silicone em todas as junções</li>
-<li>**Perfil:** Alumínio anodizado (prata, preto ou dourado)</li>
-<li>**Película:** Transparente com proteção UV</li>
+<li><strong>Vidro:</strong> Temperado 8mm (maior quantidade de vidro)</li>
+<li><strong>Dobradiças:</strong> Aço inox (suporta peso maior)</li>
+<li><strong>Vedação:</strong> Silicone em todas as junções</li>
+<li><strong>Perfil:</strong> Alumínio anodizado (prata, preto ou dourado)</li>
+<li><strong>Película:</strong> Transparente com proteção UV</li>
 
 </ul>
 <h3>Por Que Serve Para Seu Banheiro</h3>
 
-<p>**Ideal para:**</p>
+<p><strong>Ideal para:</strong></p>
 <ul>
 <li>Banheiros grandes e modernos</li>
 <li>Quem quer máxima privacidade</li>
@@ -901,7 +901,7 @@ const blogArticles: Record<string, any> = {
 <li>Quem quer isolamento acústico total</li>
 
 </ul>
-<p>**Não é ideal para:**</p>
+<p><strong>Não é ideal para:</strong></p>
 <ul>
 <li>Banheiros pequenos</li>
 <li>Orçamento limitado</li>
@@ -910,19 +910,19 @@ const blogArticles: Record<string, any> = {
 <h3>Vantagens</h3>
 
 <ul>
-<li>✅ **Máxima privacidade** - Fechamento total</li>
-<li>✅ **Isolamento acústico** - Barulho não escapa</li>
-<li>✅ **Design muito sofisticado** - Parece muito</li>
-<li>✅ **Durável** - 20-25 anos</li>
-<li>✅ **Pronta entrega** - A gente tem em estoque</li>
+<li>✅ <strong>Máxima privacidade</strong> - Fechamento total</li>
+<li>✅ <strong>Isolamento acústico</strong> - Barulho não escapa</li>
+<li>✅ <strong>Design muito sofisticado</strong> - Parece muito</li>
+<li>✅ <strong>Durável</strong> - 20-25 anos</li>
+<li>✅ <strong>Pronta entrega</strong> - A gente tem em estoque</li>
 
 </ul>
 <h3>Desvantagens</h3>
 
 <ul>
-<li>❌ **Muito caro** - É o modelo mais</li>
-<li>❌ **Instalação complexa** - Precisa de profissional experiente</li>
-<li>❌ **Limpeza do teto** - Mais áreas para limpar</li>
+<li>❌ <strong>Muito caro</strong> - É o modelo mais</li>
+<li>❌ <strong>Instalação complexa</strong> - Precisa de profissional experiente</li>
+<li>❌ <strong>Limpeza do teto</strong> - Mais áreas para limpar</li>
 
 </ul>
 <h3>Comentários e Recomendações</h3>
@@ -937,30 +937,30 @@ const blogArticles: Record<string, any> = {
 
 <h3>1. Prata (Base)</h3>
 <ul>
-<li>**Preço:** Base (referência)</li>
-<li>**Acabamento:** Clássico, neutro</li>
-<li>**Recomendação:** Para banheiros tradicionais</li>
+<li><strong>Preço:</strong> Base (referência)</li>
+<li><strong>Acabamento:</strong> Clássico, neutro</li>
+<li><strong>Recomendação:</strong> Para banheiros tradicionais</li>
 
 </ul>
 <h3>2. Preto</h3>
 <ul>
-<li>**Preço:** +15-20% da prata</li>
-<li>**Acabamento:** Moderno, sofisticado</li>
-<li>**Recomendação:** Para banheiros modernos e minimalistas</li>
+<li><strong>Preço:</strong> +15-20% da prata</li>
+<li><strong>Acabamento:</strong> Moderno, sofisticado</li>
+<li><strong>Recomendação:</strong> Para banheiros modernos e minimalistas</li>
 
 </ul>
 <h3>3. Dourado</h3>
 <ul>
-<li>**Preço:** +25-35% da prata</li>
-<li>**Acabamento:** Premium, elegante</li>
-<li>**Recomendação:** Para banheiros de luxo</li>
+<li><strong>Preço:</strong> +25-35% da prata</li>
+<li><strong>Acabamento:</strong> Premium, elegante</li>
+<li><strong>Recomendação:</strong> Para banheiros de luxo</li>
 
 </ul>
 <h3>4. Aço Inox</h3>
 <ul>
-<li>**Preço:** +40-50% da prata</li>
-<li>**Acabamento:** Ultra, industrial</li>
-<li>**Recomendação:** Para banheiros de altíssimo padrão</li>
+<li><strong>Preço:</strong> +40-50% da prata</li>
+<li><strong>Acabamento:</strong> Ultra, industrial</li>
+<li><strong>Recomendação:</strong> Para banheiros de altíssimo padrão</li>
 
 </ul>
 <p>---</p>
@@ -1071,25 +1071,25 @@ const blogArticles: Record<string, any> = {
 <h2>Dúvidas Frequentes</h2>
 
 <h3>P: Qual box é mais barato?</h3>
-<p>**R:** O box sem transpasse com perfil prata é o mais barato. Mas se você quer qualidade e durabilidade, o box com transpasse é melhor investimento.</p>
+<p><strong>R:</strong> O box sem transpasse com perfil prata é o mais barato. Mas se você quer qualidade e durabilidade, o box com transpasse é melhor investimento.</p>
 
 <h3>P: Qual box dura mais tempo?</h3>
-<p>**R:** O box com dobradiça e o box até o teto duram 20-25 anos. Os outros duram 15-20 anos.</p>
+<p><strong>R:</strong> O box com dobradiça e o box até o teto duram 20-25 anos. Os outros duram 15-20 anos.</p>
 
 <h3>P: Qual box é mais fácil de limpar?</h3>
-<p>**R:** O box sem transpasse e o box com dobradiça são os mais fáceis de limpar.</p>
+<p><strong>R:</strong> O box sem transpasse e o box com dobradiça são os mais fáceis de limpar.</p>
 
 <h3>P: Qual box é melhor para apartamentos?</h3>
-<p>**R:** O box com transpasse é melhor para apartamentos porque protege o vizinho de baixo contra vazamentos.</p>
+<p><strong>R:</strong> O box com transpasse é melhor para apartamentos porque protege o vizinho de baixo contra vazamentos.</p>
 
 <h3>P: Qual cor de alumínio é mais bonita?</h3>
-<p>**R:** Depende do seu gosto. Preto é moderno, dourado é elegante, prata é clássico, aço inox é ultra.</p>
+<p><strong>R:</strong> Depende do seu gosto. Preto é moderno, dourado é elegante, prata é clássico, aço inox é ultra.</p>
 
 <h3>P: Quanto tempo leva para instalar?</h3>
-<p>**R:** Normalmente 1-2 dias. A gente tem pronta entrega para a maioria dos modelos.</p>
+<p><strong>R:</strong> Normalmente 1-2 dias. A gente tem pronta entrega para a maioria dos modelos.</p>
 
 <h3>P: Qual é a garantia?</h3>
-<p>**R:** A gente oferece garantia de qualidade em todos os produtos. O vidro temperado é garantido contra defeitos de fabricação.</p>
+<p><strong>R:</strong> A gente oferece garantia de qualidade em todos os produtos. O vidro temperado é garantido contra defeitos de fabricação.</p>
 
 ---
 
@@ -1099,12 +1099,12 @@ const blogArticles: Record<string, any> = {
 
 <p>Se você tiver dúvidas, é só entrar em contato pelo WhatsApp ou telefone. A gente faz orçamento GRATUITO e sem compromisso.</p>
 
-<p>**Solicite seu orçamento agora:**</p>
+<p><strong>Solicite seu orçamento agora:</strong></p>
 <p>📱 WhatsApp: [SEU NÚMERO]</p>
 <p>📞 Telefone: [SEU TELEFONE]</p>
 <p>🌐 www.gsglassbrasil.com.br</p>
 
-<p>**Transforme seu banheiro com a GS Glass Brasil!** 🏠✨</p>
+<p><strong>Transforme seu banheiro com a GS Glass Brasil!</strong> 🏠✨</p>
 
     `
   }
