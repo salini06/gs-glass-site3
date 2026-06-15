@@ -525,7 +525,6 @@ const blogArticles: Record<string, any> = {
   },
   'guia-box-vidro': {
     title: 'Como Escolher o Melhor Box para o Seu Banheiro: Tipos, Modelos e Cores de Alumínio',
-    metaDescription: 'Guia completo para escolher box de vidro. Tipos de abertura (corrediço, dobradiça, canto, até teto), modelos (transparente, película jateada), cores de alumínio (prata, preto, dourado, aço inox) e pronta entrega.',
     date: '2026-06-14',
     author: 'GS Glass Brasil',
     category: 'Box de Vidro',
@@ -585,21 +584,21 @@ Não é ideal para:
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Mais barato - Melhor custo-benefício do mercado</li>
-      <li>✅ strong>Fácil de limpar - Sem cantos complexos</li>
-      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
-      <li>✅ strong>Instalação simples - Qualquer profissional consegue instalar</li>
-      <li>✅ strong>Transparência total - Amplia visualmente o banheiro</li>
-      <li>✅ strong>Durável - 15-20 anos de uso</li>
+      <li>✅Mais barato - Melhor custo-benefício do mercado</li>
+      <li>✅Fácil de limpar - Sem cantos complexos</li>
+      <li>✅Pronta entrega - Disponível em estoque</li>
+      <li>✅Instalação simples - Qualquer profissional consegue instalar</li>
+      <li>✅Transparência total - Amplia visualmente o banheiro</li>
+      <li>✅Durável - 15-20 anos de uso</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Vazamento possível - Água pode vazar na base se o silicone envelhecer</li>
-      <li>❌ strong>Manutenção de silicone - Precisa trocar silicone a cada 5-7 anos</li>
-      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
-      <li>❌ strong>Sem isolamento acústico - Barulho do chuveiro ecoa</li>
+      <li>❌Vazamento possível - Água pode vazar na base se o silicone envelhecer</li>
+      <li>❌Manutenção de silicone - Precisa trocar silicone a cada 5-7 anos</li>
+      <li>❌Sem privacidade visual - Vidro transparente</li>
+      <li>❌Sem isolamento acústico - Barulho do chuveiro ecoa</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
@@ -654,21 +653,21 @@ Não é ideal para:
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Evita vazamentos - Transpasse redireciona água para banheira</li>
-      <li>✅ strong>Proteção do imóvel - Protege parede e apartamento de baixo</li>
-      <li>✅ strong>Mais sofisticado - Design mais elegante e profissional</li>
-      <li>✅ strong>Melhor acabamento - Vedação dupla garante durabilidade</li>
-      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
-      <li>✅ strong>Durável - 15-20 anos com manutenção adequada</li>
+      <li>✅Evita vazamentos - Transpasse redireciona água para banheira</li>
+      <li>✅Proteção do imóvel - Protege parede e apartamento de baixo</li>
+      <li>✅Mais sofisticado - Design mais elegante e profissional</li>
+      <li>✅Melhor acabamento - Vedação dupla garante durabilidade</li>
+      <li>✅Pronta entrega - Disponível em estoque</li>
+      <li>✅Durável - 15-20 anos com manutenção adequada</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Mais caro - 20-30% mais que sem transpasse</li>
-      <li>❌ strong>Instalação mais complexa - Requer profissional experiente</li>
-      <li>❌ strong>Manutenção de silicone - Duas linhas de silicone para manter</li>
-      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
+      <li>❌Mais caro - 20-30% mais que sem transpasse</li>
+      <li>❌Instalação mais complexa - Requer profissional experiente</li>
+      <li>❌Manutenção de silicone - Duas linhas de silicone para manter</li>
+      <li>❌Sem privacidade visual - Vidro transparente</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
@@ -724,22 +723,22 @@ Não é ideal para:
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Aproveita espaço - Usa o canto que normalmente é vazio</li>
-      <li>✅ strong>Design moderno - Muito procurado em projetos contemporâneos</li>
-      <li>✅ strong>Facilita circulação - Deixa o banheiro mais aberto</li>
-      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
-      <li>✅ strong>Amplia visualmente - Vidro em canto faz banheiro parecer maior</li>
-      <li>✅ strong>Instalação rápida - 1-2 dias</li>
+      <li>✅Aproveita espaço - Usa o canto que normalmente é vazio</li>
+      <li>✅Design moderno - Muito procurado em projetos contemporâneos</li>
+      <li>✅Facilita circulação - Deixa o banheiro mais aberto</li>
+      <li>✅Pronta entrega - Disponível em estoque</li>
+      <li>✅Amplia visualmente - Vidro em canto faz banheiro parecer maior</li>
+      <li>✅Instalação rápida - 1-2 dias</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Requer banheira de canto - Não funciona com banheira retangular</li>
-      <li>❌ strong>Instalação mais complexa - Requer profissional especializado</li>
-      <li>❌ strong>Vedação em canto - Ponto crítico que precisa manutenção</li>
-      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
-      <li>❌ strong>Custo um pouco maior - Mais caro que sem transpasse</li>
+      <li>❌Requer banheira de canto - Não funciona com banheira retangular</li>
+      <li>❌Instalação mais complexa - Requer profissional especializado</li>
+      <li>❌Vedação em canto - Ponto crítico que precisa manutenção</li>
+      <li>❌Sem privacidade visual - Vidro transparente</li>
+      <li>❌Custo um pouco maior - Mais caro que sem transpasse</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
@@ -796,22 +795,22 @@ Não é ideal para:
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Economiza espaço - Não precisa de espaço para abrir</li>
-      <li>✅ strong>Design moderno - Muito procurado em projetos minimalistas</li>
-      <li>✅ strong>Fácil de limpar - Sem dobradiças complexas</li>
-      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
-      <li>✅ strong>Abertura suave - Rodas de qualidade garantem deslizamento perfeito</li>
-      <li>✅ strong>Muito procurado - Diferencial real no mercado</li>
+      <li>✅Economiza espaço - Não precisa de espaço para abrir</li>
+      <li>✅Design moderno - Muito procurado em projetos minimalistas</li>
+      <li>✅Fácil de limpar - Sem dobradiças complexas</li>
+      <li>✅Pronta entrega - Disponível em estoque</li>
+      <li>✅Abertura suave - Rodas de qualidade garantem deslizamento perfeito</li>
+      <li>✅Muito procurado - Diferencial real no mercado</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Mais caro - 40-50% mais que sem transpasse</li>
-      <li>❌ strong>Manutenção de trilhos - Precisa limpar trilhos regularmente</li>
-      <li>❌ strong>Pode acumular sujeira - Trilhos inferior pode acumular água</li>
-      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
-      <li>❌ strong>Requer profissional especializado - Instalação mais complexa</li>
+      <li>❌Mais caro - 40-50% mais que sem transpasse</li>
+      <li>❌Manutenção de trilhos - Precisa limpar trilhos regularmente</li>
+      <li>❌Pode acumular sujeira - Trilhos inferior pode acumular água</li>
+      <li>❌Sem privacidade visual - Vidro transparente</li>
+      <li>❌Requer profissional especializado - Instalação mais complexa</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
@@ -869,21 +868,21 @@ Não é ideal para:
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Fácil de limpar - Abre 180°, acesso total</li>
-      <li>✅ strong>Design clássico - Elegante e sofisticado</li>
-      <li>✅ strong>Durável - Dobradiças de qualidade duram 20+ anos</li>
-      <li>✅ strong>Pronta entrega - Disponível em estoque</li>
-      <li>✅ strong>Abertura suave - Amortecedor opcional</li>
-      <li>✅ strong>Manutenção simples - Apenas lubrificar dobradiças anualmente</li>
+      <li>✅Fácil de limpar - Abre 180°, acesso total</li>
+      <li>✅Design clássico - Elegante e sofisticado</li>
+      <li>✅Durável - Dobradiças de qualidade duram 20+ anos</li>
+      <li>✅Pronta entrega - Disponível em estoque</li>
+      <li>✅Abertura suave - Amortecedor opcional</li>
+      <li>✅Manutenção simples - Apenas lubrificar dobradiças anualmente</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Precisa de espaço - Requer espaço para abrir a porta</li>
-      <li>❌ strong>Sem privacidade visual - Vidro transparente</li>
-      <li>❌ strong>Manutenção de dobradiças - Precisa lubrificar anualmente</li>
-      <li>❌ strong>Sem isolamento acústico - Barulho do chuveiro ecoa</li>
+      <li>❌Precisa de espaço - Requer espaço para abrir a porta</li>
+      <li>❌Sem privacidade visual - Vidro transparente</li>
+      <li>❌Manutenção de dobradiças - Precisa lubrificar anualmente</li>
+      <li>❌Sem isolamento acústico - Barulho do chuveiro ecoa</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
@@ -942,29 +941,28 @@ Não é ideal para:
       <h3>Vantagens</h3>
 
       <ul>
-      <li>✅ strong>Máxima privacidade - Fechamento total</li>
-      <li>✅ strong>Zero vazamentos - Vedação dupla garante proteção total</li>
-      <li>✅ strong>Design sofisticado - Muito procurado em projetos premium</li>
-      <li>✅ strong>Aumenta valor do imóvel - Diferencial real</li>
-      <li>✅ strong>Durável - 20+ anos com manutenção adequada</li>
-      <li>✅ strong>Isolamento acústico - Reduz ruído do chuveiro</li>
+      <li>✅Máxima privacidade - Fechamento total</li>
+      <li>✅Zero vazamentos - Vedação dupla garante proteção total</li>
+      <li>✅Design sofisticado - Muito procurado em projetos premium</li>
+      <li>✅Aumenta valor do imóvel - Diferencial real</li>
+      <li>✅Durável - 20+ anos com manutenção adequada</li>
+      <li>✅Isolamento acústico - Reduz ruído do chuveiro</li>
 
       </ul>
       <h3>Desvantagens</h3>
 
       <ul>
-      <li>❌ strong>Muito caro - 80-120% mais que sem transpasse</li>
-      <li>❌ strong>Instalação complexa - Requer profissional especializado</li>
-      <li>❌ strong>Requer pé-direito alto - Mínimo 2,40m</li>
-      <li>❌ strong>Manutenção especial - Vedação dupla requer cuidado</li>
-      <li>❌ strong>Estrutura reforçada - Mais peso na parede</li>
+      <li>❌Muito caro - 80-120% mais que sem transpasse</li>
+      <li>❌Instalação complexa - Requer profissional especializado</li>
+      <li>❌Requer pé-direito alto - Mínimo 2,40m</li>
+      <li>❌Manutenção especial - Vedação dupla requer cuidado</li>
+      <li>❌Estrutura reforçada - Mais peso na parede</li>
 
       </ul>
       <h3>Comentários e Recomendações</h3>
 
       <p>Este é o box de luxo. Ideal para quem quer o melhor. Oferece privacidade máxima, zero vazamentos e design sofisticado. Muito procurado em casarões, casas de luxo e projetos de arquitetura premium. Se você tem espaço e orçamento, este é o modelo recomendado.</p>
 
-Exemplo de cliente ideal: Fernanda, 45 anos, casa de luxo em Alphaville. Banheiro 4m x 3m com pé-direito de 2,80m. Escolheu box até o teto + perfil dourado + película jateada. "Transformou meu banheiro em um spa. Ficou absolutamente perfeito."
 
 
       <h2>COMPARAÇÃO ENTRE OS 6 TIPOS DE BOX</h2>
