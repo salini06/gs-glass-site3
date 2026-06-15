@@ -22,7 +22,7 @@ const portfolioItems: PortfolioItem[] = [
     id: 'res-03',
     title: 'Esquadrias Elegantes',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-03-esquadrias-premium-9w3Y4DPbvW3XankzrYaB8e.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/porta-esquadria-1-8rLf7dwkeNUHrYtbvERqnX.webp',
     description: 'Esquadrias de alumínio com vidro de alto desempenho'
   },
   {
