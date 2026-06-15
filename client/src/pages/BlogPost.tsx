@@ -426,43 +426,6 @@ const blogArticles: Record<string, any> = {
         <li>Manter documentação</li>
       </ul>
 
-      <h2>9. Recomendações da GS Glass Brasil</h2>
-      
-      <p>Banheiro Residencial:</p>
-      <ul>
-        <li>Vidro Temperado 8mm Incolor</li>
-        <li>Motivo: Segurança, custo-benefício, fácil limpeza</li>
-        <li>Preço: R$ 1.000 - R$ 1.200</li>
-      </ul>
-
-      <p>Sacada Residencial:</p>
-      <ul>
-        <li>Vidro Laminado 6mm + 6mm Incolor</li>
-        <li>Motivo: Segurança estrutural, isolamento acústico</li>
-        <li>Preço: R$ 1.500 - R$ 2.000</li>
-      </ul>
-
-      <p>Fachada Comercial:</p>
-      <ul>
-        <li>Vidro Laminado 8mm + 8mm Verde ou Bronze</li>
-        <li>Motivo: Isolamento, design, durabilidade</li>
-        <li>Preço: R$ 2.500 - R$ 4.000</li>
-      </ul>
-
-      <p>Divisória Interna:</p>
-      <ul>
-        <li>Vidro Temperado 10mm Incolor ou Fumê</li>
-        <li>Motivo: Transparência, segurança, leveza</li>
-        <li>Preço: R$ 1.200 - R$ 1.800</li>
-      </ul>
-
-      <p>Pergolado/Cobertura:</p>
-      <ul>
-        <li>Vidro Laminado 6mm + 6mm Incolor</li>
-        <li>Motivo: Segurança contra quedas, isolamento</li>
-        <li>Preço: R$ 1.800 - R$ 2.500</li>
-      </ul>
-
       <h2>10. Perguntas Frequentes</h2>
       
       <p>P: Posso cortar vidro temperado após o temperamento?</p>
@@ -511,16 +474,16 @@ const blogArticles: Record<string, any> = {
         <li>Segurança: Qual nível de proteção é necessário?</li>
         <li>Isolamento: Precisa reduzir ruído ou calor?</li>
         <li>Design: Qual cor e aspecto deseja?</li>
-        <li>Orçamento: Qual é o investimento disponível?</li>
+        
       </ul>
 
       <p>Resumo Executivo:</p>
       <ul>
-        <li>Vidro Temperado: Melhor para banheiros, portas, interiores. Preço mais baixo. Segurança excelente (sem cortes).</li>
-        <li>Vidro Laminado: Melhor para fachadas, sacadas, isolamento. Preço mais alto. Segurança excelente (estrutural).</li>
+        <li>Vidro Temperado: Melhor para banheiros, portas, interiores. Segurança excelente (sem cortes).</li>
+        <li>Vidro Laminado: Melhor para fachadas, sacadas, isolamento. Segurança excelente (estrutural).</li>
       </ul>
 
-      <p>A GS Glass Brasil está pronta para ajudar você a escolher o vidro ideal para seu projeto. Com mais de 20 anos de experiência, nossa equipe oferece consultoria técnica gratuita, análise de seu projeto, recomendação personalizada, orçamento transparente, instalação profissional e garantia de qualidade.</p>
+      <p>A GS Glass Brasil está pronta para ajudar você a escolher o vidro ideal para seu projeto. Com mais de 20 anos de experiência, nossa equipe oferece consultoria técnica gratuita, análise de seu projeto, recomendação personalizada, instalação profissional e garantia de qualidade.</p>
     `
   },
   'guia-box-vidro': {
