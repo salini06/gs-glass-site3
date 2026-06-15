@@ -529,7 +529,7 @@ const blogArticles: Record<string, any> = {
     date: '2026-06-14',
     author: 'GS Glass Brasil',
     category: 'Box de Vidro',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/vidro-temperado-vs-laminado-comparacao-26Cdjuc9NpqJko25m3NyqC.webp',
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/box-vidro-realista-artigo-4vjacHKRvGFWYqCtewfhrh.webp',
     readTime: '20 min',
     relatedPosts: ['vidro-laminado-vs-temperado-completo'],
     content: `
