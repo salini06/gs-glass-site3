@@ -19,7 +19,7 @@ const blogArticles: Record<string, any> = {
       
       <p>Quando se trata de escolher vidro para seu projeto residencial, comercial ou industrial, uma das decisões mais importantes é entre vidro laminado e vidro temperado. Ambos são excelentes opções, mas cada um possui características específicas que os tornam ideais para diferentes situações.</p>
 
-      <p>Neste guia completo, a GS Glass Brasil — com mais de 20 anos de experiência em vidraçaria profissional — explica em detalhes as diferenças entre esses dois tipos de vidro, quando usar cada um, questões de segurança, variações de cor, preços e cuidados essenciais na logística.</p>
+      <p>Neste guia completo, a GS Glass Brasil — com mais de 20 anos de experiência em vidraçaria profissional — explica em detalhes as diferenças entre esses dois tipos de vidro, quando usar cada um, questões de segurança, variações de cor e cuidados essenciais na logística.</p>
 
       <h2>1. O Que é Vidro Temperado?</h2>
       
@@ -132,7 +132,7 @@ const blogArticles: Record<string, any> = {
           <tr>
             <td>Custo</td>
             <td>Moderado</td>
-            <td>Mais alto (20-40% a mais)</td>
+            <td>Mais alto</td>
           </tr>
           <tr>
             <td>Aplicações Ideais</td>
@@ -217,7 +217,7 @@ const blogArticles: Record<string, any> = {
       <p>Vantagem: Laminado oferece maior liberdade de design e cores sofisticadas.</p>
 
       <h3>Impacto da Cor no Preço</h3>
-      <p>Cores especiais (bronze, verde escuro, espelhado) aumentam o preço em 10-20% comparado ao incolor.</p>
+      
 
       <h2>6. Preço: Qual é Mais Caro?</h2>
       
@@ -273,7 +273,7 @@ const blogArticles: Record<string, any> = {
         <li>Total: R$ 1.390 - R$ 1.590</li>
       </ul>
 
-      <p>Diferença: Laminado custa ~30% a mais, mas oferece isolamento acústico e proteção UV.</p>
+      
 
       <h2>7. Aplicações: Quando Usar Cada Um</h2>
       
