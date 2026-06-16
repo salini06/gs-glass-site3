@@ -1190,13 +1190,6 @@ export default function BlogPost() {
                     Inscrever-se
                   </button>
                 </form>
-                <div className="mt-8 p-6 bg-gradient-to-r from-green-900/10 to-yellow-600/10 rounded-lg border-l-4 border-yellow-600">
-                  <p className="text-foreground mb-4">Entre em contato conosco para mais informações e orçamento gratuito:</p>
-                  <ul className="space-y-2 text-foreground">
-                    <li><strong>WhatsApp:</strong> <a href="https://wa.me/5511934275767" target="_blank" rel="noopener noreferrer" className="text-yellow-600 hover:text-yellow-700 font-semibold">(11) 93427-5767</a></li>
-                    <li><strong>Email:</strong> <a href="mailto:guilhermesalini@gsglassbrasil.com.br" className="text-yellow-600 hover:text-yellow-700 font-semibold">guilhermesalini@gsglassbrasil.com.br</a></li>
-                  </ul>
-                </div>
               </div>
             </div>
           </div>
