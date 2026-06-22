@@ -27,10 +27,10 @@ const portfolioItems: PortfolioItem[] = [
   },
   {
     id: 'res-04',
-    title: 'Guarda-Corpo em Vidro',
+    title: 'Sacada Premium',
     category: 'residencial',
-    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/residencial-04-guarda-corpo-premium-LmGQ2jfViTFLV2KPyWF2CD.webp',
-    description: 'Guarda-corpos em vidro temperado com acabamento premium'
+    image: 'https://d2xsxph8kpxj0f.cloudfront.net/310519663323771497/Uhd6pDGkHbqnUZLoGMBmqL/sacada-premium-8k-N5gNAuFwZEaNciavmmeA8Z.png',
+    description: 'Sacada moderna com vidro temperado e vistas panorâmicas'
   },
   {
     id: 'res-05',
